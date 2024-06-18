@@ -1,0 +1,41 @@
+Table of Contents
+Concession fees constituted a significant portion of our cost of revenues. Concession fees tend to increase over time, and a significant increase in concession fees will
+increase our cost while our revenues may not increase proportionately, or at all. Therefore, it will be important to our results of operations that we secure and retain these
+concession rights contracts on commercially advantageous terms.
+Important Factors Affecting the Results of Operations of Our Cryptocurrency Mining Business
+The value of cryptocurrencies is determined by market factors, supply of and demand for the units, the prices being set in transfers by mutual agreement or barter among
+transacting parties, as well as the number of merchants that may accept the cryptocurrency. Units of cryptocurrency can be converted to fiat currencies, such as the U.S.
+dollar, at rates determined on Coinbase and various other exchanges. Cryptocurrency prices are quoted on various exchanges and fluctuate with extreme volatility.
+To mine cryptocurrencies such as Bitcoin and Ethereum, specialized computer servers (known as “miners”) need to be acquired and deployed at-scale to support
+blockchain in exchange of rewards in the form of cryptocurrencies. Given the sophistications as well as quantity on demand, the miners can only be built by a few
+manufacturers with required technological specialties and manufacturing capabilities. Hence, miners are continuously in short supplies and a premium over the listed retail
+price is required to secure a purchase of miners in significant quantities.
+Recent Developments
+We plan to restructure our business in 2023 by selling our air travel media network business to Mr. Man Guo, our chairman and interim chief financial officer, and will then
+primarily focus on cryptocurrency mining business. Such restructuring plan has not been considered or approved by our board of directors as of the date of this annual
+report.
+Revenues
+We mainly generate revenues from (1) the sale of advertising time slots and locations on our advertising network and (2) our cryptocurrency mining business
+Fiscal Years Ended December 31,
+2020 2021 2022
+% of % of % of
+Total Total Total
+_Amount__—__ Revenues _ __Amount __ _ Revenues _ —_Amount__—___ Revenues __
+(in thousands of U.S. dollars, except percentages)
+Air travel media network $ 23,474 99.7% $ 9,191 77.9 % 2,768 93.2 %
+Cryptocurrency mining — — 2,604 22.1 — —%
+Other media 72 0.3 % 1 0.0 % 201 6.8 %
+Total revenues 23,546 100.0 % 11,796 100.0 % 2,969 100.0 %
+Business tax and other sales tax (112) (0.5)% (119) (1.0)% (101) (3.4) %
+Net revenues $ 23,434 99.5% $ 11,677 99.0% 2,868 96.6 %
+Revenues
+Our air travel media network revenues from operations in 2020, 2021 and 2022 mainly consisted of revenues from advertising and programming on digital TV screens on
+airplanes and other revenues in air travel.
+Revenues from our air travel media network accounted for 99.7%, 77.9% and 93.2% of our total revenues for the years ended December 31, 2020, 2021 and 2022,
+respectively. As of December 31, 2020, 2021 and 2022, our network consisted of six, five and five airlines, respectively.
+We started our cryptocurrency mining operations in 2021. Revenue from cryptocurrency mining accounted for 22.1% for 2021. In 2022, there was no revenue generated
+from cryptocurrency mining, as we were in the process of transferring the cryptocurrency mining business to U.S. in the same year.
+Revenues from other media were primarily revenues from our trains Wi-Fi advertising promotion, public account promotion, long-haul buses Wi-Fi advertising. Starting
+from early 2018, we gradually ceased our operations of Wi-Fi service on long-haul buses, and scaled down operations in providing Wi-Fi services on trains, which was then
+ceased in 2019.
+

@@ -1,0 +1,54 @@
+Table of Contents
+
+On the other hand, the pandemic has been gradually accelerating cloud adoption as: (i) during the pandemic, people increasingly leverage the internet to fulfill daily
+activities from work, shopping, education to entertainment, which are increasingly supported by cloud infrastructure; (ii) the healthcare industry in China increasingly tap
+into cloud technology to meet the challenges of public health events; and (iii) enterprises and organizations experiencing business or operation fluctuations in the pandemic
+may consider cloud services to obtain more efficacies, better agility and cost control in the mid-to-long run. To embrace these opportunities and mitigate the pandemic’s
+adverse impact to our business, we have been continuously perfecting our scalable core technologies and products and investing into our solutions of selected verticals,
+especially in healthcare, financial services and public services, and we expect to bear fruit in the enormous digitalization market in the long run.
+
+In addition, the pandemic has adversely affected the growth of our customers, especially in the internet sector. Some of our customers have been cutting budgets,
+including budgets for cloud services, to manage their profitability amid the market headwinds. Nonetheless, we are able to mitigate such adverse impacts with our
+positioning and strategies: first, our customers are enterprises, rather than individual consumers, therefore we are not directly impacted by the slowdown of consumer
+demand; moreover, to mitigate the risks associated with fluctuations in enterprises’ demand for our services due to adverse macroeconomic conditions affecting these
+enterprises, we have begun to strategically focus on verticals with great potential for cloud services, particularly financial services, healthcare and public service sectors.
+See also “Item 3 Key Information - 3.D. Risk Factors - Risks Relating to Doing Business in China - A severe or prolonged downturn in the PRC or global economy could
+materially and adversely affect our business, results of operations and financial condition.”
+
+However, the extent of the impact of the COVID-19 pandemic on our operational and financial performance, including our ability to execute our business strategies and
+initiatives, will depend on future developments, including, but not limited to, the duration and spread of the pandemic, its severity, any resurgence of COVID-19, such as
+the resurgence of COVID-19 in China in 2022, and the duration, timing and severity of the impact on customer spending, including any recession resulting from the
+pandemic, all of which are uncertain and cannot be predicted. See “Risk Factors—Risks Relating to Our Business and Industry—Our business is subject to natural disasters,
+extreme weather conditions, health epidemics and other catastrophic incidents, and to interruption by man-made problems such as power disruptions, computer viruses,
+data security breaches or terrorism.”
+
+Key Components of Results of Operations
+Revenues
+
+We derive our revenues primarily from (i) public cloud services and (ii) enterprise cloud services. The following table sets forth a breakdown of our revenues, in
+
+absolute amounts and as percentages of total revenues, for the periods indicated.
+For the Year Ended December 31,
+2020 2021 2022
+RMB % RMB % RMB US$ %
+(in thousands, except for percentages)
+
+Revenues
+Public Cloud Services Revenues 5,166,851 78.5 6,159,085 68.0 5,360,282 777,168 65.6
+
+Enterprise Cloud Services Revenues 1,372,689 20.9 2,897,817 32.0 2,816,976 408,423 34.4
+
+Others 37,767 0.6 3,882 0.0 2,849 413 0.0
+Total Revenues 6,577,307 100.0 9,060,784 100.0 8,180,107 1,186,004 100.0
+
+Public cloud services. We offer public cloud services to customers in various verticals, including, among others, video, gaming, intelligent mobility, e-commerce, AI and
+mobile internet in general. We generally charge our public cloud service customers on a monthly basis based on utilization and duration. We also offer a prepaid
+subscription package over a fixed subscription period.
+
+Enterprise cloud services. We also offer enterprise cloud services to customers engaging in the financial service, public service and healthcare businesses, among
+others. We generally charge our enterprise cloud service customers on a project basis. We also charge enterprise cloud service customers based on performance completed
+to date.
+
+Others. We also record insignificant revenues from other miscellaneous services that we provide on an ad hoc basis, which has not been and is not expected to be
+material to our business.
+

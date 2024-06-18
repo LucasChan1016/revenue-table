@@ -1,0 +1,37 @@
+For the years ended December 31,
+2020 2021 2022
+RMB RMB RMB US$
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net (loss) income (2,680,259) 515,101 (761,994) (110,480)
+Adjustments to reconcile net (loss) income to net cash generated from operating activities:
+Foreign exchange (gain) loss, net (228,125) (110,036) 523,235 75,862
+Depreciation and amortization 988,983 1,267,578 1,595,942 231,390
+Loss on disposal of property and equipment and intangible assets 6,032 6,339 15,592 2,261
+Allowance for doubtful debt 2,393 18,399 35,409 5,134
+Allowance for other receivables _ _ 15,000 2,175
+Share-based compensation expense 136,804 320,010 118,170 17,133
+Impairment of loan receivable to potential investee _— 2,807 _ _—
+Deferred income tax (benefits) expenses (22,508) 325 17,887 2,593
+(Gain) loss from equity method investments (10,869) 38,666 (1,925) (279)
+Distribution received from an equity method investment 17,723 _— 15,232 2,208
+Gain from disposal of equity investments without readily determinable fair value (257) _— _ _—
+Gain from disposal of subsidiaries — (17,153) (1,388) (201)
+Impairment of long-lived assets 81,619 109,267 _— —
+Impairment of long-term investment 13,030 3,495 _ —
+Lease expense 375,112 557,865 508,818 73,772
+Changes in the fair value of convertible promissory notes 2,544,220 (829,149) (22,626) (3,280)
+Changes in operating assets and liabilities, net of effects of acquisitions and disposals:
+Accounts and notes receivable (171,608) (533,323) (381,194) (55,268)
+Prepaid expenses and other current assets (117,110) 73,639 621,973 90,177
+Amounts due from related parties 37,468 (17,502) (6,997) (1,014)
+Accounts and notes payables (13,741) 195,728 220,129 31,916
+Unrecognized tax benefits 66,253 8,877 9,601 1,392
+Accrued expenses and other payables 91,123 315,989 226,893 32,896
+Deferred revenue 5,620 (7,550) 39,383 5,710
+Advances from customers (27,098) 307 116,061 16,827
+Income taxes payable (19,004) 14,742 (1,753) (254)
+Deferred government grants _— 93 5,000 725
+Amounts due to related parties (5,605) 7,431 (992) (144)
+Operating lease liabilities (355,953) (554,023) (465,242) (67,454)
+Net cash generated from operating activities 714,243 1,387,922 2,440,214 353,797
+

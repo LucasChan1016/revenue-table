@@ -1,0 +1,12 @@
+/ Year Ended December 31,
+2020 2021 2022
+' RMB % ' RMB % ' RMB USS %
+: (in thousands, except for percentages)
+Revenues:
+Automobile trading income 624,774 30.4 2,227,172 56.8 1,596,307 231,443 80.6
+Loan facilitation income and other related income 891,837 43.5 1,233,556 31.5 146,429 21,230 7.4
+Leasing income 286,079 13.9 251,295 6.4 155,522 22,549 7.9
+After-market services income 241,193 11.8 193,787 4.9 71,457 10,360 3.6
+Others 8,549 0.4 15,906 0.4 10,739 1,557 0.5
+Total 2,052,432 100.0 3,921,716 100.0 1,980,453 287,139 100.0
+

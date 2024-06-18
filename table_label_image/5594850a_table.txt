@@ -1,0 +1,54 @@
+Table of Contents
+KEY COMPONENTS OF CONSOLIDATED STATEMENTS OF LOSS
+Revenue
+
+We generate revenue from three sources, namely (i) loT PaaS; (ii) smart device distribution; and (iii) SaaS and others. The following table sets forth a breakdown of our
+
+revenue, in absolute amounts and as percentages of total revenue, for the years indicated.
+
+For the year ended December 31,
+2020 2021 2022
+US$ % US$ % US$ %
+(in thousands, except for percentages)
+
+Revenue
+
+IoT PaaS 151,677 84.3 261,360 86.5 152,914 73.5
+Smart device distribution 22,071 12.3 22,153 7.3 25,446 12.2
+SaaS and others 6,126 3.4 18,563 6.2 29,812 14.3
+Total 179,874 100.0 302,076 100.0 208,172 100.0
+
+IoT PaaS. We generate IoT PaaS revenue mainly from the fees charged to customers based on the number of IoT PaaS products we deploy.
+
+Smart device distribution. We generate revenue from sales to select customers on an on-demand basis of finished smart devices with IoT PaaS deployed and sourced
+from qualified OEMs. We strategically position smart device distribution as a way to nurture long-term customer relationships and have historically operated it at a
+relatively moderate scale. As a result, the differences in the revenues from smart distribution services between historical periods have been primarily due to varying timing
+and amounts of the customers’ demands and purchases.
+
+SaaS and others. We generate our SaaS and others revenue mainly from (i) the subscription fees charged to customers of Industry SaaS, and (ii) the fees that we
+receive for certain value-added services we offer to brands and OEMs, such as Al-powered virtual assistants, and cloud-based services we offer directly to end users of
+Tuya-powered smart devices, and for projects such as Cube smart private cloud solution deployment.
+
+Cost of Revenue
+
+Our cost of revenue consists of the costs directly related to providing our products to our customers. These costs and expenses primarily include (i) material costs,
+primarily including the costs relating to the modules where the edge capabilities of loT PaaS are embedded; (ii) third-party cloud infrastructure expenses; (iii) employee-
+related costs, including payroll of production support personnel; and (iv) others, including estimated warranty costs and inventory write-downs, among other things.
+
+The following table sets forth a breakdown of our costs of revenue, in absolute amounts and as percentages of revenue, for the years indicated.
+
+For the year ended December 31,
+2020 2021 2022
+% of % of % of
+US$ revenue US$ revenue US$ revenue
+(in thousands, except for percentages)
+
+Cost of revenue
+IoT PaaS 97,244 54.1 150,486 49.8 89,998 43.2
+Smart device distribution 19,198 10.7 18,849 6.3 22,491 10.8
+SaaS and others 1,495 0.8 4,874 1.6 6,260 3.0
+Total 117,937 65.6 174,209 57.7 118,749 57.0
+
+Our cost of revenue has been and will continue to be affected by a number of factors, including economies of scale, improved efficiency achieved through effective R&D,
+and product mix, among other things.
+

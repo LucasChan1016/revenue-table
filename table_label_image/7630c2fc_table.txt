@@ -1,0 +1,49 @@
+Table of Contents
+
+The Group considers the ultimate beneficiary of its online advertising services as an “advertiser,” meaning the party whose products, brand awareness or marketing
+activities benefited from the execution of advertisement. The Group considers a party that it enters into an advertisement service contract with as its “customer” from
+accounting perspective. As such, the Group treats an advertising agency who enters into an advertisement service contract with it as a customer, and such advertising
+agency may represent and serve multiple advertisers. If an advertiser directly enters into an advertisement service contract with the Group, it will treat such advertiser also
+as a customer.
+
+Revenue disaggregated by revenue source for the years ended December 31, 2020, 2021 and 2022 consists of the following:
+
+Year Ended December 31,
+2020 2021 2022
+(In US$ thousands)
+Advertising and marketing revenues
+Revenues from advertisers signing contracts with the Group directly $ 416,270 $ 478,874 $ 356,503
+Revenues from advertising agencies 1,069,885 1,501,921 1,240,147
+1,486,155 1,980,795 1,596,650
+Value-added services revenues 203,776 276,288 239,682
+Total revenues $ 1,689,931 $ 2,257,083 $ 1,836,332
+
+The Group enters into contracts with its customers, which may give rise to contract assets (unbilled revenue) or contract liabilities (deferred revenue). The payment
+terms and conditions within the Group’s contracts vary by the type and location of its customers and products or services purchased, the substantial majority of which are
+due in less than one year. Deferred revenues related to unsatisfied performance obligations at the end of the period are mainly from the customer advance of the
+advertising and marketing services and the sales of the fee-based services, such as membership, live streaming, and virtual currency or in-game virtual items sold for game
+related services. The deferred revenues are recognized based on customers’ consumption or amortized on a straight-line basis through the service period for different
+products/services. Due to the generally short-term duration of the contracts, the majority of the performance obligations are satisfied in the following reporting period. The
+amount of revenue recognized that was included in the deferred revenue balance at the beginning of the period was US$91.5 million, US$126.5 million and US$56.1 million
+for the years ended December 31, 2020, 2021 and 2022, respectively.
+
+Practical Expedients and Exemptions
+
+The Group generally expenses sales commissions when incurred because the amortization period is generally one year or less. These costs are recorded within sales
+and marketing expenses.
+Advertising and marketing revenues
+
+Advertising and marketing revenues are derived principally from online advertising, including social display ads and promoted marketing. Social display ad
+arrangements allow customers to place advertisements on particular areas of the Group’s platform or website in particular formats and over particular periods of time,
+which is typically no more than three months. The Group enters into cost per mille (“CPM”), or cost per thousand impressions, advertising arrangements with the
+customers, under which the Group recognizes revenues based on the number of times that the advertisement has been displayed. The Group also enters into cost per day
+(“CPD”) advertising arrangements with customers, under which the Group recognizes revenues ratably over the contract periods. Promoted marketing arrangements are
+primarily priced based on CPM. Under the CPM model, customers are obligated to pay when the advertisement is displayed.
+
+The Group’s majority revenue transactions are based on standard business terms and conditions, which are recognized net of agency rebates. The agency rebates
+are accounted for as variable consideration and are estimated during interim periods based on estimated annual revenue volume of each individual agent with reference to
+their historical results, which involves accounting judgment. The Group believes its estimation approach in variable consideration results in revenue recognition in a
+manner consistent with the underlying economics of the transaction.
+
+F-15
+

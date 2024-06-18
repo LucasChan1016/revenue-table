@@ -1,0 +1,9 @@
+For the Year Ended December 31,
+2020 2021 2022
+US$ % US$ % US$ %
+(in thousands, except for percentages)
+Cloud computing services and products 64,345 34.5 94,813 39.6 119,635 34.9
+Subscriptions 84,299 45.1 91,174 38.0 100,557 29.4
+Live streaming and other internet value-added services 38,039 20.4 53,614 22.4 122,372 35.7
+Total 186,683 100.0 239,601 100.0 342,564 100.0
+

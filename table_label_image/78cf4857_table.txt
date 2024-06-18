@@ -1,0 +1,55 @@
+Table of Contents
+Key Components of Results of Operations
+Revenue
+
+We generate revenue primarily through (i) advertising, (ii) paid membership, (iii) content-commerce solutions, (iv) vocational training, and (v) other services. The
+
+following table sets forth a breakdown of revenue by type both in absolute amount and as a percentage of our revenue for the periods indicated.
+
+For the Year Ended December 31,
+
+2020 2021 2022
+RMB % RMB % RMB US$ %
+
+(in thousands, except percentages)
+Revenue
+Advertising 843,284 62.4 1,160,886 39.2 926,296 134,300 25.7
+Paid membership 320,471 23.7 668,507 22.6 1,230,804 178,450 34.1
+Content-commerce solutions 135,813 10.0 973,986 32.9 1,030,184 149,363 28.6
+Vocational training) 7,080 0.5 45,823 1.6 248,266 35,995 6.9
+Others“) 45,548 3.4 110,122 3.7 169,369 24,556 4.7
+Total 1,352,196 100.0 2,959,324 100.0 3,604,919 522,664 100.0
+Note:
+(1) We separately reported the revenue of our vocational training business, which was formerly included in “others,” and for comparison purposes, the revenue of vocational training business and the
+
+revenue for others for years ended December 31, 2021 and 2020 have been retrospectively re-classified.
+
+Advertising. We generate revenue from advertising services. Our advertising revenue is primarily driven by our MAUs and advertising revenue per MAU. We
+experienced fluctuation in our advertising revenue in 2022 primarily due to the challenging macroeconomic environment in China, which negatively impacted the spending
+power of our business customers.
+
+Our advertisers are generally attracted by, among other things, the expanding user base, high-quality user profiles, and the content generated in our community.
+They typically select target audience based on user profiles and review performance indices instead of specifying target content category or monitoring other similar
+metrics. We do not believe that we have concentration in terms of user profiles. The pricing of our advertising is determined based on our internal marked price guidelines
+that are updated from time to time. The guidelines generally take into consideration factors including, among other things, nature and type of advertisers, products and
+services to be marketed, prior relationships, level of comparable demands, and scale of orders, and are implemented based on marked price for our advertising services.
+
+Paid Membership. We generate substantially all of our paid membership revenue from Yan Selection membership fees. The following table sets forth our average
+MAUs, average monthly subscribing members, and paying ratio for the periods indicated.
+
+For the Year Ended December 31,
+2019-2021
+2020 2021 2022 CAGR
+Average MAUs (in millions) 68.5 95.9 101.3 21.6 %
+Average monthly subscribing members (in thousands) 2,362.6 5,076.0 9,806.9 103.7 %
+Paying ratio 3.4 5.3 9.7 68.9 %
+
+We formally launched our Yan Selection membership program in March 2019, and since then have continued to enhance the volume and quality of our premium
+content. The increase in paid membership revenue during the periods primarily reflected the continued increases in our MAUs as well as the paying ratio. In particular, the
+continued increase in paying ratio reflects the wider acceptance of the paid membership among our community.
+
+Content-Commerce Solutions. We generate content-commerce solutions revenue primarily from service fees from our Zhi+ solutions. We formally launched our
+content-commerce solutions in early 2020. The content-commerce solutions have demonstrated strong growth momentum since the launch. Our revenue from content-
+commerce solutions increased from RMB135.8 million in 2020 to RMB974.0 million in 2021, and further to RMB1,030.2 million (US$149.4 million) in 2022, primarily driven
+by the increasing number of our MAUs and average content-commerce solutions revenue per MAU.
+

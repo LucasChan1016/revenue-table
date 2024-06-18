@@ -1,0 +1,12 @@
+For the year ended December 31,
+2020 2021 2022
+% of % of % of
+US$ revenue US$ revenue US$ revenue
+(in thousands, except for percentages)
+
+Cost of revenue
+IoT PaaS 97,244 54.1 150,486 49.8 89,998 43.2
+Smart device distribution 19,198 10.7 18,849 6.3 22,491 10.8
+SaaS and others 1,495 0.8 4,874 1.6 6,260 3.0
+Total 117,937 65.6 174,209 57.7 118,749 57.0
+

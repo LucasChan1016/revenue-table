@@ -1,0 +1,50 @@
+quarantine measures put in place during this period, normal economic activity throughout China was sharply curtailed and normal in-school education was temporarily suspended. Substantially all of our revenues and our
+workforce are concentrated in China. Consequently, to the extent that COVID-19 exerts long-term negative impact on the Chinese economy, our results of operations and financial performance may be adversely affected. Since
+we lease offices in certain Chinese cities to support our online after-school tutoring service operation, research and development and daily operations, the COVID-19 outbreak caused temporary office closures and rotation
+arrangements, resulting in lower work efficiency and productivity. We also incurred insignificant costs in relation to the measures we took to reduce the impact of this epidemic outbreak, including purchasing personal protective
+equipment, upgrading our technology system to support the growth in online courses, monitoring our employees’ health, and rotation arrangements to avoid infection transmission. These costs were immaterial to our business
+and results of operations.
+
+Due to the public health concerns and the need for higher efficiency from relevant governmental authorities, schools and other stakeholders in the education industry, there has been an accelerating demand for online after
+school tutoring services in China since the outbreak of COVID-19. During the COVID-19 lock-down period, many students were prompted to engage in online education as they study at home, and an increasing number of
+parents and students therefore realized the efficiency and the effectiveness of online education, which accelerated the shift to online education.
+
+While the outbreak of COVID-19 has come under control in the PRC since the second quarter of 2020, there was a significant rise in COVID-19 cases, including the COVID-19 Delta and Omicron variant cases, in various
+cities in China in early 2022. The local governments of the affected cities, including Shanghai, reinstated certain COVID-related measures, including travel restrictions and stay-at-home orders. As China began to relax its “zero-
+COVID” policy at the end of 2022, most of the travel restrictions and quarantine requirements were lifted in December 2022. As a result of the policy shift, there were significant surges of COVID-19 cases in many cities in China
+during this time, which disrupted our operations due to an increased number of employees contracted with COVID-19. As a company headquartered in Shanghai, our results of operations and financial outlook may be adversely
+affected by the COVID-19 outbreak. The extent to which COVID-19 impacts our financial position, results of operations and cash flows in future periods will depend on the future developments of the COVID-19 outbreak,
+including any potential future variants of the virus, the effectiveness of the mass vaccination programs, the development in medical treatment and other actions taken to contain its spread, which are highly uncertain and
+unpredictable. If there is not a material recovery in the COVID-19 situation our business, results of operations and financial condition could be materially and adversely affected.
+
+For more information, see “Item 3. Key Information —3.D. Risk Factors—Risks Relating to Our Business and Industry —We face risks related to natural and other disasters, health epidemics, and other extraordinary events,
+such as the COVID-19 pandemic, which could significantly disrupt our operations.” and “Item 3. Key Information—3.D. Risk Factors—A severe and prolonged global economic recession and the slowdown in the Chinese
+economy may adversely affect our business and results of operations.”
+
+113
+Key Components of Results of Operations
+
+The disposal of the K-12 Business, together with the accompanying internal reorganization, are crucial steps for us to fully comply with the latest PRC regulatory requirements. As a result, the historical financial results of
+our K-12 Business are reflected in our audited consolidated financial statements as discontinued operations accordingly. Unless otherwise stated, the financial information and non-GAAP financial measures disclosed in this
+annual report refer to our continuing operations.
+
+Net Revenues
+
+In order to fully comply with applicable PRC regulatory requirements adopted by the PRC government, we disposed our K-12 Business in the third quarter of 2022. After such disposal, we mainly offer STEAM courses from
+which we continue to generate net revenues in the form of tuition fees.
+
+We derived substantially all of our net revenues from the course fees that we charge to our students aged from 6 to 10 for the STEAM courses operated through +Zhangmen Kids. Our other net revenues consist of course
+fees from our other tutoring programs, primarily including our Al-powered STEAM courses (operated through Xiaoli), and sales of our smart devices. The following table sets forth a breakdown of our total net revenues by
+amounts and percentages for the periods presented:
+
+For the Year Ended December 31,
+
+2020 2021 2022
+RMB % RMB % RMB US$ %
+(in thousands, except for percentages)
+Zhangmen Kids 200,059 92.7 237,762 79.4 86,212 12,500 88.5
+Others 15,691 7.3 61,534 20.6 11,154 1,617 11.5
+Total net revenues 215,750 100.0 299,296 100.0 97,366 14,117 100.0
+We generally collect tuition fees in advance, which we initially record as deferred revenues. We recognize revenues generated from our courses proportionally as the classes are delivered.
+Cost of revenues
+

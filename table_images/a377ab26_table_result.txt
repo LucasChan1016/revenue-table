@@ -1,0 +1,13 @@
+For the Year Ended December 31,
+2020 2021 2022
+RMB % RMB % RMB US$ %
+(in thousands, except percentages)
+Revenues:
+Recommendation services:
+Loans 109,814 18.7 167,483 20.8 258,069 37,416 26.1
+Credit cards 294,567 50.3 407,759 50.7 473,673 68,676 47.9
+Total recommendation services 404,381 69.0 575,242 71.5 731,742 106,092 74.0
+Big data and system-based risk management services 144,227 24.6 130,408 16.2 96,917 14,052 9.8
+Marketing and other services 37,154 6.4 99,397 12.3 161,016 23,345 16.2
+Total revenues 585,762 100.0 805,047 100.0 989,675 143,489 100.0
+

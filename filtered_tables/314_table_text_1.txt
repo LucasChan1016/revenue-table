@@ -1,0 +1,23 @@
+Property and equipment, including those held under finance leases, consisted of the following:
+As of December 31,
+
+2021 2022
+
+RMB RMB US$
+At cost:
+Property 1,778,377 2,236,257 324,227
+Leasehold improvements 3,302,883 4,819,257 698,727
+Computer and network equipment 5,923,149 7,577,082 1,098,574
+Optical fibers 142,723 142,723 20,693
+Office equipment 32,561 87,093 12,627
+Motor vehicles 3,959 4,098 594
+
+11,183,652 14,866,510 2,155,442
+
+Less: Accumulated depreciation (4,206,943) (5,548,663) (804,482)
+
+6,976,709 9,317,847 1,350,960
+Construction-in-progress 3,239,407 2,770,348 401,663
+Impairment (123,697) (123,697) (17,934)
+Property and equipment, net 10,092,419 11,964,498 1,734,689
+

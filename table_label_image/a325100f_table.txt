@@ -1,0 +1,44 @@
+Table of Contents
+KEY COMPONENTS OF RESULTS OF OPERATIONS
+Revenues
+The following table sets forth our revenue by segment for the periods indicated.
+For the year ended December 31,
+2020 2021 2022 2022
+RMB RMB RMB US$
+(in thousands)
+
+Net revenues:
+Games and related value-added services 58,719,895 67,819,288 74,566,471 10,811,122
+Youdao 3,167,515 5,354,357 5,013,182 726,843
+Cloud Music 4,895,731 6,997,622 8,992,221 1,303,749
+Innovative businesses and others 6,883,992 7,434,759 7,923,935 1,148,863
+Total net revenues 73,667,133 87,606,026 96,495,809 13,990,577
+
+Effective as of the second quarter of 2022, we implemented certain changes to align segment financial reporting more closely with the manner in which our
+management currently receives and uses financial information to allocate resources and evaluate the performance of reporting segments. We renamed our “online game
+services” segment as “games and related value-added services,” and transferred certain business lines that are related or ancillary to games from “innovative businesses
+and others” to “games and related value-added services,” including the NetEase CC live streaming service (a platform offering various live streaming content with a
+primary focus on game broadcasting) and other value-added services. We retrospectively recast prior periods’ segment information to conform to current period
+presentation.
+
+We generate our revenues from the provision of games and related value-added services, Youdao, Cloud Music and other innovative businesses and others. No
+customer individually accounted for greater than 10% of our total revenues for the years ended December 31, 2020, 2021 and 2022.
+
+Games and Related Value-added Services
+
+We generate our mobile game revenues primarily from the sale of in-game virtual items, including avatars, skills, privileges or other in-game consumables, features
+or functionalities, within the games. We distribute our mobile games through partnerships with major Android- and iOS-based app stores as well as proprietary distribution
+channels, such as our mobile apps and websites. Users have a variety of payment options for in-game virtual items, including using prepaid points or by making online
+payments through app stores and other online payment channels. Our mobile game portfolio now consists of over 100 diverse games, and we expect to continue introducing
+new mobile games each year for the foreseeable future, which we believe will contribute to future growth in net revenues from this segment.
+
+We generate revenues from our PC games mainly through sales of prepaid points. Customers can purchase prepaid points on our NetEase online platforms through
+debit or credit cards or online payment platforms through which players can directly credit points to their accounts. Customers also can purchase virtual or physical point
+cards through our third-party retailers. Customers can use the points to play our PC games, either to pay for playing time or to purchase virtual items within the games,
+and use our other fee-based services.
+
+We also generate revenue from services which are related or ancillary to the operation of our games such as the NetEase CC live streaming service (a platform
+offering various live streaming content with a primary focus on game broadcasting) and other value-added services.
+
+124
+

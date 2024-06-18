@@ -1,0 +1,51 @@
+Table of Contents
+
+As of December 31, 2022, we had RMB34,326.2 million (US$4,976.8 million) in cash and cash equivalents and RMB115,112.6 million (US$16,689.8 million) in short-
+term investments. Our short-term investments mainly include time deposits and wealth management products in financial institutions, which are highly liquid. We believe
+this level of liquidity is sufficient to successfully navigate an extended period of uncertainty. See also “Item 3. Key Information—D. Risk Factors—Risks Related to Our
+Business and Industry—We face risks related to natural disasters, health epidemics and other outbreaks, most notably those related to the outbreak of COVID-19, which
+could significantly disrupt our operations.”
+Key Line Items and Specific Factors Affecting Our Results of Operations
+Revenues
+
+Under our current business model, we generate revenues primarily from online marketing services. We also generate revenues from transaction services and
+merchandise sales. The following table sets forth the components of our revenues by amounts and percentages of our total revenues for the periods presented:
+
+For the Year Ended December 31,
+2020 2021 2022
+RMB % RMB % RMB US$ %
+(in thousands, except for percentages)
+
+Revenues:
+Online marketing services and others 47,953,779 80.6 72,563,402 77.2 102,721,924 14,893,279 78.7
+Transaction services 5,787,415 9.7 14,140,449 15.1 27,626,494 4,005,465 21.2
+Merchandise sales _ 5,750,671 9.7 7,246,088 77 209,171 80,3270
+Total revenues __59,491,865 100.0 93,949,939 100.0 130,557,589 18,929,071 __ 100.0
+
+Online marketing services and others. We provide merchants with performance-based marketing services that match product listings appearing in search or
+browser results on our online marketplace. The placement and the price for such placement are determined through an online bidding system. Revenues from online
+marketing services and others depend on spontaneous decisions made by the millions of merchants on our platforms based on different marketing opportunities.
+
+Transaction services. We charge merchants fees for transaction-related services that we provide to merchants on our platform. To better serve our merchants, we
+are focused on introducing them to more of our value-added services based on their transaction needs. In addition, as part of our continued efforts to improve user
+experience, we reward merchants who sell high-quality products and provide superb services with preferential fee rates. Fee rates are not necessarily fixed and may vary
+based on a number of factors, including the category of the goods sold, the sellers’ transaction performance, and the attribution of the consumption scenarios, among
+others.
+
+Merchandise sales. We generated a small portion of revenues from direct sales, whereby we acquired products from suppliers and sold them directly to the
+customers. We have scaled down this aspect of our business.
+Costs of revenues
+
+The following table sets forth the components of our costs of revenues by amounts and percentages of costs of revenues for the periods presented:
+
+For the Year Ended December 31,
+2020 2021 2022
+RMB % RMB % RMB US$ %
+(in thousands, except for percentages)
+Costs of revenues:
+Payment processing fees (1,545,564) 8.0 (3,108,086) 9.8 (3,450,929) (500,338) 11.0
+Costs associated with the operation of our platform and
+others (17,733,077) 92.0 (28,610,007) 90.2 (28,011,369) (4,061,266) 89.0
+
+Total costs of revenues (19,278,641) 100.0 (31,718,093) 100.0 (31,462,298) (4,561,604) 100.0
+

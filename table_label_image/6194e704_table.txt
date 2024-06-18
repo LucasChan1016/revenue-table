@@ -1,0 +1,42 @@
+Table of Contents
+Our ability to control our costs and operating expenses.
+
+Our results of operations depend on our ability to control our costs and operating expenses. We expect our bandwidth costs to increase as we grow our business, in
+particular CDN business, although we expect such costs to be partly offset by the fact that we expect to source an increasing amount of bandwidth from our cloud
+computing services. In addition, our operating expenses are expected to increase in the future, since we expect an increase in marketing expense in a competitive
+environment and an increase in employee compensation to attract talents. We plan to continue to invest in research and development to maintain our technology
+leadership, especially to increase our research and development expenses and sales and marketing expenses in relation to our cloud computing, subscription and live
+treaming businesses.
+
+Description of certain statement of operations items
+Revenues
+
+We derive our revenues primarily from cloud computing services and products, subscription services, and live streaming and other internet value-added services,
+which consist primarily of live streaming services, online advertising services, online games and other technical services. With a view to better presenting our revenues, we
+reclassified our revenues for the purpose of analysis at the beginning of 2022 by re-grouping previous four types, i.e. subscriptions, online advertising, product revenue, and
+cloud computing and other internet value-added services, into three types, i.e. cloud computing, subscriptions, and live streaming and other internet value-added services.
+Revenues in each of 2021 and 2020 have been retrospectively reclassified so that the numbers can be compared and analyzed. The following table sets forth the principal
+components of our total revenues by amounts and percentages of our revenues for the periods presented.
+
+For the Year Ended December 31,
+2020 2021 2022
+US$ % US$ % US$ %
+(in thousands, except for percentages)
+Cloud computing services and products 64,345 34.5 94,813 39.6 119,635 34.9
+Subscriptions 84,299 45.1 91,174 38.0 100,557 29.4
+Live streaming and other internet value-added services 38,039 20.4 53,614 22.4 122,372 35.7
+Total 186,683 100.0 239,601 100.0 342,564 100.0
+
+Cloud computing services and products. Revenues from cloud computing services and products increased from US$64.3 million in 2020 to US$94.8 million in 2021
+and further to US$119.6 million in 2022. For cloud computing services, we recognize revenue when we provide bandwidth to our customers. We started to generate
+revenue from cloud computing services and products in 2015 and the revenue from cloud computing services and products in 2022 accounted for 34.9% of our total
+revenues, representing an increase of 26.2% on a year-over-year basis, primarily due to our expanded service capacity and increased demand from our major customers.
+
+Subscriptions. We introduced our subscription services in March 2009. We generate revenues from providing our users with exclusive services, such as access to
+high-speed online transmission, premium acceleration or access privileges, for a time-based subscription fee. The standard subscription fee is RMB10 (US$1.5) per month
+or RMB99 (US$14.6) per year, and we also offer premium subscription packages with prices at RMB15 (US$2.2) per month or RMB149 (US$22.0) per year or RMB30
+(US$4.4) per month or RMB288 (US$41.4) per year to cater to subscribers’ different demand for acceleration speed and user experience, which are becoming increasingly
+popular among our subscribers. Our subscription revenues, as a percentage of our revenues, decreased from 45.1% in 2020 to 38.0% in 2021 and further to 29.4% in 2022.
+
+124
+

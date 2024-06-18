@@ -1,0 +1,41 @@
+Table of Contents
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+(All amounts in thousands, except share, ADS, per share and per ADS data, unless otherwise stated)
+2. Principal accounting policies (continued)
+(0) Revenue
+On January 1, 2018, the Group adopted ASC 606, “Revenue from Contracts with Customers” using the modified retrospective method
+applied to those contracts which were not completed as of January 1, 2018. Results for reporting periods beginning after January 1,
+2018 are presented under Topic 606, while prior period amounts are not adjusted and continue to be reported in accordance with the
+Company’s historic accounting under Topic 605. Based on the Company’s assessment, the adoption of ASC 606 did not have any
+material impact to the Group’s consolidated financial statements and there were no material differences between the Company’s
+adoption of ASC 606 and its historic accounting under ASC 605.
+Revenues are recognized when control of the promised virtual items or services is transferred to the Group’s customers, in an amount
+that reflects the consideration the Group expects to be entitled to in exchange for those virtual items or services. The following table
+disaggregates the Group’s revenue by major type for the years ended December 31, 2020, 2021 and 2022:
+For the year ended December 31,
+2020 2021 2022
+RMB RMB RMB
+Live streaming 10,311,624 10,186,204 8,195,907
+Other revenues (i) 602,750 1,165,242 1,024,555
+Total 10,914,374 11,351,446 9,220,462
+(i) Other revenues mainly include advertising, sub-licensing and online games revenues.
+Revenue recognition and significant judgments
+(i) Live streaming
+The Group is principally engaged in operating its own live streaming platforms, which enable broadcasters and viewers to interact with
+each other during live streaming. It generates revenue primarily from sales of virtual items in the platforms. The Group has a recharge
+system for users to purchase the Group’s virtual currency, which can then be utilised to purchase virtual items for use on the live
+streaming platforms. Users can recharge via various online payment platforms, including WeChat Pay, AliPay and other payment
+platforms. Virtual currency is non-refundable and without expiry. As the virtual currency is often consumed soon after it is purchased
+based on history of turnover of the virtual currency, the Group considers it does not expect to be entitled to a breakage amount for the
+virtual currency. Unconsumed virtual currency is recorded as deferred revenue. Virtual currencies used to purchase virtual items are
+recognized as revenue according to the prescribed revenue recognition policies of virtual items addressed below unless otherwise
+stated. The Group shares a portion of the sales proceeds of virtual items (“revenue sharing fee”) with broadcasters and talent agencies
+which recruit and manage broadcasters in accordance with their revenue sharing arrangements.
+The Group evaluates and determines that it is the principal and views users to be its customers in the revenue generating arrangement
+and the Group reports live streaming revenues on a gross basis. Accordingly, the amounts billed to users are recorded as revenues and
+revenue sharing fee paid/payable to broadcasters and talent agencies are recorded as cost of revenues. Where the Group is the
+principal, it controls the virtual items before they are transferred to users. Its control is evidenced by the Group’s sole ability to monetize
+the virtual items before they are transferred to users, and is further supported by the Group being primarily responsible to users and
+having a level of discretion in establishing pricing.
+F - 26
+

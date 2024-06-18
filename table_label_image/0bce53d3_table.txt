@@ -1,0 +1,47 @@
+Table of Contents
+
+As one of the largest enterprise VPN service providers in the Asia Pacific region, we have experienced and expect continual growth in this market to meet
+customers’ growing demand for enterprise-grade VPN services with secure, dedicated connections. Key growth drivers include adding new customers, increasing the
+number of connections with existing customers and realizing revenue synergies with our other business groups.
+
+Our Cost Structure
+
+Our ability to maintain and improve our gross margins depends on our ability to effectively manage our cost of revenues, which consist of telecommunications costs
+and other data center related costs. Telecommunications costs consist of (i) expenses associated with acquiring bandwidth and related resources from carriers for our data
+centers, and (ii) rentals, utilities and other costs in connection with the cabinets we lease from our partnered data centers. Other data center related costs include utilities
+and rental expenses for our self-built data centers, employee payroll, depreciation and amortization of our property and equipment, and other related costs. The changes in
+these costs usually reflect the changes in the number of cabinets under management and our headcount.
+
+The mix of self-built data centers and partnered data centers also affects our cost structure. The gross margin for cabinets located in our partnered data centers is
+generally lower than that of cabinets located in our self-built data centers. This is because telecommunication carriers who lease cabinet spaces to us for our partnered
+data centers typically demand a profit on top of their costs in connection with the leasing of cabinet spaces to us. We plan to continue to lease data centers from such
+carriers or purchase data center facilities to meet the immediate market demand while building new or expanding our existing self-built data centers in Beijing, Shanghai,
+Shenzhen, Guangzhou, Yangtze Delta, and the Greater Bay Area. If we cannot effectively manage the market demand and increase the number of cabinets located in self-
+built data centers relative to partnered data centers, we may not be able to improve our gross margins.
+
+Impact of the COVID-19 Pandemic on Our Business
+
+The COVID-19 pandemic has not interrupted or affected the operation of our existing data centers or ability to provide our data center services to our customers.
+We had temporary suspensions of our sales and marketing activities, construction activities and business travel to ensure the safety and health of our employees in January
+and February of 2020. Since March 2020, these activities began returning to normal levels, and by the end of the second quarter of 2020 had largely returned to normal
+levels. After the initial outbreak of COVID-19, from time to time, especially since late 2021 and throughout 2022, there were resurgences of COVID-19 in many areas of
+China, particularly due to the Delta and Omicron variants. During the COVID-19 pandemic, we had to implement remote working arrangements and suspend our offline
+customer acquisition activities and business travels, which temporarily impacted our operations. We have experienced slower cash collection for administrative reasons as a
+result of the COVID-19 pandemic, unrelated to our customers’ ability to pay, which has resulted in an increase in our accounts receivable. See “Item 5. Operating and
+Financial Review and Prospects—B. Liquidity and Capital Resources—Cash Flows and Working Capital—Operating Activities.” In late 2022, China modified its zero-COVID
+policy, and most of the travel restrictions and quarantine requirements were lifted in December 2022. There remains uncertainty as to the future impact of the virus,
+especially in light of this change in policy. See “Item 3. Key Information—D. Risk Factors —Risks Relating to Our Business and Industry—The COVID-19 pandemic could
+materially and adversely affect our business, financial condition and results of operations.” While the COVID-19 pandemic has not materially or adversely affected our
+business, results of operations or financial condition, whether the pandemic will have any such material or adverse impact on us going forward will depend on future
+developments, which are highly uncertain and cannot be predicted. As of the date of this document, we are not aware of any material or adverse effect on our financial
+condition as a result of the COVID-19 pandemic.
+
+Key Components of Results of Operations
+Net Revenues
+The following table sets forth our net revenues for the years presented:
+For the Years Ended December 31,
+2020 2021 2022
+RMB RMB RMB US$
+(in thousands)
+Net revenues 4,829,019 6,189,801 7,065,232 1,024,362
+

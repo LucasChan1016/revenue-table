@@ -1,0 +1,59 @@
+Table of Contents
+Invesiment in technology and talents
+
+Our technology is critical for us to better understand our users, improve user experience, maintain a vibrant community, and
+execute our commercialization strategy. Our current research and development efforts in technology are primarily focused on enhancing our
+artificial intelligence technology, big data analytics capabilities, cloud technology and game development capability, which we believe are
+crucial for us to develop user insights so as to provide more relevant and engaging content to our users and to improve our operating
+efficiency. In addition, there is a strong demand in China’s internet industry for talented and experienced personnel. We must recruit, retain
+and motivate talented employees while controlling our personnel-related expenses, including share-based compensation expenses.
+
+Impact of COVID-19 on Our Operations and Financial Performance
+
+The COVID-19 pandemic has had, and, together with any subsequent outbreaks driven by new variants of COVID-19, may
+continue to have, a significant impact on our operations and financial results. The potential downturn brought by and the duration of the
+COVID-19 pandemic may be difficult to assess or predict where actual effects will depend on many factors beyond our control. The extent to
+which the COVID-19 pandemic impacts our long-term results remains uncertain, and we are closely monitoring its impact on us.
+
+In 2020, COVID-19 had the following impacts, among other things, on our business operations, (i) lock-downs in affected regions
+disrupted our supply chain, delayed our ability to timely fulfill our e-commerce orders and led to higher fulfilment expenses, (ii) increased the
+volatility of our customers’ demand for our advertising services and their advertising expenditure patterns from period-to-period, (iii) increased
+the volatility of the size and engagement of our active user base, and caused us to incur higher bandwidth costs, and (iv) led to delays in
+production and uncertainty in scheduling of content of our licensed content providers, which in turn had a negative impact on our premium
+membership subscription and the amount of advertising sponsorship received by us. Underpinned by improved advertiser sentiment, following
+the effective control of the domestic outbreaks, the resumption of business activities and the gradual recovery of the general economy in
+China in 2021, our advertising service and supply chain gradually recovered. Despite the resurgence of COVID-19 in certain cities in China,
+our revenues from advertising increased from 2021 to 2022, which was primarily attributable to further recognition of Bilibili’s brand name in
+China’s online advertising market, as well as our improved advertising efficiency.
+
+China began to modify its COVID control policy at the end of 2022, and most of the travel restrictions and quarantine
+requirements were lifted in December 2022. There remains uncertainty as to the future impact of the virus. The extent to which the COVID-19
+pandemic impacts our long-term results will depend on future developments which are highly uncertain, unpredictable and beyond our control,
+including the frequency, duration and extent of outbreaks of COVID-19, the appearance of new variants with different characteristics, the
+effectiveness of efforts to contain or treat cases, and future governmental actions that may be taken in response to these developments, and
+measures to stimulate the general economy to improve business condition especially for small businesses. See also “Item 3. Key Information
+—D. Risk Factors—Risks Related to Our Business and Industry—We face risks related to natural disasters, health epidemics and other
+outbreaks, such as the COVID-19 pandemic, which could significantly disrupt our operations.”
+
+Key Components of Results of Operations
+Net revenues
+
+The following table sets forth the components of our net revenues by amounts and percentages of our total net revenues for the
+
+periods presented:
+For the Year Ended December 31,
+2020 2021 2022
+RMB % RMB % RMB US$ %
+“~~ "(in thousands, exceptfor percentages)
+
+Net revenues:
+
+Mobile games 4,803,382 40.0% 5,090,926 26.3% 5,021,290 728,019 22.9%
+
+VAS 3,845,663 32.0% 6,934,886 35.8% 8,715,170 1,263,581 39.8%
+
+Advertising 1,842,772 15.4% 4,523,421 23.38% 5,066,212 734,532 23.1%
+
+E-commerce and others 1,507,159 126% 2,834,451 14.6% 3,096,495 448,949 14.2%
+Total net revenues 11,998,976 100.0% 19,383,684 100.0% 21,899,167 3,175,081 100.0%
+

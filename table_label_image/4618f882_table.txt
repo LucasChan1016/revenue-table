@@ -1,0 +1,60 @@
+Table of Contents
+
+As of December 31, 2022, we had cash, cash equivalents and restricted cash of RMB456.7 million (US$66.2 million). We believe this
+level of liquidity is sufficient to successfully navigate an extended period of uncertainty. See “Item 3. Key Information—D. Risk Factors—Risks
+Related to Our Business and Industry—We face risks related to natural disasters, health epidemics and other outbreaks, which could
+significantly disrupt our operations.”
+
+Key Components of Results of Operations
+
+Revenues
+Revenues are comprised of sale of merchandise, net, marketplace revenue and other revenues. The following table sets forth the
+
+components of our revenues by amounts and percentages of our total revenues for the periods presented:
+
+For the Year Ended December 31,
+2020 2021 2022
+RMB % RMB % RMB US$ %
+(in thousands, except for percentages)
+
+Revenues:
+
+Sale of merchandise, net 4,829,397 87.3 1,798,882 83.5 965,796 140,027 83.7
+Marketplace revenue 599,895 10.8 321,844 149 170,561 24,729 14.8
+Other revenues() 100,965 1.9 34,635 1.6 17,757 2,574 1.5
+
+Total 5,530,257 100.0 2,155,361 100.0 1,154,114 167,330 100.0
+
+Notes:
+
+(1) | Starting from 2021, revenue from membership program is combined into other revenues and is no longer a separate revenue line.
+Revenue breakdown for previous years presented in this annual report have been adjusted to be presented in the same manner.
+Revenues generated from sales of most products on our platform are recorded as revenues from sale of merchandise, net of discounts,
+
+coupons, referral incentives provided to members, return allowances and VAT. We acquire products from suppliers and sell them to users. For
+
+our private label products, we acquire products from suppliers and sell them to users both on our platform and through external channels. We
+expect revenues generated from sale of merchandise will continue to account for a majority of our total revenues.
+
+In the first quarter of 2019, we launched our marketplace business, allowing third-party merchants to sell their products on the platform
+and pay commissions on their sales to us. The revenues from the marketplace business are recognized on a net basis.
+
+Other revenues include revenues from membership program and revenues earned on net basis from sales of certain products on our
+platform, such as air tickets. We earn membership fees from our members, who pay a fixed fee in exchange for (1) a package of selected
+products, (2) the right to receive member exclusive discounts for products sold on our flagship Yunji app, (3) access rights to our flagship Yunjj
+app and its member-exclusive features, (4) the right to receive units of Yun-coin upon a successful new member referral, (5) member
+exclusive training, and (6) certain units of Yun-coin. Yun-coin can only be used as credits when making purchases on our platform, with one
+unit of Yun-coin representing RMB1.00. Yun-coins cannot be redeemed for cash. Members may transfer Yun-coins to others for free. In order
+to stimulate our users’ interest in transacting on our platform and attract more members, starting in January 2020, we refined our membership
+enrollment system by allowing any user to become a member and enjoy membership benefits free of charge for one year by simply registering
+for an account on the Yunji app. If the user meets a certain cumulative spending threshold or certain other requirements during the initial
+one-year period, the user may extend his or her membership for an extra year. As a result of the refinement of our membership enrollment
+system in 2020, revenues from membership program in 2020 were from deferred revenue of prior paying members. We have ceased allowing
+users to become members free of charge since April 1, 2021 and required new users and renewing members to pay an annual membership
+fee to become or continue as a member and enjoy membership benefits until September 2022. Starting from October 2022, one can become
+a member of our platform by accepting invitation from existing members, and continued membership eligibility will be contingent upon meeting
+a certain cumulative spending threshold or certain other requirements. In addition, members who became members through purchasing a
+membership package are now referred to as our diamond members and enjoy free lifelong membership and membership benefits. As a result,
+during the period from April 1, 2021 to September 30, 2022, revenues from the membership program were from paying members who joined
+the new membership program and during the period from October 1, 2022 to December 31, 2022, revenues from the membership program
+

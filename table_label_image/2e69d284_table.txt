@@ -1,0 +1,42 @@
+Table of Contents
+Additionally, capital markets worldwide may remain volatile or increase in volatility in the coming year due to continued tightening of monetary policy by central banks, increased market interest rates, the prospect or perception
+of recession or inflation, geopolitical factors such as the war in Ukraine, and other macroeconomic factors. These factors may have a negative impact on the financial position of our customers, which could decrease trading
+volume and negatively impact demand for our services and, consequently, our commissions, but they may also represent opportunities for us to increase our interest income.
+Recent Accounting Pronouncements
+A list of recently issued accounting pronouncements that are relevant to us is included in Note 2 to our audited consolidated financial statements included elsewhere in this annual report.
+Key Components of Results of Operations
+Revenues
+Our revenues consist of commissions, financing service fees, interest income, and other revenues. The following table sets forth the breakdown of our total revenues, both in absolute amount and as a percentage of our total
+revenues, for the years indicated:
+For the years ended December 31,
+2020 2021 2022
+US$ % US$ % US$ %
+(in thousands except for percentages)
+
+Revenues:
+
+Commissions 77,629 56.1 147,199 55.7 108,118 48.0
+
+Financing service fees 6,577 4.7 9,269 oS) 7,903 oS)
+
+Interest income 31,754 22.9 70,335 26.6 85,150 37.8
+
+Other revenues 22,537 16.3 37,685 14.2 24,195 10.7
+Total revenues 138,497 100.0 264,488 100.0 225,366 100.0
+
+Interest expense (10,102) (7.3) (18,379) (6.9) (18,669 ) (8.3)
+Total net revenues 128,395 92.7 246,1 09 93.1 206,697 91.7
+Commissions
+We earn commissions from the brokerage services we deliver for customers’ fully disclosed accounts and consolidated accounts. See Item 4.B “Business Overview-Our Core Products and Services-Brokerage Services-Types
+of Accounts.” We charge commission fees based on the amount of transaction volume, or the number of shares, lots or contracts in each order, which generally vary in accordance with the type of products or services, timing
+of account activation, eligibility for discounts and other factors. In 2020, 2021 and 2022, the average rate of commissions over trading volume was 0.0354%, 0.0364% and 0.0335%, respectively, which is the ratio of the total
+commissions to the total trading volume in the same period. The gradual increase in the average commission rates was primarily caused by our product diversification as the portion of higher commission product increased in
+the year 2021 and the average commission rates decrease between 2021 and 2022 was primarily due to the lower commissions resulting from the decreased trading volume in 2022.
+Pursuant to the agreement with our primary clearing agent, Interactive Brokers, we receive a portion of commission fees paid by our customers every time Interactive Brokers executes and clears a trade order. For
+consolidated accounts, we receive commissions from customers and pay the execution and clearing fees to our clearing agents. For fully disclosed accounts, every time Interactive Brokers executes and clears a trade, it
+collects the commissions, deducts a certain portion as execution and clearing fees and returns the rest of the commissions to us.
+Financing service fees
+Financing service fees include fees Interactive Brokers paid to us regarding the margin financing and securities borrowing and lending activities provided by Interactive Brokers to our fully disclosed account customers for
+
+110
+

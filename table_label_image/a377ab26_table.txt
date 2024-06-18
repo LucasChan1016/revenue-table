@@ -1,0 +1,52 @@
+Table of Contents
+
+The COVID-19 global pandemic has resulted in, and may intensify, global economic distress, and the duration and extent of the impact of COVID-19 outbreak is
+highly uncertain at this time. We cannot guarantee you that the COVID-19 pandemic will not further escalate or have a material adverse effect on our results of operations,
+financial condition, cash flows or prospects. China began to modify its zero-COVID policy at the end of 2022, and most of the travel restrictions and quarantine
+requirements were lifted in December 2022. There were surges of cases in many cities during this time which caused disruption to our and our business partners’
+operations, and there remains uncertainty as to the future impact of the virus, especially in light of this change in policy. The extent to which the pandemic impacts our
+results of operations going forward will depend on future developments which are highly uncertain and unpredictable, including the frequency, duration and extent of
+outbreaks of COVID-19, the appearance of new variants with different characteristics, the effectiveness of efforts to contain or treat cases, and future actions that may be
+taken in response to these developments. China may experience lower domestic consumption, higher unemployment, severe disruptions to exporting of goods to other
+countries and greater economic uncertainty, which may impact our business in a materially negative way. The financial services providers on our platform will need time to
+recover from the economic effects of the pandemic even after business conditions begin to return to normal. Consequently, the COVID-19 pandemic may continue to
+materially and adversely affect our business, financial condition and results of operations in the current and future years.
+
+We will pay close attention to the development of the COVID-19 pandemic, perform further assessment of its impact and take relevant measures to minimize the
+impact. As of December 31, 2022, we had cash and cash equivalents, time deposits, restricted cash and time deposits of RMB684.2 million (US$99.2 million) and working
+capital of approximately RMB371.3 million (US$53.8 million). For more details about the composition of our cash and cash equivalents, restricted cash and short-term
+investments, please see “—B. Liquidity and Capital Resources.”
+
+See “Item 3. Key Information—D. Risk Factors—Risks Related to Our Business—We face risks related to natural disasters, health epidemics and other outbreaks,
+which could significantly disrupt our operations.”
+
+Key Components of Results of Operations
+Revenues
+
+Our revenues are derived from recommendation services for credit cards and loans, and big data and system-based risk management services and marketing and
+other services offered to financial service providers and other customers.
+
+The following table sets forth the breakdown of our total revenues, both in absolute amount and as a percentage of our total revenues, for the periods presented:
+
+For the Year Ended December 31,
+2020 2021 2022
+RMB % RMB % RMB US$ %
+(in thousands, except percentages)
+Revenues:
+Recommendation services:
+Loans 109,814 18.7 167,483 20.8 258,069 37,416 26.1
+Credit cards 294,567 50.3 407,759 50.7 473,673 68,676 47.9
+Total recommendation services 404,381 69.0 575,242 71.5 731,742 106,092 74.0
+Big data and system-based risk management services 144,227 24.6 130,408 16.2 96,917 14,052 9.8
+Marketing and other services 37,154 6.4 99,397 12.3 161,016 23,345 16.2
+Total revenues 585,762 100.0 805,047 100.0 989,675 143,489 100.0
+
+Recommendation services.
+
+We record fees charged for our recommendation services for credit card products on a cost-per-success basis, where the success is most often defined as the
+issuance of a credit card and in other cases by the completion of an application or the first usage of a credit card, depending on the credit card issuer’s policy. Affected by
+bank credit tightening and the impact of COVID-19 pandemic, revenue from recommendation of credit cards declined from 2019 to 2020. In both 2021 and 2022, revenue
+from recommendation services for credit cards experienced recovery from the plunge in 2020.
+
+106
+

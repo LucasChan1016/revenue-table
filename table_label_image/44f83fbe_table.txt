@@ -1,0 +1,35 @@
+Table of Contents
+Furthermore, our profitability is dependent on our ability to manage our operating expenses. Our operating expenses consist primarily of general and administrative expenses, research and development expenses
+and selling and marketing expenses. We expect our operating expenses will increase in absolute amount as our business grows and as we make necessary adjustments to operate as a public company. However, we expect
+our operating expenses to decrease as a percentage of total revenues as we improve our operating efficiency and as a result of economies of scale.
+Pricing Structure and Ability to Optimize Power Usage and Costs
+Our results of operations will be affected by our pricing structure and our ability to optimize power usage and costs. We provide our clients with integrated power services. Power costs may be included in the costs for
+our solutions, or we may charge our clients separately for actual power consumed. Pricing in our hyperscale data centers service agreements contains variable considerations that are primarily based on the usage of capacity.
+Accordingly, the actual power consumption by our clients during the term of the contract affects our profitability, since power costs constitute a major part of our cost of revenues. We have achieved high power efficiency and
+are dedicated to improving it continuously. Furthermore, we will continue to lower our power costs by increasing the contribution of low-cost renewable energy in our power usage.
+Our Financing Costs
+We have historically funded data center development and construction with a mixture of equity and debt financing. The costs of capital affect both our ability to carry out construction projects as planned. High costs of
+capital push up the costs of data center development and may reduce our profitability if we are unable to pass on such increased costs to our clients by increasing the price of our services.
+We expect to continue to fund future developments through debt financing or through the issuance of additional equity securities if necessary and when market conditions permit, and tight credit markets could
+hamper our expansion. As such our growth strategy depends upon the continued availability of suitable funding in the future.
+Key Components of Results of Operations
+Revenues
+The following table sets forth a breakdown of our revenues, in absolute amounts and as percentages of total revenues, for the years indicated:
+For the Year Ended December 31,
+2021 2022
+RMB % RMB US$ %
+(in thousands, except for percentages)
+Revenues:
+Colocation services 2,649,371 92.9 4,197,502 608,581 92.2
+Colocation rental 114,681 4.0 203,381 29,487 4.5
+Others 88,225 3.1 150,779 21,861 3.3
+Total Revenues 2,852,277 100.0 4,551,662 659,929 100.0
+We derive our revenues primarily from data center colocation services and data center colocation rental.
+Colocation Services
+Revenues from third parties consists of revenues from colocation services provided at our hyperscale data centers in mainland China and certain of our wholesale data centers in mainland China.
+Colocation Rental
+Revenues from colocation rental consist of income from renting out data center space at our hyperscale data center in Malaysia and India to our clients for housing servers and other IT equipment.
+Others
+Other revenues primarily consist of proceeds we receive from fit out service, construction services and other services.
+105
+

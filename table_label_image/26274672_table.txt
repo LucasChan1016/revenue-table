@@ -1,0 +1,53 @@
+Components of Results of Operations
+Net Revenue
+
+Our and the VIE Group’s net revenue is derived from fees charged for providing services, including loan facilitation services and post-origination services, and other revenues. In accordance with the agreements with
+our and the VIE Group’s borrowers and institutional funding partners, we and the VIE Group collect service fees from customers in facilitating loan transactions. Historically and up until November 2020, when the outstanding
+loan balance of our and the VIE Group’s legacy P2P business was decreased to zero, we and the VIE Group also received individual investors service fees for automated investment programs and for loans transfers over our
+and the VIE Group’s secondary loan market. In addition, we and the VIE Group charge other fees contingent on future events, such as penalty fees for late payments. Our and the VIE Group’s net revenue is presented net of
+VAT. Our and the VIE Group’s net revenue is recognized as revenues from loan facilitation services, revenues from post-origination services and other revenues.
+
+Year Ended December 31,
+2020 2021 2022
+RMB % RMB % RMB US$ %
+(in thousands, except for percentages)
+
+Net revenue
+
+Loan facilitation services 943,084 72.5 1,470,170 82.6 2,881,725 417,810 88.1
+
+Post-origination services 112,731 8.7 — _— _— — _—
+
+Other revenue 244,345 18.8 310,320 17.4 389,689 56,500 11.9
+Total 1,300,160 100.0 1,780,490 100.0 3,271,414 474,310 100.0
+
+The following table sets forth the breakdown of our and the VIE Group’s net revenue by service and products provided both in absolute amount and as a percentage of our and the VIE Group’s total net revenue for
+
+the periods presented:
+Year Ended December 31,
+2020 2021 2022
+RMB % RMB % RMB US$ %
+(in thousands, except for percentages)
+
+Net revenue
+
+Current loan products 1,055,815 81.2 1,470,170 82.6 2,881,725 417,810 88.1
+
+Other services 244,345 18.8 310,320 17.4 389,689 56,500 11.9
+Total 1,300,160 100.0 1,780,490 100.0 3,271,414 474,310 100.0
+Loan facilitation and post-origination service
+
+Prior to November 2020, we and the VIE Group provide loan facilitation services and post-origination services on loans facilitated on our and the VIE Group’s platform, which enable individual investors to directly
+invest in loans that can be selected, at the individual investors’ discretion, from hundreds of new lending opportunities to pre-approved borrowers that are posted on our and the VIE Group’s platform every day. Individual
+investors also have the option to use the automated investment programs whereby the funds are automatically allocated among pre-approved borrowers. The automated investment programs automatically reinvest individual
+investors’ funds as soon as a loan is repaid, enabling the individual investors to accelerate the reinvestment of cash flows without having to continually revisit the Company’s mobile application. Such business was officially
+ceased in November 2020.
+
+We and the VIE Group charge a substantial amount of service fees on the same day when the first and second monthly repayments of principal and interest are due.
+
+We and the VIE Group determine that both the individual investors and the borrowers are our customers. We and the VIE Group assess ability and intention to pay the service fees of both borrowers and individual
+investors when they become due and determines if the collection of the service fees is probable, based on historical experiences as well as the credit due diligence performed on each borrower prior to loan origination. We and
+the VIE Group consider the loan facilitation service and post origination service as two
+
+106
+

@@ -1,0 +1,16 @@
+As of December 31,
+
+2021 2022
+
+RMB RMB US$
+Non-current liabilities:
+Amounts due to inter-companies, net () 1,020,972 1,020,972 148,027
+Long-term borrowings 1,480,709 1,861,545 269,899
+Non-current portion of finance lease liabilities 704,255 615,309 89,211
+Unrecognized tax benefits 77,192 86,799 12,585
+Deferred tax liabilities 132,370 149,475 21,672
+Non-current portion of deferred government grant 2,294 2,726 395
+Non-current portion of operating lease liabilities 2,114,309 2,872,323 416,448
+Total non-current liabilities 5,932,101 6,609,149 958,237
+Total liabilities 14,684,410 17,168,687 2,489,224
+

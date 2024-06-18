@@ -1,0 +1,55 @@
+Table of Contents
+
+The expected M3+ Net Charge-off Rates and actual observed results for each of these customer groups divide potential borrowers into distinctively different credit
+segments. See “Item 4. Information on the Company- B. Business Overview—Risk Management—Proprietary Credit Scoring Model and Loan Qualification System.”
+
+The following table provides the amount of loans facilitated under our loan facilitation model during each of the periods presented and the corresponding
+accumulated M3+ Net Charge-off and M3+ Net Charge-off Rate data as of December 31, 2022 for the loans facilitated during each of the periods:
+
+Accumulated M3+ Net Charge-off
+Amount of loans Net Charge-off as Rate as of
+facilitated during the of December 31, December 31,
+Period period 2022 2022
+(in RMB thousands) (in RMB thousands) %
+2018 4,211,573 393,238 9.3
+2019 3,431,443 398,602 11.6
+2020 9,614,819 780,798 8.1
+2021 23,195,224 1,513,766 6.5
+2022 Q1~Q3 15,839,577 316,444 2.0
+(1) We define M3+ Net Charge-off, with respect to loans facilitated during a specified time period, which we refer to as a vintage, as the difference between (i) the total
+balance of outstanding principal of loans that become over three months delinquent during a specified period and (ii) the total amount of recovered past due payments
+of principal and accrued interest in the same period with respect to all loans in the same vintage that have ever become over three months delinquent.
+(2) We define M3+ Net Charge-off Rate, with respect to loans facilitated during a specified time period, which we refer to as a vintage, as the M3+ Net Charge-off divided
+by the total initial principal of the loans facilitated in such vintage.
+
+Our business and financial performance depend on our ability to manage and forecast net charge-off rates. However, given our limited operating history, we have
+limited information on historical charge-off rates, and as a result, we may not be able to conduct an accurate charge-off forecast for our target borrower group. In addition,
+due to the uncertainty of industry regulations, we expect borrower credit performance may be volatile in the foreseeable future, which may lead to higher default rates and
+adverse impacts on our reputation, business, results of operations and financial position. See “Item 4. Information on the Company—B. Business Overview—Risk
+Management.”
+
+Selected Statements of Operations Items
+Net revenue
+
+Our revenues consist of revenues from loan facilitation services, post-origination services, account management services, insurance brokerage services, financing
+services, electronic commerce services, and others. The following table sets forth the breakdown of our net revenue, both in absolute amount and as a percentage of our
+total net revenue, for the periods presented:
+
+For the Year Ended December 31,
+2020 2021 2022
+RMB % RMB % RMB US$ %
+(in thousands, except for percentages)
+
+Net revenue:
+
+Loan facilitation services 1,329,720 33.6 2,105,776 47.0 1,362,685 197,571 39.7
+Post-origination services 670,440 16.9 174,255 3.9 204,336 29,626 5.9
+Account management service 921,779 23.3 _— _— _— _— _—
+Insurance brokerage services 430,830 10.9 755,691 16.9 731,797 106,101 21.3
+Financing services 59,658 1.5 524,840 11.7 278,783 40,420 8.1
+Electronic commerce services _— _— 33,114 0.7 302,896 43,916 8.8
+Others 549,535 13.8 884,253 19.8 554,123 80,339 16.2
+Total net revenue 3,961,962 100.0 4,477,929 100.0 3,434,620 497,973 100.0
+
+121
+

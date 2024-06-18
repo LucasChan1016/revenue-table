@@ -1,0 +1,35 @@
+For the Years Ended December 31,
+2020 2021 2022
+RMB % RMB % RMB US$ %
+(in thousands, except percentages)
+Consolidated Statements of Operations Data:
+Net revenues 4,829,019 100.0 6,189,801 100.0 7,065,232 1,024,362 100.0
+Cost of revenues (3,753,008) (77.7) (4,751,771) (76.8) (5,706,976) (827,434) (80.8)
+Gross profit 1,076,011 22.3 1,438,030 23.2 1,358,256 196,928 19.2
+Operating (expenses) income:
+Sales and marketing expenses (235,012) (4.9) (255,400) (4.1) (311,917) (45,224) (4.4)
+Research and development expenses (112,891) (2.3) (188,489) (3.1) (306,842) (44,488) (4.3)
+General and administrative expenses (535,111) (11.1) (842,354) (13.6) (642,945) (93,218) (9.1)
+Allowance for doubtful debt (2,393) (0.1) (18,399) (0.3) (35,409) (5,134) (0.5)
+Impairment of long-lived assets (81,619) (1.7) (109,267) (1.8) _— — _—
+Impairment of loan receivable to potential investee — — (2,807) (0.0) — — —
+Other operating income 7,619 0.2 _— _ 60,013 8,701 0.8
+Total operating expenses (959,407) (19.9) (1,416,716) (22.9) (1,237,100) (179,363) (17.5)
+Operating profit 116,604 2.4 21,314 0.3 121,156 17,565 1.7
+Interest income Spal 0.7 31,897 0.5 31,574 4,578 0.4
+Interest expense (380,609) (7.9) (334,950) (5.4) (273,305) (39,626) (3.9)
+Impairment of long-term investment (13,030) (0.3) (3,495) (0.1) _— _— _—
+Other income 16,539 0.3 33,923 0.5 17,328 2,512 0.2
+Other expenses (36,912) (0.8) (22,700) (0.4) (26,599) (3,856) (0.4)
+Changes in the fair value of convertible promissory notes (2,544,220) (52.7) 829,149 13.4 22,626 3,280 0.3
+Foreign exchange gain (loss), net 228,125 4.7 110,036 1.8 (523,235) (75,862) (7.4)
+(Loss) income before income taxes and gain (loss) from equity method investments (2,581,792) (53.6) 665,174 10.7 (630,455) (91,409) (9.1)
+Income tax expense (109,336) (2.3) (111,407) (1.8) (133,464) (19,350) (1.9)
+Gain (loss) from equity method investments 10,869 0.2 (38,666) (0.6) 1,925 279 0.0
+Consolidated net (loss) income (2,680,259) (55.7) 515,101 8.3 (761,994) (110,480) (11.0)
+Comprehensive income attributable to non-controlling interest (29,088) (0.6) (15,003) (0.2) (13,958) (2,024) (0.2)
+Deemed dividend (470,643) (9.7) _— _— — — _—
+Dividend distribution — _— (28,909) (0.5) — — —
+Others — — (826,458) (13.4) _ _— _—
+Net loss attributable to the Company’s ordinary shareholders (3,179,990) (66.0) (355,269) (5.7) (775,952) (112,504) (11.2)
+

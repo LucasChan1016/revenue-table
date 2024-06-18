@@ -1,0 +1,41 @@
+87
+Key Components of Results of Operations for the Years Ended December 31, 2022, 2021, and 2020
+Revenues (Losses)
+Our revenues consist of commissions, trading gains (losses), interest income, interest income and others. The following table sets forth the breakdown of our revenues by nature in dollar amount and as percentages of total
+revenues for the periods indicated.
+Year ended December 31,
+2022 2021 2020
+US$ % US$ % US$ %
+
+Revenues (Losses)
+
+Market making commissions and fees 781,878 (31.5) 4,324,650 17.4 4,940,623 48.3
+
+Futures and securities brokerage commissions 3,412,644 (137.5) 3,188,684 12.7 1,890,502 18.4
+
+Insurance brokerage commissions 455,394 (18.4) 542,795 2.1 959,299 9.3
+Trading gains/(losses) (11,467,969) 461.9 13,379,146 53.5 1,833,875 18.0
+Interest income 3,229,716 (130.0) 1,351,318 5.4 138,799 1.4
+Other income 1,105,837 (44.5) 2,206,119 8.9 467,037 4.6
+Total (2,482,500) 100.0 24,992,712 100.0 10,230,135 100.0
+Commissions
+We earn commissions from our (i) insurance brokerage services, (ii) securities and futures brokerage services (including commissions from TRS trading services) and (iii) CFD trading services when we act as market maker. We
+receive commissions from the insurance companies based on a percentage of the premium paid by insurance purchasers. Unlike commissions from insurance brokerage services, we charge securities brokerage commissions
+and market making commissions based on amount of transaction volume, or the number of shares, lots of contracts executed in each order, which generally vary in accordance with the type of products or services we offer,
+eligibility for discounts and other factors. See “Business — Our Business Lines”.
+Trading gains/(losses)
+Trading gains, offset by losses, are derived as showed in the following table. The line of CFD trading gains/(losses) is derived from (i) our managed flow portfolio trading positions where we act as counterparty to our clients’
+trades from our CFD trading services, and (ii) our dealing bid/offer spreads on our clients’ CFD transactions. The line of TRS trading gains/(losses) is derived from our proprietary TRS trading activities on our own accounts. The
+line of Other trading gains/(losses) is derived from other business; for the year ended December 31, 2022 it included trading gains of US$937,000 from OTC call options we sold to our customers, offset by trading losses of
+US$(1,015,000) from exchange traded stock; for the year ended December 31, 2021 it included trading losses of US$(200,000) from OTC call options we sold to our customers and trading losses of US$(1,320,000) from
+exchange-traded stock, for the year ended December 31, 2020 it included trading losses of US$(63,000) from exchange traded stock, respectively. Trading gains/(losses) is recorded on a trade date basis.
+
+Year ended December 31,
+2022 2021 2020
+US$ % US$ % US$ %
+CFD trading gains/(losses) (7,476,190) 65.1 4,374,807 32.6 1,883,958 102.7
+TRS trading gains/(losses) (3,913,422) 34.1 10,523,974 78.6 13,157 0.7
+Other trading gains/(losses) (78,357) 0.8 (1,519,635) (11.2) (63,240) (3.4)
+Total (11,467,969) 100.0 13,379,146 100.0 1,833,875 100.0
+88
+

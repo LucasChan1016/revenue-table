@@ -1,0 +1,48 @@
+Table of Contents
+Key Line Items and Specific Factors Affecting Our Results of Operations
+Net revenue
+
+We generate revenue mainly from providing Credit-Tech services through matching the credit demand of unserved and underserved borrowers with credit supply
+from our financial institution partners. The following table sets forth the principal components of our net revenues in absolute amounts and as percentages of our total net
+revenues for the years presented:
+
+For the Year Ended December 31,
+
+2020 2021 2022
+
+(in thousands, except for percentages)
+Net revenue:
+Credit-driven services 11,403,675 84.1 10,189,167 61.2 11,586,251 1,679,849 70.0
+Loan facilitation and servicing fees-capital heavy 4,596,555 33.9 2,326,027 14.0 2,086,414 302,502 12.6
+Revenue from loan facilitation services 3,160,457 23.3 1,399,310 8.4 1,442,100 209,085 8.7
+Revenue from post-facilitation services 1,436,098 10.6 926,717 5.6 644,314 93,417 3.9
+Financing income 2,184,180 16.1 2,184,128 13.1 3,487,951 505,705 21.1
+Revenue from releasing of guarantee liabilities 4,506,935 33.2 5,983,135 33.6 5,899,153 855,297 35.6
+Other services fees 116,005 0.9 95,877 0.5 112,733 16,345 0.7
+Platform services 2,160,279 15.9 6,446,478 38.8 4,967,679 720,245 30.0
+Loan facilitation and servicing fees-capital light 1,826,654 13.5 5,677,941 34.2 4,124,726 598,029 24.9
+Revenue from loan facilitation services 1,416,715 10.4 4,484,632 27.0 2,656,511 385,159 16.0
+Revenue from post-facilitation services 409,939 3.1 1,193,309 7.2 1,468,215 212,870 8.9
+Referral service fees 265,300 2.0 620,317 3.7 561,372 81,391 3.4
+Other services fees 68,325 0.5 148,220 0.9 281,581 40,825 1.7
+Total net revenue 13,563,954 100.0 16,635,645 100.0 16,553,930 2,400,094 100.0
+
+We divide loans facilitated on our platform into two categories, namely credit-driven services and platform services.
+
+In providing credit-driven services, we either fund on-balance sheet loans or provide guarantee to financial institution partners for off-balance sheet loans through
+the VIEs with financing guarantee license or third-party guarantee companies or insurance companies. Consequently, we take credit risk because of the on-balance sheet
+lending or the guarantee arrangement. By revenue nature, revenue from facilitation and post-facilitation services for such off-balance sheet loans is recorded as loan
+facilitation and servicing fees-capital heavy, revenue from guarantee services provided to financial institution partners for such off-balance sheet loans is recorded as
+revenue from releasing of guarantee liabilities, and revenue from our on-balance sheet lending is recorded as financing income.
+
+On the other hand, in providing platform services, we provide customized technology solutions at different stages of the loan lifecycle, such as borrower acquisition,
+credit assessment, fund matching and post-facilitation services. Specifically, we (i) provide to financial institutions comprehensive facilitation and post-facilitation services
+under the capital-light model, and charge them service fees based on pre-negotiated terms, which service fees are recorded as loan facilitation and servicing fees - capital
+light; (ii) provide intelligent marketing services to financial institutions under ICE and earn pre-negotiated service fees, which are recorded under referral service fees; (iii)
+provide referral services to other online lending companies and earn referral fees, which are recorded under referral service fees; and (iv) offer financial institutions risk
+management SaaS and take technology service fees or consulting fees for the corresponding technology solutions elected by the financial institutions, which service fees
+are recorded under other services fees, and as such service was introduced in 2020, it contributed a small fraction to our total net revenue in 2020, 2021 and 2022. We
+currently do not take credit risk under platform services.
+
+125
+

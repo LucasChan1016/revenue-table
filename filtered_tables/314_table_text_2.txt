@@ -1,0 +1,11 @@
+As of December 31,
+2021 2022
+RMB RMB US$
+Property 993,158 993,158 143,994
+Computer and network equipment 823,625 971,814 140,900
+Optical fibers 137,924 137,924 19,997
+1,954,707 2,102,896 304,891
+Less: Accumulated depreciation
+(629,927) (847,449) (122,869)
+1,324,780 1,255,447 182,022
+

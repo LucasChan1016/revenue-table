@@ -1,0 +1,40 @@
+As of December 31,
+2021 2022
+RMB RMB US$
+
+ASSETS
+Current assets:
+Cash and cash equivalents 660,234 1,428,768 207,152
+Restricted cash 317,199 301,825 43,761
+Accounts receivable (net of allowance for doubtful debt of RMB82,654 and RMB100,797 (US$14,614) as of
+
+December 31, 2021 and 2022, respectively) 1,139,372 1,400,546 203,060
+Prepaid expenses and other current assets 1,781,456 1,976,164 286,517
+Amounts due from related parties 29,812 13,942 2,021
+Total current assets 3,928,073 5,121,245 742,511
+Non-current assets:
+Property and equipment, net 6,754,511 7,495,362 1,086,725
+Intangible assets, net 382,173 475,652 68,963
+Land use rights, net 45,476 44,233 6,413
+Operating lease right-of-use assets, net 2,666,182 3,452,533 500,570
+Goodwill 308,110 332,645 48,229
+Restricted cash 7,825 _ _—
+Deferred tax assets, net 136,903 153,676 22,281
+Other non-current assets 612,198 165,570 24,005
+Long-term investments, net 133,280 82,744 11,997
+Total non-current assets 11,046,658 12,202,415 1,769,183
+Total assets 14,974,731 17,323,660 2,511,694
+Current liabilities:
+Accounts payable and notes payable 352,478 483,030 70,033
+Accrued expenses and other payables 1,342,886 1,488,031 215,742
+Advance from customers 1,041,902 1,157,963 167,889
+Deferred revenue 49,055 84,775 12,291
+Income tax payable 20,972 25,188 3,652
+Amounts due to inter-companies, net !) 5,203,974 6,071,651 880,307
+Amounts due to related parties 8,007 6,928 1,004
+Current portion of finance lease liabilities 200,961 165,221 23,955
+Current portion of long-term borrowings 350,609 417,442 60,523
+Current portion of deferred government grant 2,074 3,646 529
+Current portion of operating lease liabilities 579,391 655,663 95,062
+Total current liabilities 9,152,309 10,559,538 1,530,987
+

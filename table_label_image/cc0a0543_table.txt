@@ -1,0 +1,40 @@
+Table of Contents
+TARENA INTERNATIONAL, INC. AND SUBSIDIARIES
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+(Amounts in thousands of RMB and US$,
+except for number of shares and per share data)
+10 NET REVENUES
+(a) Net revenues recognized under ASC Topic 606 for the years ended December 31, 2020, 2021 and 2022 consist of the following:
+Year Ended December 31,
+2020 2021 2022
+RMB RMB RMB
+Tuition fee 1,786,230 2,281,098 2,316,428
+Certification service fee 41,961 60,892 123,064
+Loan referral service fee 7,801 6,332 691
+Others 53,135 37,383 20,749
+Business taxes and surcharges (4,252) (7,070) (5,361)
+Total net revenues 1,884,875 2,378,635 2,455,571
+Others mainly include AI and software development revenues, franchise fee and miscellaneous revenues.
+Year Ended December 31,
+2020 2021 2022
+RMB RMB RMB
+Timing of revenue recognition
+Services transferred at a point in time 102,897 104,607 144,504
+Services transferred over time 1,781,978 2,274,028 2,311,067
+Total net revenues 1,884,875 2,378,635 2,455,571
+(b) Net revenues recognized under ASC Topic 460 for the years ended December 31, 2020, 2021 and 2022 consist of the following:
+Year Ended December 31,
+2020 2021 2022
+RMB RMB RMB
+Guarantee service 13,008 7,885 12,503
+11 INCOME TAXES
+Under the current laws of the Cayman Islands, Tarena International is not subject to tax on its income or capital gains. For the period from its inception on October 22,
+2012 to December 31, 2022, Tarena HK did not have any assessable profits arising in or derived from HK SAR. Tarena International’s PRC subsidiaries and consolidated
+VIEs and the subsidiaries of the VIEs file separate tax returns in the PRC. Effective from January 1, 2008, the PRC statutory income tax rate is 25% according to the
+Corporate Income Tax (“CIT”) Law which was passed by the National People’s Congress on March 16, 2007.
+Under the CIT Law, entities that qualify as “High and New Technology Enterprise” (“HNTE”) are entitled to a preferential income tax rate of 15%. In 2015, Tarena Tech
+renewed its HNTE qualification, which entitled it to the preferential income tax rate of 15% from January 1, 2015 to December 31, 2017. In 2018, Tarena Tech renewed
+its HNTE qualification, which entitled it to the preferential income tax rate of 15% from January 1, 2018 to December 31, 2020. In 2021, Tarena Tech renewed its HNTE
+qualification, which entitled it to the preferential income tax rate of 15% from January 1, 2021 to December 31, 2023.
+F-34
+

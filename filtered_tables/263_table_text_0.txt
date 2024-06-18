@@ -1,0 +1,38 @@
+For the years ended December 31,
+Notes 2020 2021 2022
+RMB RMB RMB US$
+Net revenues
+Hosting and related services 4,829,019 6,189,801 7,065,232 1,024,362
+Cost of revenues
+Hosting and related services (3,753,008) (4,751,771) (5,706,976) (827,434)
+Gross profit 1,076,011 1,438,030 1,358,256 196,928
+Operating income (expenses)
+Operating income 7,619 — 60,013 8,701
+Sales and marketing expenses (235,012) (255,400) (311,917) (45,224)
+Research and development expenses (112,891) (188,489) (306,842) (44,488)
+General and administrative expenses (535,111) (842,354) (642,945) (93,218)
+Allowance for doubtful debt (2,393) (18,399) (35,409) (5,134)
+Impairment of loan receivable to potential investee _— (2,807) _— _—
+Impairment of long-lived assets (81,619) (109,267) — —_
+Total operating expenses (959,407) (1,416,716) (1,237,100) (179,363)
+Operating profit 116,604 21,314 121,156 17,565
+Interest income 31,711 31,897 31,574 4,578
+Interest expense (380,609) (334,950) (273,305) (39,626)
+Other income 16,539 33,923 17,328 2,512
+Other expenses (36,912) (22,700) (26,599) (3,856)
+Changes in the fair value of convertible promissory notes (2,544,220) 829,149 22,626 3,280
+Impairment of long-term investment (13,030) (3,495) _— _—
+Foreign exchange gain (loss), net 228,125 110,036 (523,235) (75,862)
+(Loss) income before income taxes and gain (loss) from equity method investments (2,581,792) 665,174 (630,455) (91,409)
+Income tax expenses 24 (109,336) (111,407) (133,464) (19,350)
+Gain (loss) from equity method investments 10,869 (38,666) 1,925 279
+Net (loss) income (2,680,259) 515,101 (761,994) (110,480)
+Net profit attributable to noncontrolling interest (29,088) (15,003) (13,958) (2,024)
+Net (loss) income attributable to the VNET Group, Inc. (2,709,347) 500,098 (775,952) (112,504)
+(Loss) earning per share:
+Basic 27 RMB(4.47) RMBO0.57 RMB(0.87) USD(0.13)
+Diluted 27 RMB(4.47) RMB(0.36) RMB(0.87) USD(0.13)
+Shares used in (loss) earning per share computation:
+Basic 27 716,888,919 865,352,554 886,817,620 886,817,620
+Diluted 27 716,888,919 911,591,433 886,817,620 886,817,620
+
