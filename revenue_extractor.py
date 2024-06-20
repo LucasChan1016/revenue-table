@@ -37,6 +37,22 @@ class RevenueExtractorHelper:
         model.overrides["max_det"] = 10  # maximum number of detections per image
 
         return model
+    
+    def convert_json(self, text: str) -> dict:
+        # Use regular expression to extract the JSON string inside the Markdown code block
+        json_match = re.search(r"```json\n(.*?)\n```", text, re.DOTALL)
+        if not json_match:
+            raise ValueError("No JSON content found in the given Markdown text.")
+        
+        json_str = json_match.group(1)
+        
+        # Load the JSON string into a dictionary
+        try:
+            data = json.loads(json_str)
+        except json.JSONDecodeError as e:
+            raise ValueError(f"Invalid JSON content: {e}")
+        
+        return data
 
     def pdf_page_to_image(self, pdf_path: str, page_num: int) -> Image.Image:
         images = convert_from_path(
@@ -120,7 +136,7 @@ class RevenueExtractor:
         # for revenue table extraction
         self.crop_offset = 30
         self.tesseract_config = r"--oem 3 --psm 6"
-        self.confidence_pattern = re.compile(r"confidence lejvel: (\d+(\.\d+)?)")
+        self.confidence_pattern = re.compile(r"confidence level: (\d+(\.\d+)?)")
         self.table_prompt = "You are a finance expert. You are given a table in a text format extracted from an annual report. Your task is to determine if the table is a revenue table or not. If the table contains other information such as expenses and dividend, it is not considered as a revenue table. The table should include the total value of the most recent year. You just need to output the confidence level of the table being a revenue table in the format of 'confidence level: {your output}'"
 
         # for total revenue extraction
@@ -128,7 +144,7 @@ class RevenueExtractor:
         self.total_revenue_prompt = "You are a finance expert. You are given a revenue table in a text format extracted from an annual report. Your task is to return the total revenue for the most recent year, with the corresponding unit, such as US or RMB, and exact value. You also need to output the corresponding scale, such as thousands or million. You just need to output the total revenue in the format of 'total revenue: {your output}'"
 
         # for segments extraction
-        self.segment_prompt = "You are a finance expert. You are given a revenue table in a text format extracted from an annual report. Your task is to return the segments that form the revenue. Please extract the information from only one table, without combining the results of all the tables. You must output all the segments in point form. No need to output other information."
+        self.segment_prompt = "You are a finance expert. You are given a revenue table in a text format extracted from an annual report. Your task is to return the segments that form the revenue, as well as the corresponding values with the exact value and unit. Please extract the information from only one table, without combining the results of all the tables. You must output all the segments in a json format: {'segment_name': {'year 1': value, 'year 2': 'value'}}. No need to output other information."
 
     def extract_revenue_table(self, pdf_path: str) -> Tuple[Dict[int, str], float]:
         self.pdf_path = pdf_path
@@ -215,7 +231,7 @@ class RevenueExtractor:
 
         return total_revenue
 
-    def extract_segments(self, text) -> List[str]:
+    def extract_segments(self, text: str) -> List[str]:
         response = self._llm.chat.completions.create(
             model="deepseek-chat",
             messages=[
@@ -229,13 +245,13 @@ class RevenueExtractor:
         output = response.choices[0].message.content
         print(output)
         
-        segments = list(map(lambda x: x[2:], output.split("\n")))
+        segments = self._helper.convert_json(output)
         
         return segments
 
 
 if __name__ == "__main__":
-    pdf_path = "pdf_sample/81cafc38-7920-36f3-bdd7-1007ee26be52.pdf"
+    pdf_path = "pdf_sample/27ce0eda-2547-34ee-9806-5d8be21b5c9b.pdf"
     api_key = "sk-436808c023b34f4185c96d8d438aa4a3"
     extractor = RevenueExtractor(api_key)
 
@@ -251,8 +267,8 @@ if __name__ == "__main__":
         print(text)
         print("-" * 50)
 
-    # total_revenue = extractor.extract_total_revenue(extractor.all_table_text)
-    # print(f"Total revenue : {total_revenue}")
+    total_revenue = extractor.extract_total_revenue(extractor.all_table_text)
+    print(f"Total revenue : {total_revenue}")
 
     segments = extractor.extract_segments(extractor.all_table_text)
     print(f"Segments : {segments}")
