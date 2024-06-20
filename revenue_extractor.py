@@ -4,7 +4,7 @@ import os
 import re
 import time
 from collections import defaultdict
-from typing import Dict, Tuple
+from typing import Dict, Tuple, List
 import json
 
 import cv2
@@ -88,11 +88,11 @@ class RevenueExtractorHelper:
                 )
             )
 
-        file = fitz.open(pdf_path)
+        self.document = fitz.open(pdf_path)
         filtered_pages = {}
 
         # get all the filtered pages
-        for page_num, page in enumerate(file):
+        for page_num, page in enumerate(self.document):
             page_num += 1
             text = page.get_textpage().extractText()
 
@@ -113,9 +113,9 @@ class RevenueExtractorHelper:
 
 
 class RevenueExtractor:
-    def __init__(self, api_key: str):
+    def __init__(self, llm_api_key: str):
         self._helper = RevenueExtractorHelper()
-        self._llm = OpenAI(api_key=api_key, base_url="https://api.deepseek.com")
+        self._llm = OpenAI(api_key=llm_api_key, base_url="https://api.deepseek.com")
 
         # for revenue table extraction
         self.crop_offset = 30
@@ -128,19 +128,19 @@ class RevenueExtractor:
         self.total_revenue_prompt = "You are a finance expert. You are given a revenue table in a text format extracted from an annual report. Your task is to return the total revenue for the most recent year, with the corresponding unit, such as US or RMB, and exact value. You also need to output the corresponding scale, such as thousands or million. You just need to output the total revenue in the format of 'total revenue: {your output}'"
 
         # for segments extraction
-        self.segment_pattern = re.compile()
-        self.segment_prompt = ""
+        # self.segment_pattern = re.compile()
+        self.segment_prompt = "You are a finance expert. You are given a revenue table in a text format extracted from an annual report. Your task is to return the segments that form the revenue. You must output all the segments in point form. No need to output other information."
 
     def extract_revenue_table(self, pdf_path: str) -> Tuple[Dict[int, str], float]:
         self.pdf_path = pdf_path
-        filtered_pages = self.helper.filter_pages(pdf_path)
+        filtered_pages = self._helper.filter_pages(pdf_path)
 
         confidences_map = defaultdict(lambda: -1)
         table_text_map = {}
 
         for page_num, tables in filtered_pages.items():
             image = self._helper.pdf_page_to_image(pdf_path, page_num)
-            print(image, page_num)
+            # print(image, page_num)
 
             image_array = np.array(image)
 
@@ -179,9 +179,9 @@ class RevenueExtractor:
                     confidences_map[page_num] = confidence_level
                     table_text_map[page_num] = table_text
 
-                print(table_text)
-                print("Confidence level: ", confidence_level)
-                print("=" * 50)
+                # print(table_text)
+                # print("Confidence level: ", confidence_level)
+                # print("=" * 50)
 
         max_confidence = max(confidences_map.values())
         selected_pages = [
@@ -216,12 +216,27 @@ class RevenueExtractor:
 
         return total_revenue
 
-    def extract_segments(self):
-        pass
+    def extract_segments(self, text) -> List[str]:
+        response = self._llm.chat.completions.create(
+            model="deepseek-chat",
+            messages=[
+                {"role": "system", "content": self.segment_prompt},
+                {"role": "user", "content": text},
+            ],
+            temperature=0,
+            stream=False,
+        )
+        
+        output = response.choices[0].message.content
+        print(output)
+        
+        segments = list(map(lambda x: x[2:], output.split("\n")))
+        
+        return segments
 
 
 if __name__ == "__main__":
-    pdf_path = "pdf_sample/4a1641f0-241a-33fe-9f1c-ec0687ad4d29.pdf"
+    pdf_path = "pdf_sample/3e7da988-b969-3703-bf91-596d105bffb7.pdf"
     api_key = "sk-436808c023b34f4185c96d8d438aa4a3"
     extractor = RevenueExtractor(api_key)
 
@@ -237,18 +252,20 @@ if __name__ == "__main__":
         print(text)
         print("-" * 50)
 
-    total_revenue = extractor.extract_total_revenue(extractor.all_table_text)
-    print(total_revenue)
+    # total_revenue = extractor.extract_total_revenue(extractor.all_table_text)
+    # print(f"Total revenue : {total_revenue}")
 
-    segments = extractor.extract_segments()
+    segments = extractor.extract_segments(extractor.all_table_text)
+    print(f"Segments : {segments}")
 
     print(f"Final confidence : {confidence}")
 
     # final_results = {}
     # for pdf in natsorted(os.listdir("pdf_sample")):
     #     pdf_path = f"pdf_sample/{pdf}"
-    #     results, confidence = extract_revenue_table(pdf_path, api_key)
-    #     final_results[pdf.split(".")[0]] = results
+    #     results, confidence = extractor.extract_revenue_table(pdf_path)
+    #     total_revenue = extractor.extract_total_revenue(extractor.all_table_text)
+    #     final_results[pdf.split(".")[0]] = {"tables": results, "total_revenue": total_revenue, "confidence": confidence}
     #     print("Finished processing: ", pdf)
 
     # with open("final_results.json", "w") as f:
