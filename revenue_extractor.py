@@ -120,7 +120,7 @@ class RevenueExtractor:
         # for revenue table extraction
         self.crop_offset = 30
         self.tesseract_config = r"--oem 3 --psm 6"
-        self.confidence_pattern = re.compile(r"confidence level: (\d+(\.\d+)?)")
+        self.confidence_pattern = re.compile(r"confidence lejvel: (\d+(\.\d+)?)")
         self.table_prompt = "You are a finance expert. You are given a table in a text format extracted from an annual report. Your task is to determine if the table is a revenue table or not. If the table contains other information such as expenses and dividend, it is not considered as a revenue table. The table should include the total value of the most recent year. You just need to output the confidence level of the table being a revenue table in the format of 'confidence level: {your output}'"
 
         # for total revenue extraction
@@ -128,8 +128,7 @@ class RevenueExtractor:
         self.total_revenue_prompt = "You are a finance expert. You are given a revenue table in a text format extracted from an annual report. Your task is to return the total revenue for the most recent year, with the corresponding unit, such as US or RMB, and exact value. You also need to output the corresponding scale, such as thousands or million. You just need to output the total revenue in the format of 'total revenue: {your output}'"
 
         # for segments extraction
-        # self.segment_pattern = re.compile()
-        self.segment_prompt = "You are a finance expert. You are given a revenue table in a text format extracted from an annual report. Your task is to return the segments that form the revenue. You must output all the segments in point form. No need to output other information."
+        self.segment_prompt = "You are a finance expert. You are given a revenue table in a text format extracted from an annual report. Your task is to return the segments that form the revenue. Please extract the information from only one table, without combining the results of all the tables. You must output all the segments in point form. No need to output other information."
 
     def extract_revenue_table(self, pdf_path: str) -> Tuple[Dict[int, str], float]:
         self.pdf_path = pdf_path
@@ -194,7 +193,7 @@ class RevenueExtractor:
         self.all_table_text = ""
         for selected_page_num in selected_pages:
             table_results[selected_page_num] = table_text_map[selected_page_num]
-            self.all_table_text += table_text_map[selected_page_num]
+            self.all_table_text += table_text_map[selected_page_num] + f"\n{'-'*80}\n"
 
         return table_results, max_confidence
 
@@ -236,7 +235,7 @@ class RevenueExtractor:
 
 
 if __name__ == "__main__":
-    pdf_path = "pdf_sample/3e7da988-b969-3703-bf91-596d105bffb7.pdf"
+    pdf_path = "pdf_sample/81cafc38-7920-36f3-bdd7-1007ee26be52.pdf"
     api_key = "sk-436808c023b34f4185c96d8d438aa4a3"
     extractor = RevenueExtractor(api_key)
 
