@@ -147,7 +147,7 @@ class RevenueExtractor:
         self.total_revenue = ""
 
         # for segments extraction
-        self.segment_prompt = "You are a finance expert. You are given a revenue table in a text format extracted from an annual report. Your task is to return the segments that form the revenue, as well as the corresponding values with the exact value and unit. Please extract the information from only one table, without combining the results of all the tables. You must output all the segments in a json format: {'segment_name': {'year 1': value, 'year 2': 'value'}}. No need to output other information."
+        self.segment_prompt = "You are a finance expert. You are given a revenue table in a text format extracted from an annual report. Your task is to return the segments that form the revenue, and the corresponding values with the exact value and unit such as RMB or US, and in thousands or millions. Please extract the information from only one table, without combining the results of all the tables. You must output all the segments in a json format: {'segment_name': {'year 1': value, 'year 2': 'value'}}. No need to output other information."
 
         self.segments = {}
 
@@ -258,10 +258,13 @@ class RevenueExtractor:
         self.segments = segments
 
         return segments
+    
+    def extract_sentences(self):
+        segment_names = self.segments.keys()
 
 
 if __name__ == "__main__":
-    pdf_path = "AR_2022_2023.pdf"
+    pdf_path = "pdf_sample/a9ce0cd7-2166-3317-af23-5dd3c11d3e53.pdf"
     api_key = "sk-436808c023b34f4185c96d8d438aa4a3"
     extractor = RevenueExtractor(pdf_path, api_key)
 
@@ -288,9 +291,11 @@ if __name__ == "__main__":
     # final_results = {}
     # for pdf in natsorted(os.listdir("pdf_sample")):
     #     pdf_path = f"pdf_sample/{pdf}"
-    #     results, confidence = extractor.extract_revenue_table(pdf_path)
-    #     total_revenue = extractor.extract_total_revenue(extractor.all_tables_text)
-    #     final_results[pdf.split(".")[0]] = {"tables": results, "total_revenue": total_revenue, "confidence": confidence}
+    #     extractor = RevenueExtractor(pdf_path, api_key)
+    #     results, confidence = extractor.extract_revenue_table()
+    #     total_revenue = extractor.extract_total_revenue()
+    #     segments = extractor.extract_segments()
+    #     final_results[pdf.split(".")[0]] = {"tables": results, "total_revenue": total_revenue, "confidence": confidence, "segments": segments}
     #     print("Finished processing: ", pdf)
 
     # with open("final_results.json", "w") as f:
