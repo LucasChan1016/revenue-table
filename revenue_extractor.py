@@ -260,7 +260,20 @@ class RevenueExtractor:
         return segments
     
     def extract_sentences(self):
-        segment_names = self.segments.keys()
+        segment_names = list(self.segments.keys())
+
+        document = fitz.open(self.pdf_path)
+
+        segments_pages = defaultdict(list)
+
+        for page_num, page in enumerate(document):
+            page_num += 1
+            text = page.get_textpage().extractText()
+            
+            for name in segment_names:
+                if name in text:
+                    # print(f"Segment '{name}' found on page {page_num}")
+                    segments_pages[name].append(page_num)
 
 
 if __name__ == "__main__":
