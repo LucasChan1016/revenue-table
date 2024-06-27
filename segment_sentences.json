@@ -1,0 +1,45 @@
+{
+    "Gasoline": {
+        "Marketing and distribution": [
+            "Marketing and distribution, which owns and operates oil depots and service stations in the PRC, and distributes and sells refined petroleum products (mainly gasoline and diesel) in the PRC through wholesale and retail sales networks."
+        ]
+    },
+    "Diesel": {
+        "Marketing and distribution": [
+            "Marketing and distribution, which owns and operates oil depots and service stations in the PRC, and distributes and sells refined petroleum products (mainly gasoline and diesel) in the PRC through wholesale and retail sales networks."
+        ]
+    },
+    "Crude oil": {
+        "Exploration and production": [
+            "Exploration and production, which explores and develops oil fields, produces crude oil and natural gas and sells such products to the refining segment of the Group and external customers."
+        ]
+    },
+    "Chemical feedstock": {
+        "Chemicals": [
+            "Chemicals, which manufactures and sells petrochemical products, derivative petrochemical products and other chemical products mainly to external customers."
+        ]
+    },
+    "Basic organic chemicals": {
+        "Basic organic chemicals": []
+    },
+    "Synthetic resin": {
+        "Synthetic resin": []
+    },
+    "Kerosene": {
+        "Kerosene": []
+    },
+    "Natural gas": {
+        "Exploration and production": [
+            "Exploration and production, which explores and develops oil fields, produces crude oil and natural gas and sells such products to the refining segment of the Group and external customers."
+        ]
+    },
+    "Synthetic fiber monomers and polymers": {
+        "Synthetic fiber monomers and polymers": []
+    },
+    "Others (i)": {
+        "Others (i)": [
+            "The segments were determined primarily because the Group manages its exploration and production, refining, marketing and distribution, chemicals, and corporate and other businesses separately.",
+            "The reportable segments are each managed separately because they manufacture and/or distribute distinct products with different production processes and due to their distinct operating and gross margin characteristics."
+        ]
+    }
+}
