@@ -1,0 +1,33 @@
+{
+    "pdf_path": "pdf_sample/9a3cb882-bf64-3506-a4f5-01e244e07bbe.pdf",
+    "tables": {
+        "114": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n\n\"___ (inthousands, except for percentages)”\n\nRevenues:\nAir mobility solutions 105,969 588 48,156 848 40,387 5,856 91.2\nSmart city management solutions 8,282 4.6 7,135 126 2,133 309 4.8\nAerial media solutions 65,656 36.5 1,100 1.9 1,341 194 3.0\nOthers 186 0.1 416 0.7 456 66 1.0\nTotal 180,093 100.0 56,807 100.0 44,317 6,425 100.0\n\f",
+        "210": "For the year ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\nPRC 164,153 91% 49,683 87% 33,975 4,926 77%\nWest Asia 2,124 1% - — 4,630 671 10%\nEurope 2,388 1% 2,199 4% 2,638 382 6%\nEast Asia 4,550 8% 4,404 8% 798 116 2%\nOther 6,878 4% 521 1% 2,276 330 5%\nTotal net revenues 180,093 100% 56,807 100% 44,317 6,425 100%\n\f",
+        "221": "For the year ended December 31,\n2020 2021 2022\n\n“RMB RMB RMB” ”°+&«JUSS\nRevenues - Products\nAir mobility solutions 105,351 46,854 38,061 5,519\nSmart city management solutions 8,282 7,135 2,133 309\nAerial media solutions 62,241 518 125 18\nOthers 186 416 456 66\nSubtotal-Products 176,060 54,923 40,775 5,912\nRevenues - Services\nAir mobility solutions 618 1,302 2,326 337\nAerial media solutions 3,415 582 1,216 176\nSubtotal-Services 4,033 1,884 3,542 513\nTotal Revenues 180,093 56,807 44,317 6,425\n\f"
+    },
+    "total_revenue": "RMB 44,317,000 and US$ 6,425,000",
+    "confidence": 1,
+    "segments": {
+        "Air mobility solutions": {
+            "2020": 105969,
+            "2021": 48156,
+            "2022": 40387
+        },
+        "Smart city management solutions": {
+            "2020": 8282,
+            "2021": 7135,
+            "2022": 2133
+        },
+        "Aerial media solutions": {
+            "2020": 65656,
+            "2021": 1100,
+            "2022": 1341
+        },
+        "Others": {
+            "2020": 186,
+            "2021": 416,
+            "2022": 456
+        }
+    },
+    "time_taken": 131.41367530822754
+}
