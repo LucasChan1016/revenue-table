@@ -3,69 +3,262 @@
         "tables": {
             "160": "For the Years Ended December 31,\n2020 2021 2022\nRMB RMB RMB US$\n(in thousands)\nNet revenues 4,829,019 6,189,801 7,065,232 1,024,362\n\f"
         },
-        "total_revenue": "1,024,362 US$ (in thousands)",
-        "confidence": 1
+        "total_revenue": 1024362,
+        "confidence": 1,
+        "segments": {
+            "Net revenues": {
+                "2020": 4829019,
+                "2021": 6189801,
+                "2022": 7065232
+            }
+        }
     },
     "000d93bd-8f91-30cf-97ab-e612ba04b3f5": {
         "tables": {
             "219": "Years ended December 31,\n\n2020 2021 2022\n\nRMB RMB RMB\nGasoline 557,605 726,057 796,667\nDiesel 422,566 542,260 743,551\nCrude oil 351,707 429,038 517,183\nChemical feedstock 22,351 44,079 42,785\nBasic organic chemicals 133,046 198,453 223,679\nSynthetic resin 122,368 149,208 144,524\nKerosene 72,385 112,519 168,017\nNatural gas 48,099 68,443 83,853\nSynthetic fiber monomers and polymers 42,388 45,464 45,335\nOthers (i) 276,139 363,979 491,762\n2,048,654 2,679,500 3,257,356\n\f"
         },
-        "total_revenue": "3,257,356 RMB million",
-        "confidence": 1
+        "total_revenue": 3257356,
+        "confidence": 1,
+        "segments": {
+            "Gasoline": {
+                "2020": 557605,
+                "2021": 726057,
+                "2022": 796667
+            },
+            "Diesel": {
+                "2020": 422566,
+                "2021": 542260,
+                "2022": 743551
+            },
+            "Crude oil": {
+                "2020": 351707,
+                "2021": 429038,
+                "2022": 517183
+            },
+            "Chemical feedstock": {
+                "2020": 22351,
+                "2021": 44079,
+                "2022": 42785
+            },
+            "Basic organic chemicals": {
+                "2020": 133046,
+                "2021": 198453,
+                "2022": 223679
+            },
+            "Synthetic resin": {
+                "2020": 122368,
+                "2021": 149208,
+                "2022": 144524
+            },
+            "Kerosene": {
+                "2020": 72385,
+                "2021": 112519,
+                "2022": 168017
+            },
+            "Natural gas": {
+                "2020": 48099,
+                "2021": 68443,
+                "2022": 83853
+            },
+            "Synthetic fiber monomers and polymers": {
+                "2020": 42388,
+                "2021": 45464,
+                "2022": 45335
+            },
+            "Others (i)": {
+                "2020": 276139,
+                "2021": 363979,
+                "2022": 491762
+            }
+        }
     },
     "2e69d284-6dac-36ef-87b5-5e9d8a8973e5": {
         "tables": {
+            "113": "For the years ended December 31,\n2020 2021 2022\nUS$ % US$ % US$ %\n(in thousands except for percentages)\n\nRevenues:\n\nCommissions 77,629 56.1 147,199 55.7 108,118 48.0\n\nFinancing service fees 6,577 4.7 9,269 3:5 7,903 3:5\n\nInterest income 31,754 22.9 70,335 26.6 85,150 37.8\n\nOther revenues 22,537 16.3 37,685 14.2 24,195 10.7\nTotal revenues 138,497 100.0 264,488 100.0 225,366 100.0\n\nInterest expense (10,102) (7.3) (18,379) (6.9) (18,669 ) (8.3)\nTotal net revenues 128,395 92.7 246,1 09 93.1 206,697 91.7\n\f",
+            "114": "The following table sets forth our operating cost and expenses, both in absolute amount and as a percentage of total revenues, for the years indicated:\nFor the years ended December 31,\n2020 2021 2022\nUS$ % US$ % US$ %\n(in thousands except for percentages)\n\nExecution and clearing 12,645 9.1 31,144 11.8 15,608 6.9\nEmployee compensation and benefits\n\n(including share-based compensation) 50,039 36.1 87,160 33.0 101,749 45.1\nOccupancy, depreciation and amortization 4,736 3.4 6,135 2.3 9,013 4.0\nCommunication and market data 10,320 7.5 22,121 8.4 27,138 12.0\nMarketing and branding 15,872 11.5 59,265 22.4 33,122 14.7\nGeneral and administrative 13,749 9.9 22,706 8.6 18,333 8.2\nTotal operating cost and expenses 107,361 77.5 228,531 86.5 204,963 90.9\n\f",
             "115": "The following table sets forth our income before income taxes, both in absolute amount and as a percentage of our total revenues, for the years indicated.\nFor the years ended December 31,\n2020 2021 2022\nUS$ % US$ % US$ %\n(in thousands except for percentages)\n\nTotal revenues 138,497 100.0 264,488 100.0 225,366 100.0\nInterest expense (10,102) (7.3) (18,379) (6.9) (18,669 ) (8.3)\nTotal net revenues 128,395 92.7 246,109 93.1 206,697 91.7\nTotal operating cost and expenses (107,361 ) (77.5) (228,531 ) (86.5 ) (204,963) (90.9 )\nOther income 996 0.7 1,476 0.6 298 0.1\nIncome before income taxes 22,030 15.9 19,054 7.2 2,032 0.9\n\f",
+            "118": "For the years ended December 31,\n2020 2021 2022\nUS$ % US$ % US$ %\n(in thousands except for percentages)\nConsolidated Statements of Operations\nData:\nRevenues:\nCommissions 715629 56.1 147,199 55.7 108,118 48.0\nFinancing service fees 6,577 4.7 9,269 3.5 7,903 3.5\nInterest income 31,754 22.9 70,335 26.6 85,150 37.8\nOther revenues 22,537 16.3 37,685 14.2 24,195 10.7\nTotal revenues 138,497 100.0 264,488 100.0 225,366 100.0\nInterest expense (10,102 ) (7.3) (18,379 ) (7.0) (18,669 ) (8.3)\nTotal net revenues 128,395 92.7 246,109 93.1 206,697 91.7\nOperating cost and expenses:\nExecution and clearing (12,645 ) (9.1) (31,144) (11.8) (15,608 ) (6.9)\nEmployee compensation and benefits\n(including share-based compensation) (50,039 ) (36.1) (87,160 ) (33.0) (101,749) (45.1)\nOccupancy, depreciation and\namortization (4,736 ) (3.4) (6,135 ) (2.3) (9,013) (4.0)\nCommunication and market data (10,320 ) (7.5) (22,121) (8.4) (27,138 ) (12.0)\nMarketing and branding (15,872 ) (11.5) (59,265 ) (22.4) (33,122 ) (14.7)\nGeneral and administrative ) ) ) ) ) )\n(13,749 (9.9 (22,706 (8.6 (18,333 (8.2\nTotal operating cost and expenses (107,361 ) (77.5) (228,531 ) (86.5) (204,963 ) (90.9)\nOther income: 996 0.7 1,476 0.6 298 0.1\nIncome before income taxes 22,030 15.9 19,054 7.2 2,032 0.9\nIncome tax expenses (2,851 ) (2.1) (4,363 ) (1.6) (4,289 ) (1.9)\nNet (loss) income 19,179 13.8 14,691 5.6 (2,257 ) (1.0)\nAdd non-GAAP adjustments\nShare-based compensation 6,055 4.4 13,370 5.1 14,214 6.3\nImpairment loss from equity investments 151 0.1 600 0.2 648 0.3\nFair value change from convertible bonds — — (4,195) (1.6) — —\nAdjusted Non-GAAP Net income 25,385 18.3 24,466 9.3 12,605 5.6\n\f",
+            "162": "ae Ie Oe NEED\n2020 2021 2022\nUS$ US$ US$\nRevenues\nCommissions 77,628,521 147,198,648 108,118,464\nInterest related income\nFinancing service fees 6,576,622 9,268,819 7,903,057\nInterest income 31,754,541 70,335,156 85,150,424\nOther revenues 22,537,006 37,685,539 24,193,602\nTotal revenues 138,496,690 264,488,162 225,365,547\nInterest expense (10,102,290 ) (18,378,823 ) (18,668,523 )\nTotal Net Revenues 128,394,400 246,109,339 206,697,024\nOperating cost and expenses:\nExecution and clearing” (12,645,113) (31,143,578 ) (15,607,914)\nEmployee compensation and benefits (including share-based compensation\nof US$6,054,612, US$13,370,377 and US$14,213,841 for the years ended\nDecember 31, 2020, 2021 and 2022, respectively) (50,039,073 ) (87,160,214) (101,749,440 )\nOccupancy, depreciation and amortization (4,735,881 ) (6,134,991 ) (9,013,467 )\nCommunication and market data’) (10,320,505 ) (22,121,263 ) (27,138,244 )\nMarketing and branding’ (15,871,777) (59,264,634 ) (33,121,767 )\nGeneral and administrative’ (13,748,818 ) (22,705,839 ) (18,332,557 )\nTotal operating cost and expenses (107,361 167) (228,530,519) (204,963,389 )\nOther income (expenses):\nFair value change from convertible bonds” _— 4,194,848 _—\nOthers, net 996,559 298,150\n(2,719,196)\nIncome before income taxes 22,029,792 19,054,472 2,031,785\nIncome tax expense (2,850,547 ) (4,363,771 ) (4,288,665 )\nNet income (loss) 19,179,245 14,690,701 (2,256,880 )\nLess:\nNet income attributable to redeemable non-controlling interests 3,114,452 _ _—\nNet income attributable to non-controlling interests _— — (129,215)\nAccretion of redeemable non-controlling interests to redemption value _— _ (58,776 )\nNet income (loss) attributable to ordinary shareholders of UP Fintech 16,064,793 14,690,701 (2,186,441 )\nNet income (loss) per share attributable to ordinary shareholders of\nUP Fintech:\nBasic 0.01 0.01 (0.00)\nDiluted 0.01 0.01 (0.00)\nWeighted average shares used in calculating net income (loss) per\nordinary share:\nBasic 2,117,904,025 2,205,186,257 2,295,154,791\nDiluted 2,162,232,325 2,335,717,204 2,295,154,791\nOther comprehensive income (loss), net of tax:\nUnrealized gain (loss) on available-for-sale securities (net of tax effect of\nUS$6,284, nil and US$88,563 for the years ended December 31, 2020,\n2021 and 2022, respectively) 41,149 1,899,605 (768,590 )\nChange in cumulative foreign currency translation adjustment 3,752,464 1,839,022 (8,130,208 )\nTotal Comprehensive income (loss) 22,972,858 18,429,328 (11,155,678 )\nTotal Comprehensive income attributable to redeemable non-controlling\ninterests 3,114,452 — —\n\f",
             "164": "For the years ended December 31,\n2020 2021 2022\nUS$ US$ US$\nCommissions 35,559,807 30,446,244 4,001,833\nInterest related income\nFinancing service fees 6,576,622 9,268,819 1,329,490\nInterest income 21,966,305 31,776,764 4,795,119\nOther revenues 8,014,524 15,556,298 1,805,126\nInterest expense (9,316,150 ) (13,938,263 ) (2,056,556 )\nExecution and clearing (7,150,700 ) (17,510,426 ) (1,751,505 )\nCommunication and market data _— (94,333 ) (135,117)\nMarketing and branding (397,590 ) _— _—\nGeneral and administrative (700,000 ) — —\nFair value change from convertible bonds a 2,860,123 a\n\f",
-            "175": "For the years ended December, 31\n2020 2021 2022\nUS$ US$ US$\nTotal revenues 16,191,693 65,295,325 44,382,701\nNet loss (7,524,524 ) (700,720) (8,220,848 )\nFor the years ended December, 31\n2020 2021 2022\nUS$ US$ US$\nNet cash (used in) provided by operating activities (597,323 ) 18,431,299 (1,552,547 )\nNet cash provided by (used in) investing activities 646,647 (4,048,620 ) (416,486 )\nNet cash provided by (used in) financing activities 311,688 (5,091,778 ) 3,760,937\n\f"
+            "175": "For the years ended December, 31\n2020 2021 2022\nUS$ US$ US$\nTotal revenues 16,191,693 65,295,325 44,382,701\nNet loss (7,524,524 ) (700,720) (8,220,848 )\nFor the years ended December, 31\n2020 2021 2022\nUS$ US$ US$\nNet cash (used in) provided by operating activities (597,323 ) 18,431,299 (1,552,547 )\nNet cash provided by (used in) investing activities 646,647 (4,048,620 ) (416,486 )\nNet cash provided by (used in) financing activities 311,688 (5,091,778 ) 3,760,937\n\f",
+            "179": "The table below presents the movement of allowance for doubtful accounts from customers for the year ended December 31, 2021 and 2022.\n2021 2022\nUS$ US$\nBalance as of January 1, 91,788 518,741\nAdditional 426,953 302,634\nWrite-off _ (124,867)\n\f",
+            "190": "Amortization\nUS$ period\n\nCash and cash equivalents 3,664,133\nCash-segregated for regulatory purpose 2,166,432\nReceivables-Brokers, dealers and clearing organizations 915,497\nOther current assets 190,132\nProperty, plant and equipment 82,284 3-5 years\nDeferred tax assets, net 13,060\nIntangible assets\n\nOperating License 527,060 Indefinite life\n\nTrading rights 128,551 Indefinite life\nOther non-current assets 218,537\nPayable to customers (2,884,596 )\nOther payables (2,018,511 )\nOther current liabilities (17,346 )\nDeferred tax liabilities (86,965 )\nNet identifiable assets acquired 2,898,268\nAdd: goodwill (Note 5) 71,265\nTotal 2,969,533\n\f"
         },
-        "total_revenue": "44,382,701 US$ (in thousands)",
-        "confidence": 0.5
+        "total_revenue": 225366000,
+        "confidence": 0,
+        "segments": {
+            "Commissions": {
+                "2020": 77629,
+                "2021": 147199,
+                "2022": 108118
+            },
+            "Financing service fees": {
+                "2020": 6577,
+                "2021": 9269,
+                "2022": 7903
+            },
+            "Interest income": {
+                "2020": 31754,
+                "2021": 70335,
+                "2022": 85150
+            },
+            "Other revenues": {
+                "2020": 22537,
+                "2021": 37685,
+                "2022": 24195
+            }
+        }
     },
     "3b08464e-9978-3c38-8c60-7cd239050855": {
         "tables": {
             "142": "For the Years Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands, except percentages)\nRevenues:\nPackaged tours 302,359 67.2 305,333 71.6 70,314 10,195 38.3\nOthers 147,900 32.8 121,015 28.4 113,306 16,428 61.7\nNet revenues 450,259 100.0 426,348 100.0 183,620 26,623 100.0\n\f"
         },
-        "total_revenue": "183,620 RMB (in thousands)",
-        "confidence": 1
+        "total_revenue": 26623,
+        "confidence": 1,
+        "segments": {
+            "Packaged tours": {
+                "2020": 302359,
+                "2021": 305333,
+                "2022": 10195
+            },
+            "Others": {
+                "2020": 147900,
+                "2021": 121015,
+                "2022": 16428
+            },
+            "Net revenues": {
+                "2020": 450259,
+                "2021": 426348,
+                "2022": 26623
+            }
+        }
     },
     "3d059130-fc20-3f1d-95c9-5778a5a58b21": {
         "tables": {
             "145": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands, except for percentages)\n\nRevenues\nPublic Cloud Services Revenues 5,166,851 78.5 6,159,085 68.0 5,360,282 777,168 65.6\n\nEnterprise Cloud Services Revenues 1,372,689 20.9 2,897,817 32.0 2,816,976 408,423 34.4\n\nOthers 37,767 0.6 3,882 0.0 2,849 413 0.0\nTotal Revenues 6,577,307 100.0 9,060,784 100.0 8,180,107 1,186,004 100.0\n\f"
         },
-        "total_revenue": "8,180,107 RMB (in thousands)",
-        "confidence": 1
+        "total_revenue": 1186004,
+        "confidence": 1,
+        "segments": {
+            "Public Cloud Services Revenues": {
+                "2020": 5166851,
+                "2021": 6159085,
+                "2022": 5360282
+            },
+            "Enterprise Cloud Services Revenues": {
+                "2020": 1372689,
+                "2021": 2897817,
+                "2022": 2816976
+            },
+            "Others": {
+                "2020": 37767,
+                "2021": 3882,
+                "2022": 2849
+            }
+        }
     },
     "3e7da988-b969-3703-bf91-596d105bffb7": {
         "tables": {
             "154": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands, except for percentages)\n\nRevenues\n\nMobile device charging business 2,711,541 96.5 3,455,797 96.4 2,754,143 399,313 97.0\n\nPower bank sales 77,598 2.8 102,857 2.9 59,476 8,623 2.1\n\nOthers 20,220 0.7 26,737 0.7 24,571 3,562 0.9\nTotal revenues 2,809,359 100.0 3,585,391 100.0 2,838,190 411,498 100.0\n\f"
         },
-        "total_revenue": "411,498 US$ (in thousands)",
-        "confidence": 1
+        "total_revenue": 411498,
+        "confidence": 1,
+        "segments": {
+            "Mobile device charging business": {
+                "2020": 2711541,
+                "2021": 3455797,
+                "2022": 399313
+            },
+            "Power bank sales": {
+                "2020": 77598,
+                "2021": 102857,
+                "2022": 8623
+            },
+            "Others": {
+                "2020": 20220,
+                "2021": 26737,
+                "2022": 3562
+            }
+        }
     },
     "4a1641f0-241a-33fe-9f1c-ec0687ad4d29": {
         "tables": {
             "136": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands, except for percentages)\n\nCredit facilitation service income 7,525,581 64.6 6,955,810 61.1 5,963,803 864,670 60.4\nLoan facilitation and servicing fees-credit oriented 3,786,996 32.5 4,448,344 39.1 2,486,527 360,513 25.2\nGuarantee income 2,319,693 1939) 774,544 6.8 1,453,180 210,691 14.7\nFinancing income \\\"’ 1,418,892 12.2 1,732,922 15.2 2,024,096 293,466 20.5\n\nTech-empowerment service income “”) 2,186,746 18.8 2,762,995 24.3 1,845,943 267,637 18.7\n\nInstallment e-commerce platform service income 1,932,928 16.6 1,661,720 14.6 2,056,065 298,101 20.8\n\nTotal operating revenue 11,645,255 100.0 11,380,525 100.0 9,865,811 1,430,408 100.0\n\nNote:\n\f",
             "230": "The following table presents the Group’s operating revenue within the scope of ASC 606 disaggregated by revenue sources:\nFor the Year Ended December 31,\n2020 2021 2022\n(RMB in thousands)\n\nInstallment e-commerce platform service income\n\nInstallment e-commerce platform service income 1,900,835 1,661,156 1,997,838\n\nOther services 32,093 564 58,227\nTotal installment e-commerce platform service income 1,932,928 1,661,720 2,056,065\nCredit facilitation service income\n\nLoan facilitation and matching servicing fees-credit oriented 2,628,941 3,120,892 1,404,507\n\nPost-origination servicing fees-credit oriented 1,087,567 1,327,452 1,082,020\n\nInvestment Program management service fees-credit oriented 70,488 ~ a\nTotal credit facilitation service income 3,786,996 4,448,344 2,486,527\nTech-empowerment service income\n\nLoan facilitation and matching servicing fees- performance based 1,656,998 1,727,794 935,234\n\nPost-origination servicing fees- performance based 273,837 561,658 427,404\n\nLoan facilitation and servicing fees- volume based 106,007 279,902 252,460\n\nMembership services 113,107 107,901 82,256\n\nOther services 36,797 85,740 148,589\nTotal tech-empowerment service income 2,186,746 2,762,995 1,845,943\nTotal revenue from loan facilitation and servicing fees 5,823,838 7,017,698 4,101,625\nTotal operating revenue within the scope of ASC 606 7,906.670 8,873,059 6,388,535\n\f"
         },
-        "total_revenue": "9,865,811 RMB (in thousands)",
-        "confidence": 1
+        "total_revenue": 9865811,
+        "confidence": 1,
+        "segments": {
+            "Credit facilitation service income": {
+                "2020": 7525581,
+                "2021": 6955810,
+                "2022": 5963803
+            },
+            "Loan facilitation and servicing fees-credit oriented": {
+                "2020": 3786996,
+                "2021": 4448344,
+                "2022": 2486527
+            },
+            "Guarantee income": {
+                "2020": 2319693,
+                "2021": 774544,
+                "2022": 1453180
+            },
+            "Financing income": {
+                "2020": 1418892,
+                "2021": 1732922,
+                "2022": 2024096
+            },
+            "Tech-empowerment service income": {
+                "2020": 2186746,
+                "2021": 2762995,
+                "2022": 1845943
+            },
+            "Installment e-commerce platform service income": {
+                "2020": 1932928,
+                "2021": 1661720,
+                "2022": 2056065
+            }
+        }
     },
     "4e9de22e-57e5-3701-845c-e9b08256bbd1": {
         "tables": {
-            "85": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands, except for percentages)\nZhangmen Kids 200,059 92.7 237,762 79.4 86,212 12,500 88.5\nOthers 15,691 7.3 61,534 20.6 11,154 1,617 11.5\nTotal net revenues 215,750 100.0 299,296 100.0 97,366 14,117 100.0\n\f",
             "136": "Year ended December 31,\n2020 2021 2022\nRMB RMB RMB\nRevenues from continuing operations:\nZhangmen Kids 200,059 237,762 86,212\nOthers 15,691 61,534 11,154\n215,750 299,296 97,366\n\f"
         },
-        "total_revenue": "97,366,000 RMB",
-        "confidence": 1
+        "total_revenue": 97366,
+        "confidence": 1,
+        "segments": {
+            "Zhangmen Kids": {
+                "2020": 200059,
+                "2021": 237762,
+                "2022": 86212
+            },
+            "Others": {
+                "2020": 15691,
+                "2021": 61534,
+                "2022": 11154
+            }
+        }
     },
     "4fa37fab-5790-3d21-8718-407333f287b3": {
         "tables": {
             "131": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands, except for percentages)\n\nNet revenues\n\nAudio entertainment 1,481,120 98.6 2,101,475 99.1 2,174,314 315,246 99.5\nPodcast, advertising and others 21,788 1.4 18,039 0.9 10,952 1,588 0.5\nTotal 1,502,908 100.0 2,119,514 100.0 2,185,266 316,834 100.0\n\f",
             "230": "For the year ended December 31,\n2020 2021 2022\nRMB RMB RMB\nAudio entertainment 1,481,120 2,101,475 2,174,314\nPodcast, advertising and others 21,788 18,039 10,952\nTotal 1,502,908 2,119,514 2,185,266\n\f"
         },
-        "total_revenue": "2,185,266 RMB (in thousands)",
-        "confidence": 1
+        "total_revenue": 2185266,
+        "confidence": 1,
+        "segments": {
+            "Audio entertainment": {
+                "2020": 1481120,
+                "2021": 2101475,
+                "2022": 2174314
+            },
+            "Podcast, advertising and others": {
+                "2020": 21788,
+                "2021": 18039,
+                "2022": 10952
+            }
+        }
     },
     "5d42fc53-e7f0-36ca-b446-a6bcc16c8eac": {
         "tables": {
@@ -73,92 +266,426 @@
             "261": "Years ended December 31,\n2020 2021 2022\n\nNet revenues:\n\nPRC teaching and management services — — 5,440\n\nPRC play-and-learn centers 12,215 13,254 7,918\n\nSingapore kindergartens, student care centers and others 25,964 31,007 30,752\n\nOthers 4,247 7,644 5,904\nTotal net revenues 42,426 51,905 50,014\n\f",
             "263": "Years ended December 31,\n2020 2021 2022\nRecognized over time 34,669 41,179 43,472\nRecognized point in time 7,757 10,726 6,542\nTotal net revenues 42,426 51,905 50,014\n\f"
         },
-        "total_revenue": "50,014 US$ (in thousands)",
-        "confidence": 1
+        "total_revenue": 50014000,
+        "confidence": 1,
+        "segments": {
+            "Tuition fees from kindergartens, student care centers and play-and-learn centers": {
+                "2020": 26160,
+                "2021": 32387,
+                "2022": 31292
+            },
+            "Franchise fees": {
+                "2020": 8256,
+                "2021": 8612,
+                "2022": 7111
+            },
+            "Teaching and management services": {
+                "2020": 0,
+                "2021": 0,
+                "2022": 5440
+            },
+            "Training and other services": {
+                "2020": 1115,
+                "2021": 2817,
+                "2022": 919
+            },
+            "Royalty fees": {
+                "2020": 253,
+                "2021": 180,
+                "2022": 56
+            },
+            "Sale of educational merchandise": {
+                "2020": 6642,
+                "2021": 7909,
+                "2022": 5196
+            }
+        }
     },
     "6f02f942-3e1d-3053-b12b-e1082a9356db": {
         "tables": {
             "183": "For the years ended December 31,\n2020 2021 2022\nRevenues from operations:\nAir Travel Media Network $ 23,474 $ 9,191 $ 2,768\nCryptocurrency mining _— 2,604 _\nOthers 72 1 201\n$ 23,546 $ 11,796 $ 2,969\n\f"
         },
-        "total_revenue": "2,969",
-        "confidence": 0.95
+        "total_revenue": 2969,
+        "confidence": 0.9,
+        "segments": {
+            "Air Travel Media Network": {
+                "2020": 23474,
+                "2021": 9191,
+                "2022": 2768
+            },
+            "Cryptocurrency mining": {
+                "2020": 0,
+                "2021": 2604,
+                "2022": 0
+            },
+            "Others": {
+                "2020": 72,
+                "2021": 1,
+                "2022": 201
+            }
+        }
     },
     "7d280936-6d08-35ae-bdf9-fa3fb2791828": {
         "tables": {
             "186": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands, except for percentages)\n\nNet Revenues\n\nLearning services 1,513,960 59.9 2,441,421 60.8 3,084,375 447,192 61.5\n\nSmart devices 539,962 21.4 980,424 244 1,256,446 182,168 25.1\n\nOnline marketing services 472,884 18.7 593,949 14.8 672,361 97,483 13.4\nTotal net revenues 2,526,806 100.0 4,015,794 100.0 5,013,182 726,843 100.0\n\f",
             "314": "For the year ended December 31,\n\n2020 2021 2022\n\nRMB RMB RMB\nLearning services 1,513,960 2,441,421 3,084,375\nTutoring services 1,369,010 2,271,036 2,886,126\nFee-based premium services 144,950 170,385 198,249\nSmart devices 539,962 980,424 1,256,446\nOnline marketing services 472,884 593,949 672,361\nTotal net revenues 2,526,806 4,015,794 5,013,182\n\f"
         },
-        "total_revenue": "5,013,182 RMB (in thousands)",
-        "confidence": 1
+        "total_revenue": 5013182,
+        "confidence": 1,
+        "segments": {
+            "Learning services": {
+                "2020": 1513960,
+                "2021": 2441421,
+                "2022": 3084375
+            },
+            "Smart devices": {
+                "2020": 539962,
+                "2021": 980424,
+                "2022": 1256446
+            },
+            "Online marketing services": {
+                "2020": 472884,
+                "2021": 593949,
+                "2022": 672361
+            },
+            "Tutoring services": {
+                "2020": 1369010,
+                "2021": 2271036,
+                "2022": 2886126
+            },
+            "Fee-based premium services": {
+                "2020": 144950,
+                "2021": 170385,
+                "2022": 198249
+            }
+        }
     },
     "08de6fb2-42a5-3c04-92cc-41df09db462a": {
         "tables": {
             "91": "For the Year Ended December 31,\n2020 2021 2022\nRMB’000 RMB’000 RMB$’000 US’000\nOnline advertising services 172,811 214,722 221,620 32,132\nEnterprise value-added services 193,213 74,032 72,640 10,532\nSubscription services 20,740 28,025 28,237 4,094\nTotal revenues 386,764 316,779 322,497 46,758\n\f",
             "183": "For the year ended December 31,\n2020 2021 2022\nRMB’000 RMB’000 RMB’000\n\nOnline advertising services 172,811 214,722 221,620\nEnterprise value-added services\n\nIntegrated marketing 133,599 1,342 6,639\nOnline/offline events 26,992 32,127 15,475\nConsulting 32,622 36,867 43,200\nAdvertisement agent services _— 3,696 7,326\nRevenue for Enterprise value -added services 193,213 74,032 72,640\nSubscription services\n\nInstitutional investor subscription services 16,036 25,490 27,095\nEnterprise subscription services 361 94 423\nIndividual subscription services 4,343 2,441 719\nRevenue for Subscription services 20,740 28,025 28,237\nTotal revenue 386,764 316,779 322,497\n\f"
         },
-        "total_revenue": "322,497 RMB'000",
-        "confidence": 1
+        "total_revenue": 322497000,
+        "confidence": 1,
+        "segments": {
+            "Online advertising services": {
+                "2020": 172811,
+                "2021": 214722,
+                "2022": 221620
+            },
+            "Enterprise value-added services": {
+                "2020": 193213,
+                "2021": 74032,
+                "2022": 72640
+            },
+            "Subscription services": {
+                "2020": 20740,
+                "2021": 28025,
+                "2022": 28237
+            },
+            "Integrated marketing": {
+                "2020": 133599,
+                "2021": 1342,
+                "2022": 6639
+            },
+            "Online/offline events": {
+                "2020": 26992,
+                "2021": 32127,
+                "2022": 15475
+            },
+            "Consulting": {
+                "2020": 32622,
+                "2021": 36867,
+                "2022": 43200
+            },
+            "Advertisement agent services": {
+                "2020": 0,
+                "2021": 3696,
+                "2022": 7326
+            },
+            "Institutional investor subscription services": {
+                "2020": 16036,
+                "2021": 25490,
+                "2022": 27095
+            },
+            "Enterprise subscription services": {
+                "2020": 361,
+                "2021": 94,
+                "2022": 423
+            },
+            "Individual subscription services": {
+                "2020": 4343,
+                "2021": 2441,
+                "2022": 719
+            }
+        }
     },
     "9a3cb882-bf64-3506-a4f5-01e244e07bbe": {
         "tables": {
-            "210": "For the year ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\nPRC 164,153 91% 49,683 87% 33,975 4,926 77%\nWest Asia 2,124 1% - — 4,630 671 10%\nEurope 2,388 1% 2,199 4% 2,638 382 6%\nEast Asia 4,550 8% 4,404 8% 798 116 2%\nOther 6,878 4% 521 1% 2,276 330 5%\nTotal net revenues 180,093 100% 56,807 100% 44,317 6,425 100%\n\f"
+            "114": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n\n\"___ (inthousands, except for percentages)”\n\nRevenues:\nAir mobility solutions 105,969 588 48,156 848 40,387 5,856 91.2\nSmart city management solutions 8,282 4.6 7,135 126 2,133 309 4.8\nAerial media solutions 65,656 36.5 1,100 1.9 1,341 194 3.0\nOthers 186 0.1 416 0.7 456 66 1.0\nTotal 180,093 100.0 56,807 100.0 44,317 6,425 100.0\n\f",
+            "210": "For the year ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\nPRC 164,153 91% 49,683 87% 33,975 4,926 77%\nWest Asia 2,124 1% - — 4,630 671 10%\nEurope 2,388 1% 2,199 4% 2,638 382 6%\nEast Asia 4,550 8% 4,404 8% 798 116 2%\nOther 6,878 4% 521 1% 2,276 330 5%\nTotal net revenues 180,093 100% 56,807 100% 44,317 6,425 100%\n\f",
+            "221": "For the year ended December 31,\n2020 2021 2022\n\n“RMB RMB RMB” ”°+&«JUSS\nRevenues - Products\nAir mobility solutions 105,351 46,854 38,061 5,519\nSmart city management solutions 8,282 7,135 2,133 309\nAerial media solutions 62,241 518 125 18\nOthers 186 416 456 66\nSubtotal-Products 176,060 54,923 40,775 5,912\nRevenues - Services\nAir mobility solutions 618 1,302 2,326 337\nAerial media solutions 3,415 582 1,216 176\nSubtotal-Services 4,033 1,884 3,542 513\nTotal Revenues 180,093 56,807 44,317 6,425\n\f"
         },
-        "total_revenue": "6,425 US$ million",
-        "confidence": 100
+        "total_revenue": 6425,
+        "confidence": 1,
+        "segments": {}
     },
     "9c21c57a-35c7-3cb4-82ae-126bc7ecf641": {
         "tables": {
             "141": "2020 2021 2022\n(RMB in (RMB in (RMB in (US$in\nthousands) (%) thousands) (%) thousands) thousands) (%)\n\nProducts\n\nSilicon wafers 452,141.4 1.3 1,152,055.5 2.8 466,553.0 67,643.8 0.6\nSolar cells 344,509.5 1.0 606,581.8 1.5 1,024,113.7 148,482.5 2\nSolar modules 32,556,394.4 92.7 37,737,382.6 92.4 80,224,353.8 11,631,437.9 96.5\nSales of other solar materials 478,184.0 1.3 1,043,759.6 2.6 1,380,875.0 200,208.1 1.7\nSales of solar projects 1,197,712.6 3.4 — _— 31,400.1 4,552.6 0.0\nProcessing service fees 186,045.2 0.5 — — _—\nRevenue from generated electricity 100,516.6 0.3 100,696.4 0.2 _— _ _—\nTotal 35,129,458.6 100.0 40,826,521.1 100.0 83,127,295.6 12,052,324.9 100.0\n\f",
             "272": "For the years ended December 31,\n\n2020 2021 2022\n\nRMB RMB RMB\nSales of solar modules 32,556,394 37,737,383 80,224,354\nSales of solar projects 1,197,713 _ 31,400\nSales of silicon wafers 452,141 1,152,055 466,553\nSales of solar cells 344,510 606,582 1,024,114\nSales of other solar materials 478,184 1,043,760 1,380,875\nProcessing service fees _— 186,045 _—\nRevenue from generated electricity 100,517 100,696 _\nTotal 35,129,459 40,826,521 83,127,296\n\f"
         },
-        "total_revenue": "83,127,296 RMB",
-        "confidence": 1
+        "total_revenue": 83127295.6,
+        "confidence": 1,
+        "segments": {
+            "Silicon wafers": {
+                "2020": 452141.4,
+                "2021": 1152055.5,
+                "2022": 466553
+            },
+            "Solar cells": {
+                "2020": 344509.5,
+                "2021": 606581.8,
+                "2022": 1024113.7
+            },
+            "Solar modules": {
+                "2020": 32556394.4,
+                "2021": 37737382.6,
+                "2022": 80224353.8
+            },
+            "Sales of other solar materials": {
+                "2020": 478184,
+                "2021": 1043759.6,
+                "2022": 1380875
+            },
+            "Sales of solar projects": {
+                "2020": 1197712.6,
+                "2021": 0,
+                "2022": 31400.1
+            },
+            "Processing service fees": {
+                "2020": 0,
+                "2021": 186045.2,
+                "2022": 0
+            },
+            "Revenue from generated electricity": {
+                "2020": 100516.6,
+                "2021": 100696.4,
+                "2022": 0
+            }
+        }
     },
     "9d4d8e53-3874-3cb4-b1df-18d9218c7bb2": {
         "tables": {
             "114": "Year Ended December 31,\n2020 2021 2022\n% of total % of total % of total\nRMB revenues RMB revenues RMB US$ revenues\n(in thousands, except for percentages)\n\nRevenues\nFinancing income 2,102,665 57.0 1,255,488 75.9 308,717 44,760 53.4\nSales commission fee 80,992 2.2 35,411 2.1 115 17 0.0\nSales income and others 610,793 16.5 100,668 6.1 82,617 11,978 14.3\nPenalty fees 72,235 2.0 67,316 4.1 53,445 7,749 9.3\nGuarantee income 826,198 22.4 3,935 0.2 _— _— —\nLoan facilitation income and other related income 131,633 3.6 39,531 2.4 18,809 2,727 3.3\nTransaction services fee and other related income (136,542) (3.7) 151,694 9.2 113,790 16,498 19.7\nTotal revenues 3,687,974 100.0 1,654,043 100.0 577,493 83,729 100.0\n\f"
         },
-        "total_revenue": "83,729 US$ (in thousands)",
-        "confidence": 1
+        "total_revenue": 83729,
+        "confidence": 0.95,
+        "segments": {
+            "Financing income": {
+                "2020": 2102665,
+                "2021": 1255488,
+                "2022": 308717
+            },
+            "Sales commission fee": {
+                "2020": 80992,
+                "2021": 35411,
+                "2022": 115
+            },
+            "Sales income and others": {
+                "2020": 610793,
+                "2021": 100668,
+                "2022": 82617
+            },
+            "Penalty fees": {
+                "2020": 72235,
+                "2021": 67316,
+                "2022": 53445
+            },
+            "Guarantee income": {
+                "2020": 826198,
+                "2021": 3935,
+                "2022": 0
+            },
+            "Loan facilitation income and other related income": {
+                "2020": 131633,
+                "2021": 39531,
+                "2022": 18809
+            },
+            "Transaction services fee and other related income": {
+                "2020": -136542,
+                "2021": 151694,
+                "2022": 113790
+            }
+        }
     },
     "24ddebec-566d-341c-8920-d7a5847499d6": {
         "tables": {
-            "174": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n\n(in thousands, except for percentages)\nNet revenue:\nCredit-driven services 11,403,675 84.1 10,189,167 61.2 11,586,251 1,679,849 70.0\nLoan facilitation and servicing fees-capital heavy 4,596,555 33.9 2,326,027 14.0 2,086,414 302,502 12.6\nRevenue from loan facilitation services 3,160,457 23.3 1,399,310 8.4 1,442,100 209,085 8.7\nRevenue from post-facilitation services 1,436,098 10.6 926,717 5.6 644,314 93,417 3.9\nFinancing income 2,184,180 16.1 2,184,128 13.1 3,487,951 505,705 21.1\nRevenue from releasing of guarantee liabilities 4,506,935 33.2 5,983,135 33.6 5,899,153 855,297 35.6\nOther services fees 116,005 0.9 95,877 0.5 112,733 16,345 0.7\nPlatform services 2,160,279 15.9 6,446,478 38.8 4,967,679 720,245 30.0\nLoan facilitation and servicing fees-capital light 1,826,654 13.5 5,677,941 34.2 4,124,726 598,029 24.9\nRevenue from loan facilitation services 1,416,715 10.4 4,484,632 27.0 2,656,511 385,159 16.0\nRevenue from post-facilitation services 409,939 3.1 1,193,309 7.2 1,468,215 212,870 8.9\nReferral service fees 265,300 2.0 620,317 3.7 561,372 81,391 3.4\nOther services fees 68,325 0.5 148,220 0.9 281,581 40,825 1.7\nTotal net revenue 13,563,954 100.0 16,635,645 100.0 16,553,930 2,400,094 100.0\n\f",
-            "294": "Year ended Year ended Year ended\nDecember December December\n31, 2020 31, 2021 31, 2022\nRMB RMB RMB\n\nCredit driven services 11,403,675 10,189,167 11,586,251\nLoan facilitation and servicing fees-capital heavy 4,596,555 2,326,027 2,086,414\nRevenue from loan facilitation services At a point in time 3,160,457 1,399,310 1,442,100\nRevenue from post-facilitation services Overtime 1,436,098 926,717 644,314\nFinancing income Overtime 2,184,180 2,184,128 3,487,951\nRevenue from releasing of guarantee liabilities Overtime 4,506,935 5,583,135 5,899,153\nOther services fees At a point in time 116,005 95,877 112,733\nPlatform services 2,160,279 6,446,478 4,967,679\nLoan facilitation and servicing fees-capital light 1,826,654 5,677,941 4,124,726\nRevenue from loan facilitation services At a point in time 1,416,715 4,484,632 2,656,511\nRevenue from post-facilitation services Overtime 409,939 1,193,309 1,468,215\nReferral services fees At a point in time 265,300 620,317 561,372\nOther services fees At a point in time/Overtime 68,325 148,220 281,581\nTotal net revenue 13,563,954 16,635,645 16,553,930\n\f"
+            "174": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n\n(in thousands, except for percentages)\nNet revenue:\nCredit-driven services 11,403,675 84.1 10,189,167 61.2 11,586,251 1,679,849 70.0\nLoan facilitation and servicing fees-capital heavy 4,596,555 33.9 2,326,027 14.0 2,086,414 302,502 12.6\nRevenue from loan facilitation services 3,160,457 23.3 1,399,310 8.4 1,442,100 209,085 8.7\nRevenue from post-facilitation services 1,436,098 10.6 926,717 5.6 644,314 93,417 3.9\nFinancing income 2,184,180 16.1 2,184,128 13.1 3,487,951 505,705 21.1\nRevenue from releasing of guarantee liabilities 4,506,935 33.2 5,983,135 33.6 5,899,153 855,297 35.6\nOther services fees 116,005 0.9 95,877 0.5 112,733 16,345 0.7\nPlatform services 2,160,279 15.9 6,446,478 38.8 4,967,679 720,245 30.0\nLoan facilitation and servicing fees-capital light 1,826,654 13.5 5,677,941 34.2 4,124,726 598,029 24.9\nRevenue from loan facilitation services 1,416,715 10.4 4,484,632 27.0 2,656,511 385,159 16.0\nRevenue from post-facilitation services 409,939 3.1 1,193,309 7.2 1,468,215 212,870 8.9\nReferral service fees 265,300 2.0 620,317 3.7 561,372 81,391 3.4\nOther services fees 68,325 0.5 148,220 0.9 281,581 40,825 1.7\nTotal net revenue 13,563,954 100.0 16,635,645 100.0 16,553,930 2,400,094 100.0\n\f"
         },
-        "total_revenue": "16,553,930 RMB (in thousands)",
-        "confidence": 1
+        "total_revenue": 16553930000,
+        "confidence": 1,
+        "segments": {
+            "Credit-driven services": {
+                "2020": 11403675,
+                "2021": 10189167,
+                "2022": 1679849
+            },
+            "Loan facilitation and servicing fees-capital heavy": {
+                "2020": 4596555,
+                "2021": 2326027,
+                "2022": 302502
+            },
+            "Revenue from loan facilitation services": {
+                "2020": 1416715,
+                "2021": 4484632,
+                "2022": 385159
+            },
+            "Revenue from post-facilitation services": {
+                "2020": 409939,
+                "2021": 1193309,
+                "2022": 212870
+            },
+            "Financing income": {
+                "2020": 2184180,
+                "2021": 2184128,
+                "2022": 505705
+            },
+            "Revenue from releasing of guarantee liabilities": {
+                "2020": 4506935,
+                "2021": 5983135,
+                "2022": 855297
+            },
+            "Other services fees": {
+                "2020": 68325,
+                "2021": 148220,
+                "2022": 40825
+            },
+            "Platform services": {
+                "2020": 2160279,
+                "2021": 6446478,
+                "2022": 720245
+            },
+            "Loan facilitation and servicing fees-capital light": {
+                "2020": 1826654,
+                "2021": 5677941,
+                "2022": 598029
+            },
+            "Referral service fees": {
+                "2020": 265300,
+                "2021": 620317,
+                "2022": 81391
+            }
+        }
     },
     "27ce0eda-2547-34ee-9806-5d8be21b5c9b": {
         "tables": {
-            "221": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands, except for percentages)\n\nNet revenues\nTeaching and learning\nSaaS 16,72\n\nofferings — — — —_— 115,365 6 21.7\nOther educational products 60,27\n\nand services 75,807 5.9 55,910 2.6 415,699 1 78.3\nOnline K-12 tutoring 1,218,56 2,128,61\n\nservices 4 94.1 0 97.4 _— _— —\nTotal 1,294,37 2,184,52 76,99\n\n1 100.0 0 100.0 531,064 7 100.0\n\f",
-            "378": "Year ended December 31,\n2020 2021 2022\nRMB RMB RMB\nTeaching and learning SaaS offerings — — 115,365\nOther educational products and services 75,807 55,910 415,699\nOnline K-12 tutoring services 1,218,56 2,128,61\n4 0 _—\nTotal net revenues 1,294.37 2,184,52\n1 0 531,064\n\f"
+            "221": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands, except for percentages)\n\nNet revenues\nTeaching and learning\nSaaS 16,72\n\nofferings — — — —_— 115,365 6 21.7\nOther educational products 60,27\n\nand services 75,807 5.9 55,910 2.6 415,699 1 78.3\nOnline K-12 tutoring 1,218,56 2,128,61\n\nservices 4 94.1 0 97.4 _— _— —\nTotal 1,294,37 2,184,52 76,99\n\n1 100.0 0 100.0 531,064 7 100.0\n\f"
         },
-        "total_revenue": "531,064,000 RMB (in thousands)",
-        "confidence": 0.95
+        "total_revenue": 7699531000,
+        "confidence": 0.95,
+        "segments": {
+            "Teaching and learning SaaS offerings": {
+                "2020": 115365,
+                "2021": 21.7,
+                "2022": null
+            },
+            "Other educational products and services": {
+                "2020": 75807,
+                "2021": 55910,
+                "2022": 415699
+            },
+            "Online K-12 tutoring services": {
+                "2020": 1218564,
+                "2021": 2128610,
+                "2022": null
+            },
+            "Total": {
+                "2020": 1294371,
+                "2021": 2184520,
+                "2022": 7699531
+            }
+        }
     },
     "28a5cc35-84f1-3271-8be2-ccd208e3082a": {
         "tables": {
             "158": "Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB USS %\n(in thousands, except for percentages)\nRevenues:\nAutomobile trading income 624,774 30.4 2,227,172 56.8 1,596,307 231,443 80.6\nLoan facilitation income and other related income 891,837 43.5 1,233,556 31.5 146,429 21,230 7.4\nLeasing income 286,079 13.9 251,295 6.4 155,522 22,549 7.9\nAfter-market services income 241,193 11.8 193,787 4.9 71,457 10,360 3.6\nOthers 8,549 0.4 15,906 0.4 10,739 1,557 0.5\nTotal 2,052,432 100.0 3,921,716 100.0 1,980,453 287,139 100.0\n\f"
         },
-        "total_revenue": "1,980,453 RMB (in thousands)",
-        "confidence": 1
+        "total_revenue": 287139,
+        "confidence": 1,
+        "segments": {
+            "Automobile trading income": {
+                "2020": 624774,
+                "2021": 2227172,
+                "2022": 1596307
+            },
+            "Loan facilitation income and other related income": {
+                "2020": 891837,
+                "2021": 1233556,
+                "2022": 146429
+            },
+            "Leasing income": {
+                "2020": 286079,
+                "2021": 251295,
+                "2022": 155522
+            },
+            "After-market services income": {
+                "2020": 241193,
+                "2021": 193787,
+                "2022": 71457
+            },
+            "Others": {
+                "2020": 8549,
+                "2021": 15906,
+                "2022": 10739
+            }
+        }
     },
     "43fa50ca-6dd7-3133-8752-9bde56f72770": {
         "tables": {
             "139": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands, except for percentages)\n\nRevenues:\n\nOnline marketing services and others 47,953,779 80.6 72,563,402 77.2 102,721,924 14,893,279 78.7\nTransaction services 5,787,415 9.7 14,140,449 15.1 27,626,494 4,005,465 21.2\nMerchandise sales 5,750,671 9.7 7,246,088 7.7 209,171 30,327 0.1\nTotal revenues 59,491,865 100.0 93,949,939 100.0 130,557,589 18,929,071 100.0\n\f",
             "266": "For the years ended December 31,\n2020 2021 2022 2022\nRMB RMB RMB US$\nOnline marketing services and others 47,953,779 72,563,402 102,721,924 14,893,279\nTransaction services 5,787,415 14,140,449 27,626,494 4,005,465\nMerchandise sales 5,750,671 7,246,088 209,171 30,327\n59,491,865 93,949,939 130,557,589 18,929,071\n\f"
         },
-        "total_revenue": "18,929,071 US$ (in thousands)",
-        "confidence": 1
+        "total_revenue": 18929071000,
+        "confidence": 1,
+        "segments": {
+            "Online marketing services and others": {
+                "2020": 47953779,
+                "2021": 72563402,
+                "2022": 14893279
+            },
+            "Transaction services": {
+                "2020": 5787415,
+                "2021": 14140449,
+                "2022": 4005465
+            },
+            "Merchandise sales": {
+                "2020": 5750671,
+                "2021": 7246088,
+                "2022": 30327
+            }
+        }
     },
     "44f83fbe-7dd9-3ed6-88ca-990a0349db70": {
         "tables": {
-            "114": "For the Year Ended December 31,\n2021 2022\nRMB % RMB US$ %\n(in thousands, except for percentages)\n\nRevenues:\n\nColocation services 2,649,371 92.9 4,197,502 608,581 92.2\n\nColocation rental 114,681 4.0 203,381 29,487 4.5\n\nOthers 88,225 3.1 150,779 21,861 3.3\nTotal Revenues 2,852,277 100.0 4,551,662 659,929 100.0\n\f",
-            "203": "For the year ended December 31,\n\n2020 2021 2022 2022\n\nRMB RMB RMB US$\nColocation services 1,701,911 2,649,371 4,197,502 608,581\nColocation rental 124,991 114,681 203,381 29,487\nOthers 4,175 88,225 150,779 21,861\n1,831,077 2,852,277 4,551,662 659,929\n\nF-31\n\f"
+            "114": "For the Year Ended December 31,\n2021 2022\nRMB % RMB US$ %\n(in thousands, except for percentages)\n\nRevenues:\n\nColocation services 2,649,371 92.9 4,197,502 608,581 92.2\n\nColocation rental 114,681 4.0 203,381 29,487 4.5\n\nOthers 88,225 3.1 150,779 21,861 3.3\nTotal Revenues 2,852,277 100.0 4,551,662 659,929 100.0\n\f"
         },
-        "total_revenue": "4,551,662 RMB (in thousands)",
-        "confidence": 1
+        "total_revenue": 4551662,
+        "confidence": 1,
+        "segments": {
+            "Colocation services": {
+                "2021": 2649371,
+                "2022": 4197502
+            },
+            "Colocation rental": {
+                "2021": 114681,
+                "2022": 203381
+            },
+            "Others": {
+                "2021": 88225,
+                "2022": 150779
+            }
+        }
     },
     "78cf4857-3fcd-36f5-b9da-adac8c338194": {
         "tables": {
@@ -166,101 +693,393 @@
             "136": "For the Year Ended December 31,\n2021 2022 Change\nRMB RMB : US$ RMB US$ %\n(in thousands, except percentages)\nRevenues\nAdvertising 1,160,886 926,296 134,300 (234,590) (34,012) (20.2)\nPaid membership 668,507 1,230,804 178,450 562,297 81,525 84.1\nContent-commerce solutions 973,986 1,030,184 149,363 56,198 8,148 5.8\nVocational training”) 45,823 248,266 35,995 202,443 29,351 441.8\nOthers“) 110,122 169,369 24,556 59,247 8,590 53.8\nTotal 2,959,324 3,604,919 522,664 645,595 93,602 21.8\n\f",
             "281": "For the Year Ended December 31,\n\n2020 2021 2022\n\nRMB RMB RMB\nAdvertising service 843,284 1,160,886 926,296\nPaid membership service 320,471 668,507 1,230,804\nContent-commerce solutions 135,813 973,986 1,030,184\nVocational training* 7,080 45,823 248,266\nOthers 45,548 110,122 169,369\nTotal 1,352,196 2,959,324 3,604,919\n\f"
         },
-        "total_revenue": "3,604,919 RMB (in thousands)",
-        "confidence": 1
+        "total_revenue": 3604919,
+        "confidence": 1,
+        "segments": {
+            "Advertising": {
+                "2020": 843284,
+                "2021": 1160886,
+                "2022": 926296
+            },
+            "Paid membership": {
+                "2020": 320471,
+                "2021": 668507,
+                "2022": 1230804
+            },
+            "Content-commerce solutions": {
+                "2020": 135813,
+                "2021": 973986,
+                "2022": 1030184
+            },
+            "Vocational training": {
+                "2020": 7080,
+                "2021": 45823,
+                "2022": 248266
+            },
+            "Others": {
+                "2020": 45548,
+                "2021": 110122,
+                "2022": 169369
+            }
+        }
     },
     "81cafc38-7920-36f3-bdd7-1007ee26be52": {
         "tables": {
             "167": "Net revenues\nFor the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands, except for percentages)\n\nNet revenues:\n\nExisting home transaction services 30,564,584 43.4 31,947,953 39.6 24,123,703 3,497,608 39.8\nNew home transaction services 37,937,886 53.8 46,472,378 57.5 28,650,374 4,153,914 47.2\nHome renovation and furnishing 108,960 0.2 197,452 0.2 5,046,627 731,692 8.3\nEmerging and other services 1,869,548 2.6 2,134,656 2.7 2,848,075 412,932 4,7\nTotal net revenues 70,480,978 100.0 80,752,439 100.0 60,668,779 8,796,146 100.0\n\f",
             "399": "For the Year Ended December 31,\n2020 2021 2022\nRMB RMB RMB\n(in thousands)\n\nRevenues from related parties\nOnline marketing services provided to Ziroom 72,309 104,888 90,262\nPlatform services provided to IFM 41,704 69,717 65,258\nAgency services provided to Ziroom 55,447 53,150 34,197\nAgency services and other services provided to Shengdu — 7,565 8,700\nAgency services provided to Yuanjing Mingde 35,154 4,491 5,183\nTechnical services provided to Tencent — 1,608 745\nAgency services, online marketing services and home renovation services provided to Vanlian 14,706 174,511 _—\nCommission support services provided to brokerage firms 201,385 423,448 441,471\nPlatform and franchise services provided to brokerage firms 1,870 8,512 13,011\nOthers _— _— 5,376\nTotal 422,575 847,890 664,203\n\f"
         },
-        "total_revenue": "60,668,779 RMB (in thousands)",
-        "confidence": 1
+        "total_revenue": 8796146,
+        "confidence": 1,
+        "segments": {
+            "Existing home transaction services": {
+                "2020": 30564584,
+                "2021": 31947953,
+                "2022": 3497608
+            },
+            "New home transaction services": {
+                "2020": 37937886,
+                "2021": 46472378,
+                "2022": 4153914
+            },
+            "Home renovation and furnishing": {
+                "2020": 108960,
+                "2021": 197452,
+                "2022": 731692
+            },
+            "Emerging and other services": {
+                "2020": 1869548,
+                "2021": 2134656,
+                "2022": 412932
+            }
+        }
     },
     "90d130a1-2225-3e07-b73d-7794d066edaa": {
         "tables": {
             "85": "Year ended December 31,\n2020 2021 2022\n“Sales —s‘NetSales %of § Sales  NetSales %of § Sales  NetSales %of\nVolume (RMB Total Volume (RMB Total Volume (RMB Total\n(‘000 tons) million) Net Sales (‘000 tons) million) Net Sales (‘000tons) _ million) Net Sales\nSynthetic fibers 151.4 1,472.4 2.4 101.9 1,374.8 1.8 22.4 412.5 0.6\nResins and plastics 1,365.4 9,419.7 15.3 1,254.9 9,962.7 13.1 889.3 7,321.2 10.1\nIntermediate petrochemicals 2,168.0 8,205.8 13.3 1,989.1 10,780.5 14.2 1,544.2 10,537.7 14.5\nPetroleum products 10,347.7  30,139.6 49.0 10,065.0 41,884.4 55.2 7,211.4 41,444.7 57.0\nTrading of petrochemical products —  11,577.3 18.8 — 11,051.4 14.6 —  12,007.6 16.5\nOthers — 746.1 1.2 — 835.0 11 —_ 930.9 1.3\nTotal 14,032.5 61,560.9 100.0 13,410.9 75,888.8 100.0 9,667.3 72,654.6 100.0\n\f"
         },
-        "total_revenue": "72,654.6 million RMB",
-        "confidence": 1
+        "total_revenue": 72654.6,
+        "confidence": 1,
+        "segments": {
+            "Synthetic fibers": {
+                "2020": 1472.4,
+                "2021": 1374.8,
+                "2022": 412.5
+            },
+            "Resins and plastics": {
+                "2020": 9419.7,
+                "2021": 9962.7,
+                "2022": 7321.2
+            },
+            "Intermediate petrochemicals": {
+                "2020": 8205.8,
+                "2021": 10780.5,
+                "2022": 10537.7
+            },
+            "Petroleum products": {
+                "2020": 30139.6,
+                "2021": 41884.4,
+                "2022": 41444.7
+            },
+            "Trading of petrochemical products": {
+                "2020": 11577.3,
+                "2021": 11051.4,
+                "2022": 12007.6
+            },
+            "Others": {
+                "2020": 746.1,
+                "2021": 835,
+                "2022": 930.9
+            }
+        }
     },
     "0129c5e0-dacb-32d4-92ca-fc5f7d5c8a6b": {
         "tables": {
             "163": "Year Ended December 31\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands)\n\nRevenues:\n\nVehicle sales 15,182,522 93.4 33,169,740 91.8 45,506,581 6,597,834 92.4\n\nOther sales() 1,075,411 6.6 2,966,683 8.2 3,761,980 545,436 7.6\nTotal revenues 16,257,933 100.0 36,136,423 100.0 49,268,561 7,143,270 100.0\n\f",
+            "165": "(1) Other sales are comprised as below:\nYear Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands)\n\nOther sales\n\nSales of packages and provision of power solution 244,072 1.5 526,171 1.5 857,912 124,386 1.7\nSales of charging piles 229,781 1.4 319,386 0.9 405,246 98,755 0.8\nSales of automotive regulatory credits 120,648 0.8 516,549 1.4 67,291 9,756 0.1\nBattery upgrade service 5,346 0.0 291,218 0.8 64,123 9,297 0.1\nOthers 475,564 2.9 1,313,359 3.6 2,367,408 343,242 4.9\nTotal 1,075,411 6.6 2,966,683 8.2 3,761,980 545,436 7.6\n\f",
             "336": "Year Ended December 31,\n2020 2021 2022\nVehicle sales 15,182,522 33,169,740 45,506,581\nSales of packages and provision of power solution 244,072 526,171 857,912\nSales of charging piles 229,781 319,386 405,246\nSales of automotive regulatory credits 120,648 516,549 67,291\nBattery upgrade service 5,346 291,218 64,123\nOthers 475,564 1,313,359 2,367,408\nTotal 16,257,933 36,136,423 49,268,561\n\f"
         },
-        "total_revenue": "7,143,270 US$ (in thousands)",
-        "confidence": 1
+        "total_revenue": 49268561,
+        "confidence": 1,
+        "segments": {
+            "Vehicle sales": {
+                "2020": 15182522,
+                "2021": 33169740,
+                "2022": 45506581
+            },
+            "Sales of packages and provision of power solution": {
+                "2020": 244072,
+                "2021": 526171,
+                "2022": 857912
+            },
+            "Sales of charging piles": {
+                "2020": 229781,
+                "2021": 319386,
+                "2022": 405246
+            },
+            "Sales of automotive regulatory credits": {
+                "2020": 120648,
+                "2021": 516549,
+                "2022": 67291
+            },
+            "Battery upgrade service": {
+                "2020": 5346,
+                "2021": 291218,
+                "2022": 64123
+            },
+            "Others": {
+                "2020": 475564,
+                "2021": 1313359,
+                "2022": 2367408
+            }
+        }
     },
     "2177e713-b2bd-3783-b782-b31db7d5695a": {
         "tables": {
-            "157": "For the Year Ended December 31,\n2020 2021 2022\n% of total net % of total net % of total net\nUS$ revenues US$ revenues US$ revenues\n(in thousands, except for percentages)\nLive streaming 1,815,826 94.7 2,476,790 94.6 2,225,518 92.3\nOthers 102,318 5.3 142,261 5.4 185,998 7.7\nTotal net revenues “) 1,918,144 100.0 2,619,051 100.0 2,411,516 100.0\n\f",
+            "157": "For the Year Ended December 31,\n2020 2021 2022\n% of total net % of total net % of total net\nUS$ revenues US$ revenues US$ revenues\n(in thousands, except for percentages)\nDeveloped countries and regions\") 639,442 33.4 913,947 35.0 866,107 35.8\nMiddle East!) 475,662 24.8 621,775 23.7 514,992 21.4\nMainland China 336,200 17.5 440,797 16.8 473,941 19.7\nSoutheast Asia and others(3) 466,840 24.3 642,532 24.5 556,476 23.1\nTotal net revenues 1,918,144 100.0 2,619,051 100.0 2,411,516 100.0\n\f",
             "171": "For the Year Ended December 31,\n2020 2021 2022\nUS$ US$ US$\n(in thousands)\n\nNet Revenues:\nBIGO 1,732,811 2,323,758 1,997,021\nAll other 185,333 295,360 414,740\nElimination _ (67) (245)\n\f",
             "401": "For the years ended December 31,\n2020 2021 2022\nUS$ US$ US$\nRevenues:\n\nMainland China 336,200 440,797 473,941\nDeveloped countries and regions 639,442 913,947 866,107\nMiddle East 475,662 621,775 514,992\nSoutheast Asia and others 466,840 642,532 556,476\n\f"
         },
-        "total_revenue": "2,411,516 US$ (in thousands)",
-        "confidence": 1
+        "total_revenue": 4823032,
+        "confidence": 1,
+        "segments": {
+            "Developed countries and regions": {
+                "2020": 639442,
+                "2021": 913947,
+                "2022": 866107
+            },
+            "Middle East": {
+                "2020": 475662,
+                "2021": 621775,
+                "2022": 514992
+            },
+            "Mainland China": {
+                "2020": 336200,
+                "2021": 440797,
+                "2022": 473941
+            },
+            "Southeast Asia and others": {
+                "2020": 466840,
+                "2021": 642532,
+                "2022": 556476
+            }
+        }
     },
     "4618f882-ab07-38cf-ad70-6479d8c7668a": {
         "tables": {
             "156": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n“——————(inthousands, exceptforpercentages) =\nRevenues:\nSale of merchandise, net 4,829,397 87.3 1,798,882 83.5 965,796 140,027 83.7\nMarketplace revenue 599,895 10.8 321,844 149 170,561 24,729 14.8\nOther revenues(1) 100,965 1.9 34,635 1.6 17,757 2,574 1.5\nTotal 5,530,257 100.0 2,155,361 100.0 1,154,114 167,330 100.0\n\f"
         },
-        "total_revenue": "167,330 US$ (in thousands)",
-        "confidence": 1
+        "total_revenue": 167330,
+        "confidence": 1,
+        "segments": {
+            "Sale of merchandise, net": {
+                "2020": 4829397,
+                "2021": 1798882,
+                "2022": 140027
+            },
+            "Marketplace revenue": {
+                "2020": 599895,
+                "2021": 321844,
+                "2022": 24729
+            },
+            "Other revenues(1)": {
+                "2020": 100965,
+                "2021": 34635,
+                "2022": 2574
+            }
+        }
     },
     "4843ab8c-fb7b-3870-9137-1b4da5b0a182": {
         "tables": {
-            "175": "Refining,\n\nOil, Gas and Chemicals Head\n2022 New Energy and New Natural Gas Office and\nType of contract Resource Material Marketing Sales Other Total\nType of goods and services\nCrude oil 667,205 _— 813,328 _— — 1,480,533\nNatural gas 151,241 _— 553,551 482,590 _— 1,187,382\nRefined products — 938,829 880,682 — — 1,819,511\nChemical products _— 219,089 60,872 _— _— 279,961\nPipeline transportation business — — — 829 — 829\nNon-oil sales in gas stations _— — 30,590 _— = 30,590\nOthers 110,550 6,515 432,103 35,730 5,452 590,350\nIntersegment elimination (777,846) (827,572) (520,502) (22,156) (3,210) (2,151,286)\nRevenue from contracts with customers 151,150 336,861 2,250,624 496,993 2,242 3,237,870\nOther revenue 283 163 768 62 21 1,297\nTotal 151,433 337,024 2,251,392 497,055 2,263 3,239,167\nGeographical Region\nChina’s mainland 86,645 336,861 964,872 496,993 2,242 1,887,613\nOthers 64,505 _— 1,285,752 _— _— 1,350,257\nRevenue from contracts with customers 151,150 336,861 2,250,624 496,993 2,242 3,237,870\nOther revenue 283 163 768 62 21 1,297\nTotal 151,433 337,024 2,251,392 497,055 2,263 3,239,167\n\f"
+            "73": "2021 2022\n\nvs. vs.\n\n2020 2021 2020 2022 2021\n\n(RMB in millions, except percentages)\nRevenue\n\nOil, gas and new energy 530,807 688,334 29.7% 929,279 35.0%\nRefining, chemicals and new materials 774,775 974,972 25.8% 1,164,596 19.4%\nMarketing 1,497,533 2,170,062 449% 2,771,894 27.7%\nNatural gas sales 370,771 417,022 12.5% 519,211 245%\nHeadquarters and others 3,547 3,894 9.8% 5,473 40.5%\nTotal 3,177,433 4,254,284 33.9% 5,390,453 26.7%\nLess: elimination (1,243,597) (1,639,935) 31.9% (2,151,286) 31.2%\nConsolidated net sales from operations 1,933,836 2,614,349 35.2% 3,239,167 23.9%\n\f",
+            "175": "Refining,\n\nOil, Gas and Chemicals Head\n2022 New Energy and New Natural Gas Office and\nType of contract Resource Material Marketing Sales Other Total\nType of goods and services\nCrude oil 667,205 _— 813,328 _— — 1,480,533\nNatural gas 151,241 _— 553,551 482,590 _— 1,187,382\nRefined products — 938,829 880,682 — — 1,819,511\nChemical products _— 219,089 60,872 _— _— 279,961\nPipeline transportation business — — — 829 — 829\nNon-oil sales in gas stations _— — 30,590 _— = 30,590\nOthers 110,550 6,515 432,103 35,730 5,452 590,350\nIntersegment elimination (777,846) (827,572) (520,502) (22,156) (3,210) (2,151,286)\nRevenue from contracts with customers 151,150 336,861 2,250,624 496,993 2,242 3,237,870\nOther revenue 283 163 768 62 21 1,297\nTotal 151,433 337,024 2,251,392 497,055 2,263 3,239,167\nGeographical Region\nChina’s mainland 86,645 336,861 964,872 496,993 2,242 1,887,613\nOthers 64,505 _— 1,285,752 _— _— 1,350,257\nRevenue from contracts with customers 151,150 336,861 2,250,624 496,993 2,242 3,237,870\nOther revenue 283 163 768 62 21 1,297\nTotal 151,433 337,024 2,251,392 497,055 2,263 3,239,167\n\f",
+            "204": "December 31, 2022 December 31, 2021\n\nRMB RMB\nWithin 1 year 162,431 130,863\nBetween 1 and 2 years 2,682 2,767\nBetween 2 and 3 years 1,072 948\nOver 3 years 6,361 5,960\n172,546 140,538\n\f"
         },
-        "total_revenue": "3,239,167 million",
-        "confidence": 0.95
+        "total_revenue": 5390453,
+        "confidence": 0.9,
+        "segments": {
+            "Oil, gas and new energy": {
+                "2020": 530807,
+                "2021": 688334,
+                "2022": 929279
+            },
+            "Refining, chemicals and new materials": {
+                "2020": 774775,
+                "2021": 974972,
+                "2022": 1164596
+            },
+            "Marketing": {
+                "2020": 1497533,
+                "2021": 2170062,
+                "2022": 2771894
+            },
+            "Natural gas sales": {
+                "2020": 370771,
+                "2021": 417022,
+                "2022": 519211
+            },
+            "Headquarters and others": {
+                "2020": 3547,
+                "2021": 3894,
+                "2022": 5473
+            }
+        }
     },
     "6194e704-82cf-338b-a9a2-36093fc50938": {
         "tables": {
             "150": "For the Year Ended December 31,\n2020 2021 2022\nUS$ % US$ % US$ %\n(in thousands, except for percentages)\nCloud computing services and products 64,345 34.5 94,813 39.6 119,635 34.9\nSubscriptions 84,299 45.1 91,174 38.0 100,557 29.4\nLive streaming and other internet value-added services 38,039 20.4 53,614 22.4 122,372 35.7\nTotal 186,683 100.0 239,601 100.0 342,564 100.0\n\f",
             "249": "Revenue from operations Years ended December 31,\n\n(in thousands) 2020 2021 2022\nSubscription revenue 84,299 91,174 100,557\nLive streaming revenue and other internet value-added services (note a) 38,039 53,614 122,372\nCloud computing services and product revenue (note b) 64,345 94,813 119,635\nTotal revenues 186,683 239,601 342,564\n\f"
         },
-        "total_revenue": "342,564 US$ (in thousands)",
-        "confidence": 1
+        "total_revenue": 342564,
+        "confidence": 1,
+        "segments": {
+            "Cloud computing services and products": {
+                "2020": 64345,
+                "2021": 94813,
+                "2022": 119635
+            },
+            "Subscriptions": {
+                "2020": 84299,
+                "2021": 91174,
+                "2022": 100557
+            },
+            "Live streaming and other internet value-added services": {
+                "2020": 38039,
+                "2021": 53614,
+                "2022": 122372
+            }
+        }
     },
     "7630c2fc-d6e8-3122-b563-9e721c34d800": {
         "tables": {
             "237": "Year Ended December 31,\n2020 2021 2022\n(in US$ thousands)\nAdvertising and marketing revenues\nRevenues from advertisers signing contracts with the Group directly $ 416,270 $ 478,874 $ 356,503\nRevenues from advertising agencies 1,069,885 1,501,921 1,240,147\n1,486,155 1,980,795 1,596,650\nValue-added services revenues 203,776 276,288 239,682\nTotal revenues $ 1,689,931 $ 2,257,083 $ 1,836,332\n\f"
         },
-        "total_revenue": "1,836,332 US$ thousands",
-        "confidence": 1
+        "total_revenue": 1836332,
+        "confidence": 1,
+        "segments": {
+            "Advertising and marketing revenues": {
+                "2020": 1486155,
+                "2021": 1980795,
+                "2022": 1596650
+            },
+            "Value-added services revenues": {
+                "2020": 203776,
+                "2021": 276288,
+                "2022": 239682
+            }
+        }
     },
     "35704fd1-007d-368c-8d62-ce344ce833fe": {
         "tables": {
             "108": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands, except for percentages)\n\nProduct revenues\n\nB2C 666,223 8.1 491,855 3.9 408,305 59,198 3.0\nB2B 7,490,449 91.3 11,839,850 95.3 12,995,131 1,884,117 96.2\nSub total 8,156,672 99.4 12,331,705 99.2 13,403,436 1,943,315 99.2\nService revenues 46,485 0.6 94,197 0.8 113,262 16,421 0.8\nTotal 8,203,157 100.0 12,425,902 100.0 13,516,698 1,959,736 100.0\n\f",
-            "193": "ee ne ON I I I I IDE IIR III NI IIR III N I IID IED EEE\nYears Ended December 31,\n2020 2021 2022\nProduct Revenues 8,156,672 12,331,705 13,403,436\nDrugs 7,398,433 11,681,106 12,572,634\nNutritional supplements 559,239 442,497 554,789\nMedical supplies and devices 149,051 124,919 164,916\nOther products. 49,949 83,183 111,097\nService Revenues 46,485 94,197 113,262\nMP Service 30,533 52,309 68,477\nOther Services 15,952 41,888 44,785\nTotal 8,203,157 12,425,902 13,516,698\n\f",
             "202": "Years Ended December 31,\n2020 2021 2022\nProduct Revenues 8,156,672 12,331,705 13,403,436\nB2C Business 666,223 491,855 408,305\nB2B Business 7,490,449 11,839,850 12,995,131\nService Revenues 46,485 94,197 113,262\nMP Service 30,533 52,309 68,477\nOther Services 15,952 41,888 44,785\nTotal 8,203,157 12,425,902 13,516,698\n\f"
         },
-        "total_revenue": "1,959,736 US$ (in thousands)",
-        "confidence": 1
+        "total_revenue": 13516698,
+        "confidence": 1,
+        "segments": {
+            "B2C": {
+                "2020": 666223,
+                "2021": 491855,
+                "2022": 59198
+            },
+            "B2B": {
+                "2020": 7490449,
+                "2021": 11839850,
+                "2022": 1884117
+            },
+            "Service revenues": {
+                "2020": 46485,
+                "2021": 94197,
+                "2022": 16421
+            }
+        }
     },
     "43532eaf-f163-3233-b514-8774f0c61751": {
         "tables": {
             "140": "For the Years Ended December 31,\n2022 2021 2020\nCFD trading gains/(losses) $ (7,476,190) $ 4,374,807 $ 1,883,958\nTRS trading gains/(losses) (3,913,422) 10,523,974 13,157\nOther trading losses (78,357) (1,519,635) (63,240)\nTotal $ (11,467,969) $ 13,379,146 $ 1,833,875\nThe following table represents the effect of trading activities on the consolidated statements of operations and comprehensive income (loss):\nTrading Revenue\nType of Instrument 2022 2021 2020\nForeign Currency $ (310) §$ 1,454 § (1,443)\nStock Indices (7,175,826) 4,879,459 1,438,798\nCommodities (300,054) (506,106) 446,603\nEquity (3,991,779) 9,004,339 (50,083)\n$ (11,467,969) $ 13,379,146 $ 1,833,875\nF-22\nTrading Revenue\nLine Item in Consolidated Statements of Operations and Comprehensive Income (Loss) 2022 2021 2020\nTrading gains (losses) $ (11,467,969) §$ 13,379,146 $ 1,833,875\n\f"
         },
-        "total_revenue": "$ (11,467,969)",
-        "confidence": 1
+        "total_revenue": -11467969,
+        "confidence": 1,
+        "segments": {
+            "CFD trading gains/(losses)": {
+                "2020": 1883958,
+                "2021": 4374807,
+                "2022": -7476190
+            },
+            "TRS trading gains/(losses)": {
+                "2020": 13157,
+                "2021": 10523974,
+                "2022": -3913422
+            },
+            "Other trading losses": {
+                "2020": -63240,
+                "2021": -1519635,
+                "2022": -78357
+            },
+            "Foreign Currency": {
+                "2020": -1443,
+                "2021": 1454,
+                "2022": -310
+            },
+            "Stock Indices": {
+                "2020": 1438798,
+                "2021": 4879459,
+                "2022": -7175826
+            },
+            "Commodities": {
+                "2020": 446603,
+                "2021": -506106,
+                "2022": -300054
+            },
+            "Equity": {
+                "2020": -50083,
+                "2021": 9004339,
+                "2022": -3991779
+            }
+        }
     },
     "755349e7-c35f-3031-9857-b2cfd70bf6b7": {
         "tables": {
-            "248": "For the year ended December 31,\n2020 2021 2022\n“RMB ~~ RMB ~~~ ~RMB\nLive streaming 10,311,624 10,186,204 8,195,907\nOther revenues (i) 602,750 1,165,242 1,024,555\nTotal 10,914,374 11,351,446 9,220,462\n\f",
-            "280": "For the year ended December 31,\n2020 2021 2022\nRMB RMB RMB\nContent costs and revenue sharing fees charged by Tencent and Huya’s related\nparties 85,361 102,311 100,627\nAdvertising, sub-licensing and other revenues from Tencent and Huya’s related\nparties 8,197 188,209 13,072\nOthers 34,044 21,013 18,213\n\f"
+            "248": "For the year ended December 31,\n2020 2021 2022\n“RMB ~~ RMB ~~~ ~RMB\nLive streaming 10,311,624 10,186,204 8,195,907\nOther revenues (i) 602,750 1,165,242 1,024,555\nTotal 10,914,374 11,351,446 9,220,462\n\f"
         },
-        "total_revenue": "9,220,462 RMB",
-        "confidence": 0.95
+        "total_revenue": 9220462,
+        "confidence": 0.95,
+        "segments": {
+            "Live streaming": {
+                "2020": 10311624,
+                "2021": 10186204,
+                "2022": 8195907
+            },
+            "Other revenues (i)": {
+                "2020": 602750,
+                "2021": 1165242,
+                "2022": 1024555
+            }
+        }
     },
     "5594850a-36e2-3be2-9970-c8a51744eb19": {
         "tables": {
             "141": "For the year ended December 31,\n2020 2021 2022\nUS$ % US$ % US$ %\n(in thousands, except for percentages)\n\nRevenue\n\nIoT PaaS 151,677 84.3 261,360 86.5 152,914 73.5\nSmart device distribution 22,071 12.3 22,153 VES. 25,446 12.2\nSaaS and others 6,126 3.4 18,563 6.2 29,812 14.3\nTotal 179,874 100.0 302,076 100.0 208,172 100.0\n\f",
             "248": "Year Ended December 31,\n2020 2021 2022\nUS$ US$ US$\nIoT PaaS 151,677 261,360 152,914\nSmart device distribution 22,071 22,153 25,446\nSaaS and others 6,126 18,563 29,812\nTotal revenue 179,874 302,076 208,172\n\f"
         },
-        "total_revenue": "208,172 US$ (in thousands)",
-        "confidence": 1
+        "total_revenue": 208172000,
+        "confidence": 1,
+        "segments": {
+            "IoT PaaS": {
+                "2020": 151677,
+                "2021": 261360,
+                "2022": 152914
+            },
+            "Smart device distribution": {
+                "2020": 22071,
+                "2021": 22153,
+                "2022": 25446
+            },
+            "SaaS and others": {
+                "2020": 6126,
+                "2021": 18563,
+                "2022": 29812
+            }
+        }
     },
     "26274672-34cc-3dbd-a8b4-48933f1b189d": {
         "tables": {
@@ -268,30 +1087,103 @@
             "119": "Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands, except for percentages)\n\nOther revenue\n\nInterest income 61,467 4.7 65,092 3.7 44,100 6,394 1.3\n\nInvestor referral 59,230 4.6 178,616 10.0 269,256 39,039 8.3\n\nOthers 123,648 9.5 66,612 3.7 76,333 11,067 2.3\nTotal other revenue 244,345 18.8 310,320 17.4 389,689 56,500 11.9\n\f",
             "194": "The following table illustrates the disaggregation of revenue by product and services the Group offered in 2020, 2021 and 2022, respectively:\nLoan Post-\nfacilitation origination Other\nFor the year ended December 31, 2020 services services revenues Total\nRMB RMB RMB RMB\nCurrent loan products 943,084 112,731 _— 1,055,815\nOther services —_— —_— 244,345 244,345\nTotal 943,084 112,731 244,345 1,300,160\nLoan Post-\nfacilitation origination Other\nFor the year ended December 31, 2021 services services revenues Total\nRMB RMB RMB RMB\nCurrent loan products 1,470,170 _— _— 1,470,170\nOther services —_— _— 310,320 310,320\nTotal 1,470,170 — 310,320 1,780,490\nLoan Post-\nfacilitation origination Other\nFor the year ended December 31, 2022 services services revenues Total\nRMB RMB RMB RMB\nCurrent loan products 2,881,725 _— _— 2,881,725\nOther services —_— — 389,689 389,689\nTotal 2,881,725 = 389,689 3,271,414\n\f"
         },
-        "total_revenue": "3,271,414 RMB (in thousands)",
-        "confidence": 1
+        "total_revenue": 3271414,
+        "confidence": 1,
+        "segments": {
+            "Loan facilitation services": {
+                "2020": 943084,
+                "2021": 1470170,
+                "2022": 2881725
+            },
+            "Post-origination services": {
+                "2020": 112731,
+                "2021": 0,
+                "2022": 0
+            },
+            "Other revenue": {
+                "2020": 244345,
+                "2021": 310320,
+                "2022": 389689
+            }
+        }
     },
     "a9ce0cd7-2166-3317-af23-5dd3c11d3e53": {
         "tables": {
             "130": "Year Ended December 31,\n2020 2021 2022\n(RMB) % (RMB) % (RMB) (US$) %\n(in millions except percentages)\n\nRevenues:\n\nLeased and owned hotels 6,908 67.8 8,118 63.5 9,148 1,326 66.0\nManachised and franchised hotels 3,136 30.8 4,404 34.4 4,405 639 31.8\nOthers 152 1.4 263 2.1 309 45 2.2\nTotal revenues 10,196 100.0 12,785 100.0 13,862 2,010 100.0\n\f",
             "244": "Years Ended December 31,\n2020 2021 2022\n\nRoom revenues 5,735 7,024 7,971\nFood and beverage revenues 608 694 1,049\nOthers 565 400 528\nLeased and owned hotels revenue 6,908 8,118 9,148\nInitial one-time license/franchise fee 110 109 106\n\n: . 1,057 1,479 1,375\nOn-going management and service/royalty fees\nCentral reservation system usage fees, other system maintenance and support fees 908 1,399 1,262\nReimbursements for hotel manager fees 657 897 1,103\nOther fees 404 520 559\nManachised and franchised hotels revenue 3,136 4,404 4,405\nOther revenues 152 263 309\nTotal revenues 10,196 12,785 13,862\n\f"
         },
-        "total_revenue": "13,862 million RMB",
-        "confidence": 1
+        "total_revenue": 13862,
+        "confidence": 1,
+        "segments": {
+            "Leased and owned hotels": {
+                "2020": 6908,
+                "2021": 8118,
+                "2022": 9148
+            },
+            "Manachised and franchised hotels": {
+                "2020": 3136,
+                "2021": 4404,
+                "2022": 4405
+            },
+            "Others": {
+                "2020": 152,
+                "2021": 263,
+                "2022": 309
+            }
+        }
     },
     "a377ab26-0a90-389e-aa71-175bb68c0984": {
         "tables": {
             "115": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands, except percentages)\nRevenues:\nRecommendation services:\nLoans 109,814 18.7 167,483 20.8 258,069 37,416 26.1\nCredit cards 294,567 50.3 407,759 50.7 473,673 68,676 47.9\nTotal recommendation services 404,381 69.0 575,242 71.5 731,742 106,092 74.0\nBig data and system-based risk management services 144,227 24.6 130,408 16.2 96,917 14,052 9.8\nMarketing and other services 37,154 6.4 99,397 12.3 161,016 23,345 16.2\nTotal revenues 585,762 100.0 805,047 100.0 989,675 143,489 100.0\n\f"
         },
-        "total_revenue": "989,675 RMB (in thousands)",
-        "confidence": 1
+        "total_revenue": "Not found",
+        "confidence": 1,
+        "segments": {
+            "Recommendation services": {
+                "2020": 404381,
+                "2021": 575242,
+                "2022": 106092
+            },
+            "Big data and system-based risk management services": {
+                "2020": 144227,
+                "2021": 130408,
+                "2022": 14052
+            },
+            "Marketing and other services": {
+                "2020": 37154,
+                "2021": 99397,
+                "2022": 23345
+            }
+        }
     },
     "a325100f-0011-3869-b40e-bd66891c9339": {
         "tables": {
             "161": "For the year ended December 31,\n2020 2021 2022 2022\nRMB RMB RMB US$\n(in thousands)\n\nNet revenues:\nGames and related value-added services 58,719,895 67,819,288 74,566,471 10,811,122\nYoudao 3,167,515 5,354,357 5,013,182 726,843\nCloud Music 4,895,731 6,997,622 8,992,221 1,303,749\nInnovative businesses and others 6,883,992 7,434,759 7,923,935 1,148,863\nTotal net revenues 73,667,133 87,606,026 96,495,809 13,990,577\n\f"
         },
-        "total_revenue": "13,990,577 US$ (in thousands)",
-        "confidence": 1
+        "total_revenue": 13990577,
+        "confidence": 1,
+        "segments": {
+            "Games and related value-added services": {
+                "2020": 58719895,
+                "2021": 67819288,
+                "2022": 10811122
+            },
+            "Youdao": {
+                "2020": 3167515,
+                "2021": 5354357,
+                "2022": 726843
+            },
+            "Cloud Music": {
+                "2020": 4895731,
+                "2021": 6997622,
+                "2022": 1303749
+            },
+            "Innovative businesses and others": {
+                "2020": 6883992,
+                "2021": 7434759,
+                "2022": 1148863
+            }
+        }
     },
     "ab418d5e-c8f0-30b8-bbc2-e948702b71ac": {
         "tables": {
@@ -302,86 +1194,333 @@
             "250": "2020 2021 2022\nRMB RMB RMB\nConsumer credit segment:\nLoan facilitation services 1,329,720 2,105,776 1,362,685\nPost origination services 670,440 174,255 204,336\nFinancing services 59,658 524,840 278,783\nOthers 469,780 379,431 113,928\nSubtotal 2,529,598 3,184,302 1,959,732\nHolistic wealth segment:\nAccount management services 921,779 _— _\nInsurance brokerage services 430,830 755,691 731,797\nOthers 79,755 504,822 440,195\nSubtotal 1,432,364 1,260,513 1,171,992\nOther segment:\nElectronic commerce services _ 33,114 302,896\nSubtotal - 33,114 302,896\nTotal net revenue 3,961,962 4,477,929 3,434,620\n\f",
             "275": "Years ended December 31,\n\n2020 2021 2022\n\nRMB RMB RMB\nCustomers acquisition and referral service 138,438 442,570 409,688\nTechnical services _— 85,832 —\nPost-loan management services — 44,586 —\nOthers services 7,004 170 1,322\nTotal revenue 145,442 573,158 411,010\n\f"
         },
-        "total_revenue": "Not found",
-        "confidence": 1
+        "total_revenue": 411010,
+        "confidence": 1,
+        "segments": {
+            "Loan facilitation services": {
+                "2020": 1329720,
+                "2021": 2105776,
+                "2022": 1362685
+            },
+            "Post-origination services": {
+                "2020": 670440,
+                "2021": 174255,
+                "2022": 204336
+            },
+            "Account management services": {
+                "2020": 921779,
+                "2021": 0,
+                "2022": 0
+            },
+            "Insurance brokerage services": {
+                "2020": 430830,
+                "2021": 755691,
+                "2022": 731797
+            },
+            "Financing services": {
+                "2020": 59658,
+                "2021": 524840,
+                "2022": 278783
+            },
+            "Electronic commerce services": {
+                "2020": 0,
+                "2021": 33114,
+                "2022": 302896
+            },
+            "Others": {
+                "2020": 549535,
+                "2021": 884253,
+                "2022": 554123
+            }
+        }
     },
     "c0e7960f-57eb-3e38-820b-316c530dfccd": {
         "tables": {
             "194": "For the Year Ended December 31,\n2021 2022\nRMB % RMB US$ %\n(in thousands, except for percentages)\n\nNet revenues\n\nLoan facilitation service—Direct Model 2,545,432 70.2 % 2,044,344 296,402 57.4 %\n\nLoan facilitation service—Intermediary Model 161 0.0 % _— _— —%\n\nPost-origination service 315,590 8.7 % 372,451 54,000 10.5%\n\nFinancing income 671,901 18.5% 966,277 140,097 27.1%\n\nOther revenue 93,381 2.6 % 179,878 26,080 5.0 %\nTotal net revenue 3,626,465 100 % 3,562,950 516,579 100.0%\n\f",
             "198": "For the Year Ended December 31,\n2020 2021\nRMB % RMB US$ %\n(in thousands, except for percentages)\nNet revenues\n\nLoan facilitation service—Direct Model 1,266,533 57.8 % 2,545,432 399,434 70.2 %\nLoan facilitation service—Intermediary Model 41,373 1.9 % 161 25 0.0 %\nPost-origination service 203,842 9.3% 315,590 49,523 8.7 %\nFinancing income 612,863 27.9 % 671,901 105,436 18.5 %\nOther revenue 68,346 3.1% 93,381 14,654 2.6 %\nTotal net revenue 2,192,957 100.0% 3,626,465 569,072 100 %\n\f"
         },
-        "total_revenue": "3,562,950 RMB (in thousands)",
-        "confidence": 1
+        "total_revenue": 3562950,
+        "confidence": 1,
+        "segments": {
+            "Loan facilitation service—Direct Model": {
+                "2020": 1266533,
+                "2021": 2545432,
+                "2022": 2044344
+            },
+            "Loan facilitation service—Intermediary Model": {
+                "2020": 41373,
+                "2021": 161,
+                "2022": 0
+            },
+            "Post-origination service": {
+                "2020": 203842,
+                "2021": 315590,
+                "2022": 372451
+            },
+            "Financing income": {
+                "2020": 612863,
+                "2021": 671901,
+                "2022": 966277
+            },
+            "Other revenue": {
+                "2020": 68346,
+                "2021": 93381,
+                "2022": 179878
+            }
+        }
     },
     "c4c0e881-7735-3005-b23b-3a90aa39294d": {
         "tables": {
             "77": "2022 2021\nOperating Operating Changes\nrevenue revenue In\nRMB Percentage RMB Percentage revenue\nmillion % million % %\nTraffic revenue 80,901 92.93 95,279 93.74 (15.09)\nIncluding: Passenger revenue 60,017 75,392 (20.39)\n— Domestic 49,723 68,656 (27.58)\n— Hong Kong, Macau and Taiwan 466 223 108.97\n— International 9,828 6,513 50.90\nCargo and mail revenue 20,884 19,887 5.01\nOther operating revenue 6,158 7.07 6,365 6.26 (3.25)\nMainly including:\nCommission income 2,073 2,677 (22.56)\nCargo handling income 1,123 864 29.98\nGround services income 282 326 (13.50)\nGeneral aviation income 431 572 (24.65)\nHotel and tour operation income 497 538 (7.62)\nTotal operating revenue 87,059 100.00 101,644 100.00 (14.35)\n2022 2021\nTraffic Traffic Changes\nrevenue revenue in traffic\nRMB Percentage RMB Percentage revenue\nmillion % million % %\nPassenger revenue 60,017 74.19 75,392 79.13 (20.39)\nCargo and mail revenue 20,884 25.81 19,887 20.87 5.01\nTraffic revenue 80,901 100.00 95,279 100.00 (15.09)\n\f"
         },
-        "total_revenue": "87,059 million RMB",
-        "confidence": 0.95
+        "total_revenue": 87059,
+        "confidence": 0.95,
+        "segments": {
+            "Traffic revenue": {
+                "2021": 95279,
+                "2022": 80901
+            },
+            "Passenger revenue": {
+                "2021": 75392,
+                "2022": 60017
+            },
+            "Cargo and mail revenue": {
+                "2021": 19887,
+                "2022": 20884
+            },
+            "Other operating revenue": {
+                "2021": 6365,
+                "2022": 6158
+            },
+            "Commission income": {
+                "2021": 2677,
+                "2022": 2073
+            },
+            "Cargo handling income": {
+                "2021": 864,
+                "2022": 1123
+            },
+            "Ground services income": {
+                "2021": 326,
+                "2022": 282
+            },
+            "General aviation income": {
+                "2021": 572,
+                "2022": 431
+            },
+            "Hotel and tour operation income": {
+                "2021": 538,
+                "2022": 497
+            }
+        }
     },
     "c22d1270-ca35-3430-9b02-b67fc98ce5bc": {
         "tables": {
-            "116": "2020 2021 2022\nRMB % RMB % RMB US$ %\nInitial franchise fee 61,051 9.0 76,263 9.8 42,424 6,151 7.3\nRecurring franchise management fee 616,430 91.0 698,096 90.2 540,017 78,295 92.7\nRevenues from franchised-and- managed hotels 677,481 100.0 774,359 100.0 582,441 84,446 100.0\n\f",
             "219": "Years Ended December 31,\n\n2020 2021 2022 2022\n\nRMB RMB RMB USD\nLeased and operated hotels revenues 227,074,041 391,960,031 338,506,220 49,078,788\nFranchise and managed hotels revenues 677,480,818 774,359,348 582,441,077 84,446,018\nInitial franchise fee 61,051,369 76,263,574 42,423,951 6,150,894\nContinuing franchise fees 616,429,449 698,095,774 540,017,126 78,295,124\nOthers 25,455,237 39,826,579 15,853,985 2,298,612\nTotal 930,010,096 1,206,145,958 936,801,282 135,823,418\n\f"
         },
-        "total_revenue": "135,823,418 US$",
-        "confidence": 1
+        "total_revenue": 135823418,
+        "confidence": 1,
+        "segments": {
+            "Leased and operated hotels revenues": {
+                "2020": 227074041,
+                "2021": 391960031,
+                "2022": 338506220
+            },
+            "Franchise and managed hotels revenues": {
+                "2020": 677480818,
+                "2021": 774359348,
+                "2022": 582441077
+            },
+            "Initial franchise fee": {
+                "2020": 61051369,
+                "2021": 76263574,
+                "2022": 42423951
+            },
+            "Continuing franchise fees": {
+                "2020": 616429449,
+                "2021": 698095774,
+                "2022": 540017126
+            },
+            "Others": {
+                "2020": 25455237,
+                "2021": 39826579,
+                "2022": 15853985
+            }
+        }
     },
     "cb23fa37-4b14-386b-ba0d-6b154174ff5b": {
         "tables": {
             "126": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands, except for percentages)\n\nNet revenues\n\nSegment\n\n-Color Cosmetics Brands 4,919,317 94.0 4,869,279 83.4 2,415,500 350,215 65.2\n-Skincare Brands 200,819 3.8 855,241 14.6 1,241,528 180,005 33.5\n-Others 113,034 2.2 115,453 2.0 49,094 7,117 1.3\nTotal net revenues 5,233,170 100.0 5,839,973 100.0 3,706,122 537,337 100.0\n\n123\n\f",
             "127": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands, except for percentages)\n\nNet revenues\n\nSales of product by channel\n\n-Sales to end customers 4,548,804 86.9 4,878,453 83.5 3,145,807 456,099 84.9\n-Sales to distributor customers 678,873 13.0 941,322 16.1 546,543 79,241 14.7\n-Others 5,493 0.1 20,198 0.4 13,772 1,997 0.4\nTotal net revenues 5,233,170 100.0 5,839,973 100.0 3,706,122 537,337 100.0\n\f"
         },
-        "total_revenue": "3,706,122 RMB (in thousands)",
-        "confidence": 1
+        "total_revenue": {
+            "RMB": 3706122,
+            "US$": 537337
+        },
+        "confidence": 1,
+        "segments": {
+            "Color Cosmetics Brands": {
+                "2020": 4919317,
+                "2021": 4869279,
+                "2022": 350215
+            },
+            "Skincare Brands": {
+                "2020": 200819,
+                "2021": 855241,
+                "2022": 180005
+            },
+            "Others": {
+                "2020": 113034,
+                "2021": 115453,
+                "2022": 7117
+            }
+        }
     },
     "cc0a0543-a4fd-3821-a047-39e6a023be8f": {
         "tables": {
             "263": "For the years ending December 31,\n2023 2024 Total\nRMB RMB RMB\nRevenue expected to be recognized on these contracts 6,691 7,360 14,051\n\f",
             "278": "Year Ended December 31,\n2020 2021 2022\nRMB RMB RMB\nTuition fee 1,786,230 2,281,098 2,316,428\nCertification service fee 41,961 60,892 123,064\nLoan referral service fee 7,801 6,332 691\nOthers 53,135 37,383 20,749\nBusiness taxes and surcharges (4,252) (7,070) (5,361)\nTotal net revenues 1,884,875 2,378,635 2,455,571\nOthers mainly include AI and software development revenues, franchise fee and miscellaneous revenues.\nYear Ended December 31,\n2020 2021 2022\nRMB RMB RMB\nTiming of revenue recognition\nServices transferred at a point in time 102,897 104,607 144,504\nServices transferred over time 1,781,978 2,274,028 2,311,067\nTotal net revenues 1,884,875 2,378,635 2,455,571\n(b) Net revenues recognized under ASC Topic 460 for the years ended December 31, 2020, 2021 and 2022 consist of the following:\nYear Ended December 31,\n2020 2021 2022\nRMB RMB RMB\nGuarantee service 13,008 7,885 12,503\n\f"
         },
-        "total_revenue": "2,455,571 RMB (in thousands)",
-        "confidence": 0.95
+        "total_revenue": 2455571,
+        "confidence": 0.9,
+        "segments": {
+            "Tuition fee": {
+                "2020": 1786230,
+                "2021": 2281098,
+                "2022": 2316428
+            },
+            "Certification service fee": {
+                "2020": 41961,
+                "2021": 60892,
+                "2022": 123064
+            },
+            "Loan referral service fee": {
+                "2020": 7801,
+                "2021": 6332,
+                "2022": 691
+            },
+            "Others": {
+                "2020": 53135,
+                "2021": 37383,
+                "2022": 20749
+            },
+            "Business taxes and surcharges": {
+                "2020": -4252,
+                "2021": -7070,
+                "2022": -5361
+            },
+            "Guarantee service": {
+                "2020": 13008,
+                "2021": 7885,
+                "2022": 12503
+            }
+        }
     },
     "e73300b6-d21f-3cdb-88e8-cd2671ade899": {
         "tables": {
             "166": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands, except for percentages)\n\nNet revenues:\n\nMobile games 4,803,382 40.0% 5,090,926 26.3% 5,021,290 728,019 22.9%\n\nVAS 3,845,663 32.0% 6,934,886 35.8% 8,715,170 1,263,581 39.8%\n\nAdvertising 1,842,772 15.4% 4,523,421 23.38% 5,066,212 734,532 23.1%\n\nE-commerce and others 1,507,159 12.6% 2,834,451 14.6% 3,096,495 448,949 14.2%\nTotal net revenues 11,998,976 100.0% 19,383,684 100.0% 21,899,167 3,175,081 100.0%\n\f",
             "283": "For the Year Ended December 31,\n2020 2021 2022\n“* RMBinthousands—™\nMobile games 4,803,382 5,090,926 5,021,290\nValue-added services 3,845,663 6,934,886 8,715,170\nAdvertising 1,842,772 4,523,421 5,066,212\nE-commerce and others 1,507,159 2,834,451 3,096,495\nTotal net revenues 11,998,976 19,383,684 21,899,167\n\f"
         },
-        "total_revenue": "21,899,167 RMB (in thousands)",
-        "confidence": 1
+        "total_revenue": 21899167,
+        "confidence": 1,
+        "segments": {
+            "Mobile games": {
+                "2020": 4803382,
+                "2021": 5090926,
+                "2022": 728019
+            },
+            "VAS": {
+                "2020": 3845663,
+                "2021": 6934886,
+                "2022": 1263581
+            },
+            "Advertising": {
+                "2020": 1842772,
+                "2021": 4523421,
+                "2022": 734532
+            },
+            "E-commerce and others": {
+                "2020": 1507159,
+                "2021": 2834451,
+                "2022": 448949
+            }
+        }
     },
     "edb4cfee-ad54-33ee-b766-a991aeec7fe9": {
         "tables": {
             "211": "The following customers individually accounted for 10% or more of revenues:\nYear ended December 31,\n2020 2021 2022\nCustomer A $ 369,333 $ 532,129 $ 1,379,796\nCustomer B 67,431 230,088 614,698\nCustomer C ke ua 529,037\nCustomer D * 268,466 516,634\n* Represents less than 10%\nF-35\n\f"
         },
-        "total_revenue": "2,511,135",
-        "confidence": 0.7
+        "total_revenue": "Not found",
+        "confidence": 0.7,
+        "segments": {
+            "Customer A": {
+                "2020": 369333,
+                "2021": 532129,
+                "2022": 1379796
+            },
+            "Customer B": {
+                "2020": 67431,
+                "2021": 230088,
+                "2022": 614698
+            },
+            "Customer C": {
+                "2020": 529037
+            },
+            "Customer D": {
+                "2021": 268466,
+                "2022": 516634
+            }
+        }
     },
     "ef440f04-a4e7-3462-a9f0-1394d8dfebc9": {
         "tables": {
             "159": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands, except for percentages)\n\nRevenues\n\nOnline recruitment services to enterprise customers 1,927,178 99.1 4,219,026 99.1 4,461,282 646,825 98.9\n\nOthers 17,181 0.9 40,102 0.9 49,780 7,217 1.1\nTotal revenues 1,944,359 100.0 4,259,128 100.0 4,511,062 654,042 100.0\n\f",
             "281": "For the year ended December 31,\n\n2020 2021 2022\n\nRMB RMB RMB\nOnline recruitment services to enterprise customers 1,927,178 4,219,026 4,461,282\n—Key accounts 330,795 928,360 1,033,561\n—Mid-sized accounts 696,325 1,513,506 1,774,855\n—Small-sized accounts 900,058 1,777,160 1,652,866\nOthers 17,181 40,102 49,780\nTotal 1,944,359 4,259,128 4,511,062\n\f"
         },
-        "total_revenue": "4,511,062 RMB (in thousands)",
-        "confidence": 1
+        "total_revenue": 654042000,
+        "confidence": 1,
+        "segments": {
+            "Online recruitment services to enterprise customers": {
+                "2020": 1927178,
+                "2021": 4219026,
+                "2022": 4461282
+            },
+            "Others": {
+                "2020": 17181,
+                "2021": 40102,
+                "2022": 49780
+            }
+        }
     },
     "f29b8d26-64e9-38a3-ada1-bc457361b355": {
         "tables": {
-            "171": "For the Year Ended\nDecember 31,\n2020 2021 2022\nUS$ US$ US$\n(in thousands, except per share information)\nRevenue:\nLicensing and collaboration revenue 701 10,175 9,293\nExpenses:\nResearch and development expenses (33,538) (68,099) (81,340)\nAdministrative expenses (10,315) (14,440) (11,874)\nTotal operating expenses (43,853) (82,539) (93,214)\nLoss from operations (43,152) (72,364) (83,921)\nInterest income 629 76 378\nInterest expense (202) (364) (693)\nOther income, net 972 1,779 2,168\nForeign exchange gain (loss), net (645) (603) 2,555\nLoss before income tax (42,397) (71,476) (79,513)\nIncome tax expense _ (1,702) (459)\nNet loss attributable to Adagene Inc.’s shareholders (42,397) (73,178) (79,972)\nOther comprehensive income (loss):\nForeign currency translation adjustments, net of nil tax (6) 257 (755)\nTotal comprehensive loss attributable to Adagene Inc.’s shareholders (42,403) (72,921) (80,727)\nNet loss attributable to Adagene Inc.’s shareholders (42,397) (73,178) (79,972)\nAccretion of convertible redeemable preferred shares to redemption value (248) (28) _\nNet loss attributable to ordinary shareholders (42,645) (73,206) (79,972)\nWeighted average number of ordinary shares used in per share calculation:\n—Basic 15,951 50,032 54,135\n—Diluted 15,951 50,032 54,135\nNet loss per ordinary share\n—Basic (2.67) (1.46) (1.48)\n—Diluted (2.67) (1.46) (1.48)\n\f",
-            "172": "For the Year Ended\nDecember 31,\n2021 2022\nUS$ % US$ %\n(in thousands, except percentages)\nResearch and development expenses\nPayroll and other related costs of personnel 28,293 41.5% 24,093 29.6 %\nCosts related to clinical programs 15,278 22.4 % 29,384 36.2 %\nCosts related to clinical trials 8,371 12.3% 14,277 17.6%\nCMC and toxicology costs associated with the clinical programs 6,907 10.1% 15,107 18.6 %\nCosts related to preclinical testing of non-clinical programs 16,795 24.7 % 20,697 25.4 %\nCosts required to develop the product candidates 3,103 4.6% 2,216 2.7 %\nOther research and development expenses\n4,630 6.8 % 4,950 6.1%\nTotal 68,099 100 % 81,340 100 %\n\f",
-            "174": "For the years ended\nDecember 31,\n2020 2021 2022\nUS$ US$ US$\nGAAP net loss attributable to ordinary shareholders (42,645,392) (73,206,488) (79,971,847)\nAdd back:\nShare-based compensation expense 10,129,541 18,679,658 10,520,282\nAccretion of convertible redeemable preferred shares to redemption value 248,113 28,553 _\nNon-GAAP net loss attributable to ordinary shareholders (32,267,738) (54,498,277) (69,451,565)\nWeighted average number of ordinary shares used in per share calculation:\n—Basic 15,950,698 50,032,009 54,135,084\n—Diluted 15,950,698 50,032,009 54,135,084\nNon-GAAP net loss per ordinary share\n—Basic (2.02) (1.09) (1.28)\n—Diluted (2.02) (1.09) (1.28)\n\f",
             "227": "PUR THE FEANS ENDED VDEURMWIBDERN O11, 2U4U, 2GU41L AND 20424\nFor the years ended\nDecember 31,\nNotes 2020 2021 2022\nUS$ US$ US$\nRevenue\n\nLicensing and collaboration revenue 10 700,913 10,175,258 9,292,724\nExpenses\n\nResearch and development expenses (33,538,035) (68,099,385) (81,339,540)\n\nThird parties (23,645,740) (55,020,367) (46,212,077)\nRelated parties (9,892,295) (13,079,018) (35,127,463)\n\nAdministrative expenses (10,314,536) (14,439,962) (11,873,867)\nLoss from operations (43,151,658) (72,364,089) (83,920,683)\n\nInterest income 629,288 76,166 377,501\n\nInterest expense (202,165) (363,762) (693,323)\n\nOther income, net 971,949 1,778,822 2,168,388\n\nForeign exchange gain (loss), net (644,693) (603,459) 2,555,325\nLoss before income tax (42,397,279) (71,476,322) (79,512,792)\n\nIncome tax expense 11 _— (1,701,613) (459,055)\nNet loss attributable to Adagene Inc.’s shareholders (42,397,279) (73,177,935) (79,971,847)\nOther comprehensive income (loss)\n\nForeign currency translation adjustments, net of nil tax (6,087) 257,000 (755,324)\nTotal comprehensive loss attributable to Adagene Inc.’s shareholders (42,403,366) (72,920,935) (80,727,171)\nNet loss attributable to Adagene Inc.’s shareholders (42,397,279) (73,177,935) (79,971,847)\n\nAccretion of convertible redeemable preferred shares to redemption value 8 (248,113) (28,553) _—\nNet loss attributable to ordinary shareholders (42,645,392) (73,206,488) (79,971,847)\nWeighted average number of ordinary shares used in per share calculation:\n\n—Basic 12 15,950,698 50,032,009 54,135,084\n\n—Diluted 12 15,950,698 50,032,009 54,135,084\nNet loss per ordinary share\n\n—Basic 12 (2.67) (1.46) (1.48)\n\n—Diluted 12 (2.67) (1.46) (1.48)\n\f"
         },
-        "total_revenue": "9,292,724 US$ (in thousands)",
-        "confidence": 0
+        "total_revenue": "Not found",
+        "confidence": 0.1,
+        "segments": {
+            "Licensing and collaboration revenue": {
+                "2020": 10700913,
+                "2021": 10175258,
+                "2022": 9292724
+            }
+        }
     },
     "f90fff09-95a4-3a6d-b7e9-7e5f5e493ec7": {
         "tables": {
             "171": "RMB\n2023\n2024\n2025\n2026\n2027 and thereafter 302,0'\nTotal 302.0\n\f"
         },
-        "total_revenue": "302.0 RMB million",
-        "confidence": 0.9
-    }
+        "total_revenue": 302,
+        "confidence": 0.9,
+        "segments": {
+            "RMB": {
+                "2023": 0,
+                "2024": 0,
+                "2025": 0,
+                "2026": 0,
+                "2027 and thereafter": 302
+            }
+        }
+    },
+    "time_taken": 6343.992026805878
 }
