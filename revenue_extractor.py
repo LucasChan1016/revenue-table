@@ -42,7 +42,7 @@ def convert_json(text: str) -> dict:
     # Use regular expression to extract the JSON string inside the Markdown code block
     json_match = re.search(r"```json\n(.*?)\n```", text, re.DOTALL)
     if not json_match:
-        return {}
+        return {"Not Matched": None}
 
     json_str = json_match.group(1)
 
@@ -50,7 +50,7 @@ def convert_json(text: str) -> dict:
     try:
         data = json.loads(json_str)
     except json.JSONDecodeError as e:
-        return {}
+        return {"Not Loaded": None}
 
     return data
 
@@ -139,15 +139,15 @@ class RevenueExtractor:
 
         self.confidence = 0
         self.table_results = {}
-        self.all_tables_text = ""
+        self.all_tables_text = None
 
         # for total revenue extraction
-        self.total_revenue_prompt = "You are a finance expert. You are given a revenue table in a text format extracted from an annual report. Your task is to return the total revenue for the most recent year, with the corresponding unit, such as US or RMB, and exact value. You also need to output the corresponding scale, such as thousands or million. You must output the total revenue in a json format: {'total_revenue': value}"
+        self.total_revenue_prompt = "You are a finance expert. You are given a revenue table in a text format extracted from an annual report. Your task is to return the total revenue for the most recent year, with the corresponding unit, such as US or RMB, and exact value. You also need to output the corresponding scale, such as thousands or millions. You must output the total revenue in a json format: {'total_revenue': value in string}"
 
         self.total_revenue = ""
 
         # for segments extraction
-        self.segment_prompt = "You are a finance expert. You are given a revenue table in a text format extracted from an annual report. Your task is to return the segments that form the revenue, and the corresponding values with the exact value and unit such as RMB or US, and in thousands or millions. Please extract the information from only one table, without combining the results of all the tables. You must output all the segments in a json format: {'segment_name': {'year 1': value, 'year 2': 'value'}}. No need to output other information."
+        self.segment_prompt = "You are a finance expert. You are given a revenue table in a text format extracted from an annual report. Your task is to return the segments that form the revenue and the corresponding values. Please extract the information from only one table, without combining the results of all the tables. You must output all the segments in a valid json format: {'segment_name': {'year 1': value, 'year 2': 'value'}}. No need to output other information."
 
         self.segments = {}
 
@@ -222,6 +222,9 @@ class RevenueExtractor:
         return table_results, max_confidence
 
     def extract_total_revenue(self) -> str:
+        if not self.all_tables_text:
+            self.extract_revenue_table()
+
         response = self._llm.chat.completions.create(
             model="deepseek-chat",
             messages=[
@@ -242,6 +245,9 @@ class RevenueExtractor:
         return total_revenue
 
     def extract_segments(self) -> Dict[str, Dict[str, str]]:
+        if not self.all_tables_text:
+            self.extract_revenue_table()
+
         response = self._llm.chat.completions.create(
             model="deepseek-chat",
             messages=[
@@ -253,12 +259,14 @@ class RevenueExtractor:
         )
 
         output = response.choices[0].message.content
+        
+        print(output)
 
         segments = convert_json(output)
         self.segments = segments
 
         return segments
-    
+
     def extract_sentences(self):
         segment_names = list(self.segments.keys())
 
@@ -269,7 +277,7 @@ class RevenueExtractor:
         for page_num, page in enumerate(document):
             page_num += 1
             text = page.get_textpage().extractText()
-            
+
             for name in segment_names:
                 if name in text:
                     # print(f"Segment '{name}' found on page {page_num}")
@@ -277,9 +285,11 @@ class RevenueExtractor:
 
 
 if __name__ == "__main__":
-    pdf_path = "pdf_sample/a9ce0cd7-2166-3317-af23-5dd3c11d3e53.pdf"
+    pdf_path = "pdf_sample/9a3cb882-bf64-3506-a4f5-01e244e07bbe.pdf"
     api_key = "sk-436808c023b34f4185c96d8d438aa4a3"
     extractor = RevenueExtractor(pdf_path, api_key)
+
+    one_result = {}
 
     start = time.time()
 
@@ -301,17 +311,37 @@ if __name__ == "__main__":
 
     print(f"Final confidence : {confidence}")
 
+    time_taken = time.time() - start
+    
+    one_result["pdf_path"] = pdf_path
+    one_result["tables"] = results
+    one_result["total_revenue"] = total_revenue
+    one_result["confidence"] = confidence
+    one_result["segments"] = segments
+    one_result["time_taken"] = time_taken
+
+    with open("one_result.json", "w") as f:
+        json.dump(one_result, f)
+
+    ######################################################################################
+
     # final_results = {}
     # for pdf in natsorted(os.listdir("pdf_sample")):
     #     pdf_path = f"pdf_sample/{pdf}"
+    #     pdf_name = pdf.split(".")[0]
+
     #     extractor = RevenueExtractor(pdf_path, api_key)
     #     results, confidence = extractor.extract_revenue_table()
     #     total_revenue = extractor.extract_total_revenue()
     #     segments = extractor.extract_segments()
-    #     final_results[pdf.split(".")[0]] = {"tables": results, "total_revenue": total_revenue, "confidence": confidence, "segments": segments}
+
+    #     final_results[pdf_name] = {"tables": results, "total_revenue": total_revenue, "confidence": confidence, "segments": segments}
     #     print("Finished processing: ", pdf)
+
+    # time_taken = time.time() - start
+    # final_results["time_taken"] = time_taken
+
+    # print("Time taken: ", time_taken)
 
     # with open("final_results.json", "w") as f:
     #     json.dump(final_results, f)
-
-    print("Time taken: ", time.time() - start)
