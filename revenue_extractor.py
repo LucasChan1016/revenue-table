@@ -50,6 +50,7 @@ def convert_json(text: str) -> dict:
     try:
         data = json.loads(json_str)
     except json.JSONDecodeError as e:
+        # print(e)
         return {"Not Loaded": None}
 
     return data
@@ -103,7 +104,7 @@ def filter_pages(pdf_path: str) -> Dict[int, Boxes]:
                 )
                 # and re.search(r"(as a percentage|in absolute amounts)", text)
             )
-        )
+        ) and "deferred tax" not in text.lower()
 
     document = fitz.open(pdf_path)
     filtered_pages = {}
@@ -127,6 +128,19 @@ def filter_pages(pdf_path: str) -> Dict[int, Boxes]:
     return filtered_pages
 
 
+def get_segment_info_pages(document) -> list:
+    segment_infos_pages = []
+
+    for page_num, page in enumerate(document):
+        page_num += 1
+        text = page.get_textpage().extractText()
+
+        if "segment information" in text.lower():
+            segment_infos_pages.append(page_num)
+
+    return segment_infos_pages
+
+
 class RevenueExtractor:
     def __init__(self, pdf_path: str, llm_api_key: str):
         self.pdf_path = pdf_path
@@ -147,9 +161,17 @@ class RevenueExtractor:
         self.total_revenue = ""
 
         # for segments extraction
-        self.segment_prompt = "You are a finance expert. You are given a revenue table in a text format extracted from an annual report. Your task is to return the segments that form the revenue and the corresponding values. Please extract the information from only one table, without combining the results of all the tables. You must output all the segments in a valid json format: {'segment_name': {'year 1': value, 'year 2': 'value'}}. No need to output other information."
+        self.segment_prompt = "You are a finance expert. You are given a revenue table in a text format extracted from an annual report. Your task is to return the segments that form the revenue and the corresponding values. Please extract the information from only one table, without combining the results of all the tables. You must output all the segments in a valid json format: {'segment_name': {'year 1': 'value in string', 'year 2': 'value in string'}}. No need to output other information."
 
-        self.segments = {}
+        self.segments = None
+
+        # for segment sentences extraction
+        self.segment_sentence_prompt = (
+            lambda text: "You are a finance expert. You are given a page of segment information extracted from an annual report, and a particular segment name. Your task is to return the sentences that describe the particular segments. Please extract the information from only one page. You must output all the sentences in a json format: {'segment_name': sentences in list format}. No need to output other information."
+            + f"\n\n the segment information page: \n{text}"
+        )
+
+        self.segment_sentences = None
 
     def extract_revenue_table(self) -> Tuple[Dict[int, str], float]:
         filtered_pages = filter_pages(self.pdf_path)
@@ -259,7 +281,7 @@ class RevenueExtractor:
         )
 
         output = response.choices[0].message.content
-        
+
         print(output)
 
         segments = convert_json(output)
@@ -267,25 +289,51 @@ class RevenueExtractor:
 
         return segments
 
-    def extract_sentences(self):
+    def extract_sentences(self) -> dict:
+        if not self.segments:
+            self.extract_segments()
         segment_names = list(self.segments.keys())
 
         document = fitz.open(self.pdf_path)
+        segment_infos_pages = get_segment_info_pages(document)
 
-        segments_pages = defaultdict(list)
+        segment_sentences = defaultdict(list)
+        
+        segment_details_pages = segment_infos_pages + list(self.table_results.keys())
 
-        for page_num, page in enumerate(document):
-            page_num += 1
-            text = page.get_textpage().extractText()
+        for page_num in segment_details_pages:
+            page = document[page_num - 1].get_textpage().extractText()
+            idx = page.lower().find("segment information")
+            if idx != -1:
+                page = page[idx:]
 
             for name in segment_names:
-                if name in text:
-                    # print(f"Segment '{name}' found on page {page_num}")
-                    segments_pages[name].append(page_num)
+                print(name)
+                response = self._llm.chat.completions.create(
+                    model="deepseek-chat",
+                    messages=[
+                        {
+                            "role": "system",
+                            "content": self.segment_sentence_prompt(page),
+                        },
+                        {"role": "user", "content": name},
+                    ],
+                    temperature=0,
+                    stream=False,
+                )
+
+                output = response.choices[0].message.content
+                output_json = convert_json(output)
+
+                segment_sentences[name].append(output_json)
+
+        self.segment_sentences = segment_sentences
+
+        return dict(segment_sentences)
 
 
 if __name__ == "__main__":
-    pdf_path = "pdf_sample/9a3cb882-bf64-3506-a4f5-01e244e07bbe.pdf"
+    pdf_path = "pdf_sample/ab418d5e-c8f0-30b8-bbc2-e948702b71ac.pdf"
     api_key = "sk-436808c023b34f4185c96d8d438aa4a3"
     extractor = RevenueExtractor(pdf_path, api_key)
 
@@ -293,11 +341,11 @@ if __name__ == "__main__":
 
     start = time.time()
 
-    results, confidence = extractor.extract_revenue_table()
+    table_results, confidence = extractor.extract_revenue_table()
 
     print(pdf_path)
-    print(results)
-    for page_num, text in results.items():
+    print(table_results)
+    for page_num, text in table_results.items():
         print("-" * 50)
         print(f"Page {page_num}:")
         print(text)
@@ -309,15 +357,19 @@ if __name__ == "__main__":
     segments = extractor.extract_segments()
     print(f"Segments : {segments}")
 
+    segment_sentences = extractor.extract_sentences()
+    print(f"Segment sentences : {segment_sentences}")
+
     print(f"Final confidence : {confidence}")
 
     time_taken = time.time() - start
-    
+
     one_result["pdf_path"] = pdf_path
-    one_result["tables"] = results
+    one_result["tables"] = table_results
     one_result["total_revenue"] = total_revenue
     one_result["confidence"] = confidence
     one_result["segments"] = segments
+    one_result["segment_sentences"] = segment_sentences
     one_result["time_taken"] = time_taken
 
     with open("one_result.json", "w") as f:
