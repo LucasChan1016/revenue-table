@@ -9,6 +9,7 @@ import json
 
 import cv2
 import fitz
+import nltk
 import numpy as np
 import pytesseract
 from natsort import natsorted
@@ -20,6 +21,14 @@ from ultralyticsplus import YOLO
 
 logging.getLogger("openai").setLevel(logging.ERROR)
 logging.getLogger("httpx").setLevel(logging.ERROR)
+
+try:
+    # Check if 'punkt' tokenizer is available
+    nltk.data.find("tokenizers/punkt")
+    # print("Punkt tokenizer is already downloaded.")
+except LookupError:
+    # print("Punkt tokenizer not found. Downloading now...")
+    nltk.download("punkt")
 
 
 def load_table_model() -> YOLO:
@@ -145,6 +154,7 @@ class RevenueExtractor:
     def __init__(self, pdf_path: str, llm_api_key: str):
         self.pdf_path = pdf_path
         self._llm = OpenAI(api_key=llm_api_key, base_url="https://api.deepseek.com")
+        self.document = fitz.open(pdf_path)
 
         # for revenue table extraction
         self.crop_offset = 30
@@ -180,8 +190,12 @@ class RevenueExtractor:
         table_text_map = {}
 
         for page_num, tables in filtered_pages.items():
+            doc_text = self.document[page_num - 1].get_textpage().extractText()
+            doc_sentences = nltk.tokenize.sent_tokenize(doc_text)
+            doc_sentences = list(map(lambda x: x.replace("\n", " "), doc_sentences))
+            doc_sentences = filter(lambda x: "revenue" in x.lower(), doc_sentences)
+            
             image = pdf_page_to_image(pdf_path, page_num)
-            # print(image, page_num)
 
             image_array = np.array(image)
 
@@ -294,21 +308,20 @@ class RevenueExtractor:
             self.extract_segments()
         segment_names = list(self.segments.keys())
 
-        document = fitz.open(self.pdf_path)
-        segment_infos_pages = get_segment_info_pages(document)
+        segment_infos_pages = get_segment_info_pages(self.document)
 
         segment_sentences = defaultdict(list)
-        
+
         segment_details_pages = segment_infos_pages + list(self.table_results.keys())
 
         for page_num in segment_details_pages:
-            page = document[page_num - 1].get_textpage().extractText()
+            page = self.document[page_num - 1].get_textpage().extractText()
             idx = page.lower().find("segment information")
             if idx != -1:
                 page = page[idx:]
 
             for name in segment_names:
-                print(name)
+                # print(name)
                 response = self._llm.chat.completions.create(
                     model="deepseek-chat",
                     messages=[
@@ -351,29 +364,29 @@ if __name__ == "__main__":
         print(text)
         print("-" * 50)
 
-    total_revenue = extractor.extract_total_revenue()
-    print(f"Total revenue : {total_revenue}")
+    # total_revenue = extractor.extract_total_revenue()
+    # print(f"Total revenue : {total_revenue}")
 
-    segments = extractor.extract_segments()
-    print(f"Segments : {segments}")
+    # segments = extractor.extract_segments()
+    # print(f"Segments : {segments}")
 
-    segment_sentences = extractor.extract_sentences()
-    print(f"Segment sentences : {segment_sentences}")
+    # segment_sentences = extractor.extract_sentences()
+    # print(f"Segment sentences : {segment_sentences}")
 
-    print(f"Final confidence : {confidence}")
+    # print(f"Final confidence : {confidence}")
 
-    time_taken = time.time() - start
+    # time_taken = time.time() - start
 
-    one_result["pdf_path"] = pdf_path
-    one_result["tables"] = table_results
-    one_result["total_revenue"] = total_revenue
-    one_result["confidence"] = confidence
-    one_result["segments"] = segments
-    one_result["segment_sentences"] = segment_sentences
-    one_result["time_taken"] = time_taken
+    # one_result["pdf_path"] = pdf_path
+    # one_result["tables"] = table_results
+    # one_result["total_revenue"] = total_revenue
+    # one_result["confidence"] = confidence
+    # one_result["segments"] = segments
+    # one_result["segment_sentences"] = segment_sentences
+    # one_result["time_taken"] = time_taken
 
-    with open("one_result.json", "w") as f:
-        json.dump(one_result, f)
+    # with open("one_result.json", "w") as f:
+    #     json.dump(one_result, f)
 
     ######################################################################################
 
