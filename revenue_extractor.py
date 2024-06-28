@@ -193,7 +193,7 @@ class RevenueExtractor:
             doc_text = self.document[page_num - 1].get_textpage().extractText()
             doc_sentences = nltk.tokenize.sent_tokenize(doc_text)
             doc_sentences = list(map(lambda x: x.replace("\n", " "), doc_sentences))
-            doc_sentences = filter(lambda x: "revenue" in x.lower(), doc_sentences)
+            doc_sentences = list(filter(lambda x: "revenue" in x.lower(), doc_sentences))
             
             image = pdf_page_to_image(pdf_path, page_num)
 
