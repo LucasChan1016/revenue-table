@@ -1,33 +1,359 @@
 {
-    "pdf_path": "pdf_sample/9a3cb882-bf64-3506-a4f5-01e244e07bbe.pdf",
+    "pdf_path": "pdf_sample/ab418d5e-c8f0-30b8-bbc2-e948702b71ac.pdf",
     "tables": {
-        "114": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n\n\"___ (inthousands, except for percentages)”\n\nRevenues:\nAir mobility solutions 105,969 588 48,156 848 40,387 5,856 91.2\nSmart city management solutions 8,282 4.6 7,135 126 2,133 309 4.8\nAerial media solutions 65,656 36.5 1,100 1.9 1,341 194 3.0\nOthers 186 0.1 416 0.7 456 66 1.0\nTotal 180,093 100.0 56,807 100.0 44,317 6,425 100.0\n\f",
-        "210": "For the year ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\nPRC 164,153 91% 49,683 87% 33,975 4,926 77%\nWest Asia 2,124 1% - — 4,630 671 10%\nEurope 2,388 1% 2,199 4% 2,638 382 6%\nEast Asia 4,550 8% 4,404 8% 798 116 2%\nOther 6,878 4% 521 1% 2,276 330 5%\nTotal net revenues 180,093 100% 56,807 100% 44,317 6,425 100%\n\f",
-        "221": "For the year ended December 31,\n2020 2021 2022\n\n“RMB RMB RMB” ”°+&«JUSS\nRevenues - Products\nAir mobility solutions 105,351 46,854 38,061 5,519\nSmart city management solutions 8,282 7,135 2,133 309\nAerial media solutions 62,241 518 125 18\nOthers 186 416 456 66\nSubtotal-Products 176,060 54,923 40,775 5,912\nRevenues - Services\nAir mobility solutions 618 1,302 2,326 337\nAerial media solutions 3,415 582 1,216 176\nSubtotal-Services 4,033 1,884 3,542 513\nTotal Revenues 180,093 56,807 44,317 6,425\n\f"
+        "141": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands, except for percentages)\n\nNet revenue:\n\nLoan facilitation services 1,329,720 33.6 2,105,776 47.0 1,362,685 197,571 39.7\nPost-origination services 670,440 16.9 174,255 3.9 204,336 29,626 5.9\nAccount management service 921,779 23.3 _ _— _ _ _—\nInsurance brokerage services 430,830 10.9 755,691 16.9 731,797 106,101 21.3\nFinancing services 59,658 1.5 524,840 11.7 278,783 40,420 8.1\nElectronic commerce services _— — 33,114 0.7 302,896 43,916 8.8\nOthers 549,535 13.8 884,253 19.8 554,123 80,339 16.2\nTotal net revenue 3,961,962 100.0 4,477,929 100.0 3,434,620 497,973 100.0\n\n121\n\f",
+        "150": "For the Year Ended December 31,\n2020 2021 2022\nRMB % RMB % RMB US$ %\n(in thousands, except for percentages)\nConsumer credit segment:\nLoan facilitation services 1,329,720 33.6 2,105,776 47.0 1,362,685 197,571 39.7\nPost-origination services 670,440 16.9 174,255 3.9 204,336 29,626 5.9\nFinancing services 59,658 1.5 524,840 11.7 278,783 40,420 8.1\nOthers 469,780 11.9 379,431 8.5 113,928 16,517 3.4\nSubtotal 2,529,598 63.8 3,184,302 71.1 1,959,732 284,134 57.1\nHolistic wealth segment:\nAccount management services 921,779 23.3 _— _ _— _ _\nInsurance brokerage services 430,830 10.9 755,691 16.9 731,797 106,101 21.3\nOthers 79,755 2.0 504,822 11.3 440,195 63,822 12.8\nSubtotal 1,432,364 36.2 1,260,513 28.2 1,171,992 169,923 34.1\nOther segment:\nElectronic commerce services — — 33,114 0.7 302,896 43,916 8.8\nSubtotal - - 33,114 0.7 302,896 43,916 38.8\nTotal net revenue 3,961,962 100.0 4,477,929 100.0 3,434,620 497,973 100.0\n\f",
+        "188": "For the Year Ended December 31,\n\n2020 2021 2022\n\nRMB RMB RMB US$\nCustomers acquisition and referral services 138,438 442,570 409,688 59,399\nTechnical services _— 85,832 — _—\nPost-loan management services — 44,586 — —\nOther services 7,004 170 1,322 192\nTotal revenue 145,442 573,158 411,010 59,591\n\f",
+        "250": "2020 2021 2022\nRMB RMB RMB\nConsumer credit segment:\nLoan facilitation services 1,329,720 2,105,776 1,362,685\nPost origination services 670,440 174,255 204,336\nFinancing services 59,658 524,840 278,783\nOthers 469,780 379,431 113,928\nSubtotal 2,529,598 3,184,302 1,959,732\nHolistic wealth segment:\nAccount management services 921,779 _— _\nInsurance brokerage services 430,830 755,691 731,797\nOthers 79,755 504,822 440,195\nSubtotal 1,432,364 1,260,513 1,171,992\nOther segment:\nElectronic commerce services _ 33,114 302,896\nSubtotal - 33,114 302,896\nTotal net revenue 3,961,962 4,477,929 3,434,620\n\f",
+        "275": "Years ended December 31,\n\n2020 2021 2022\n\nRMB RMB RMB\nCustomers acquisition and referral service 138,438 442,570 409,688\nTechnical services _— 85,832 —\nPost-loan management services — 44,586 —\nOthers services 7,004 170 1,322\nTotal revenue 145,442 573,158 411,010\n\f"
     },
-    "total_revenue": "RMB 44,317,000 and US$ 6,425,000",
+    "total_revenue": "3,844,308 RMB (in thousands)",
     "confidence": 1,
     "segments": {
-        "Air mobility solutions": {
-            "2020": 105969,
-            "2021": 48156,
-            "2022": 40387
+        "Loan facilitation services": {
+            "2020": "1,329,720",
+            "2021": "2,105,776",
+            "2022": "1,362,685"
         },
-        "Smart city management solutions": {
-            "2020": 8282,
-            "2021": 7135,
-            "2022": 2133
+        "Post-origination services": {
+            "2020": "670,440",
+            "2021": "174,255",
+            "2022": "204,336"
         },
-        "Aerial media solutions": {
-            "2020": 65656,
-            "2021": 1100,
-            "2022": 1341
+        "Account management service": {
+            "2020": "921,779",
+            "2021": "0",
+            "2022": "0"
+        },
+        "Insurance brokerage services": {
+            "2020": "430,830",
+            "2021": "755,691",
+            "2022": "731,797"
+        },
+        "Financing services": {
+            "2020": "59,658",
+            "2021": "524,840",
+            "2022": "278,783"
+        },
+        "Electronic commerce services": {
+            "2020": "0",
+            "2021": "33,114",
+            "2022": "302,896"
         },
         "Others": {
-            "2020": 186,
-            "2021": 416,
-            "2022": 456
+            "2020": "549,535",
+            "2021": "884,253",
+            "2022": "554,123"
         }
     },
-    "time_taken": 131.41367530822754
+    "segment_sentences": {
+        "Loan facilitation services": [
+            {
+                "Not Matched": null
+            },
+            {
+                "Loan facilitation services": []
+            },
+            {
+                "Not Matched": null
+            },
+            {
+                "Loan facilitation services": [
+                    "The following table provides the amount of loans facilitated under our loan facilitation model during each of the periods presented and the corresponding accumulated M3+ Net Charge-off and M3+ Net Charge-off Rate data as of December 31, 2022 for the loans facilitated during each of the periods:",
+                    "For the Year Ended December 31, 2020, 2021, 2022, Loan facilitation services had net revenue of 1,329,720 RMB (33.6%), 2,105,776 RMB (47.0%), and 1,362,685 RMB (197,571 US$, 39.7%) respectively."
+                ]
+            },
+            {
+                "Loan facilitation services": [
+                    "Revenue from our consumer credit segment decreased by 38.5% to RMB1,959.7 million (US$284.1 million) in 2022 from RMB3,184.3 million in 2021, primarily due to the decrease in the weighted average transaction fee rate of small revolving loan products as a result of our business transition. In particular, revenue from our loan facilitation services was RMB1,362.7 million (US$197.6 million) in 2022, representing a 35.3% decrease from RMB2,105.8 million in 2021.",
+                    "Revenue from our consumer credit segment increased by 25.9% to RMB3,184.3 million in 2021 from RMB2,529.6 million in 2020, primarily driven by the growth in the volume of loans facilitated through our marketplace, which increased to RMB23,195.2 million in 2021 from RMB11,651.5 million in 2020. In particular, revenue from our loan facilitation services reached RMB2,105.8 million in 2021, representing a 58.4% increase from RMB1,329.7 million in 2020."
+                ]
+            },
+            {
+                "Loan facilitation services": []
+            },
+            {
+                "Loan facilitation services": [
+                    "The Group provides services as an online marketplace connecting borrowers and investors.",
+                    "The investors consist of individual investors and institutional investors.",
+                    "In 2020, the Group ceased to facilitate new loans to individual investors.",
+                    "The Group provides loan facilitation services, guarantee services and post-origination services (e.g. cash processing, collection for some lenders and SMS services).",
+                    "The Group has determined that it is not the legal lender or borrower in the loan origination and repayment process, but acts as an agent to bring the lender and the borrower together.",
+                    "Except for loans and payable to investors in the consolidated ABFE, loans and lease receivables arising from direct financing leases issued by the Group, the Group does not record the loans receivable or payable arising from the loans facilitated between the investors and borrowers on its platform.",
+                    "The Group charges fees on a monthly basis, and used to charge upfront or both.",
+                    "The Group also receives service fees contingent on future events (e.g., penalty fees for loan prepayment and late payment and other service fees, and etc.)."
+                ]
+            },
+            {
+                "Loan facilitation services": []
+            }
+        ],
+        "Post-origination services": [
+            {
+                "Not Matched": null
+            },
+            {
+                "Post-origination services": []
+            },
+            {
+                "Not Matched": null
+            },
+            {
+                "Post-origination services": [
+                    "Our revenues consist of revenues from loan facilitation services, post-origination services, account management services, insurance brokerage services, financing services, electronic commerce services, and others.",
+                    "Post-origination services: 670,440 16.9 174,255 3.9 204,336 29,626 5.9"
+                ]
+            },
+            {
+                "Post-origination services": [
+                    "Revenue from our consumer credit segment decreased by 38.5% to RMB1,959.7 million (US$284.1 million) in 2022 from RMB3,184.3 million in 2021, primarily due to the decrease in the weighted average transaction fee rate of small revolving loan products as a result of our business transition. In particular, revenue from our loan facilitation services was RMB1,362.7 million (US$197.6 million) in 2022, representing a 35.3% decrease from RMB2,105.8 million in 2021. Revenue from financing services was RMB278.8 million (US$40.4 million) in 2022, representing a 46.9% decrease from RMB524.8 million in 2021. Revenue from others was RMB113.9 million (US$16.5 million), representing a 70% decrease from RMB379.4 million in 2021. The decreases were partially offset by an increase of 17.3% in revenue from post-origination services from RMB174.3 million to RMB204.3 million (US$29.6 million) in 2022."
+                ]
+            },
+            {
+                "Post-origination services": []
+            },
+            {
+                "Post-origination services": [
+                    "The Group provides loan facilitation services, guarantee services and post-origination services (e.g. cash processing, collection for some lenders and SMS services).",
+                    "The Group charges fees on a monthly basis, and used to charge upfront or both. The Group also receives service fees contingent on future events (e.g., penalty fees for loan prepayment and late payment and other service fees, and etc.)."
+                ]
+            },
+            {
+                "Post-origination services": [
+                    "Post-loan management services",
+                    "—",
+                    "44,586",
+                    "—"
+                ]
+            }
+        ],
+        "Account management service": [
+            {
+                "Account management service": []
+            },
+            {
+                "Account management service": []
+            },
+            {
+                "Not Matched": null
+            },
+            {
+                "Account management service": [
+                    "Account management service 921,779 23.3 — — — — —"
+                ]
+            },
+            {
+                "Account management services": [
+                    "Account management services was RMB921.779 million in 2020, representing 23.3% of total net revenue.",
+                    "Revenue from our account management services decreased from RMB921.8 million in 2020 to nil in 2021."
+                ]
+            },
+            {
+                "Account management service": []
+            },
+            {
+                "Account management service": [
+                    "Account management services",
+                    "921,779",
+                    "—",
+                    "—"
+                ]
+            },
+            {
+                "Account management service": []
+            }
+        ],
+        "Insurance brokerage services": [
+            {
+                "Not Matched": null
+            },
+            {
+                "Insurance brokerage services": []
+            },
+            {
+                "Not Matched": null
+            },
+            {
+                "Insurance brokerage services": [
+                    "Insurance brokerage services",
+                    " 430,830  10.9  755,691  16.9  731,797  106,101  21.3"
+                ]
+            },
+            {
+                "Insurance brokerage services": [
+                    "Revenue from our holistic wealth segment decreased by 7.0% from RMB1,260.5 million in 2021 to RMB1,172.0 million (US$169.9 million) in 2022, primarily due to a 12.8% decrease in revenue from others from RMB504.8 million in 2021 to RMB440.2 million (US$63.8 million) in 2022, and a 3.2% decrease in revenue from insurance brokerage services from RMB755.7 million in 2021 to RMB731.8 million (US$106.1 million) in 2022.",
+                    "Revenue from our holistic wealth segment decreased by 12.0% from RMB1,432.4 million in 2020 to RMB1,260.5 million in 2021, primarily due to a 100% decrease in the revenue from our account management services from RMB921.8 million in 2020 to nil in 2021, partially offset by the increase in revenue from insurance brokerage services from RMB430.8 million in 2020 to RMB755.7 million in 2021."
+                ]
+            },
+            {
+                "Insurance brokerage services": []
+            },
+            {
+                "Insurance brokerage services": [
+                    "Insurance brokerage services",
+                    "430,830",
+                    "755,691",
+                    "731,797"
+                ]
+            },
+            {
+                "Insurance brokerage services": []
+            }
+        ],
+        "Financing services": [
+            {
+                "Financing services": []
+            },
+            {
+                "Financing services": []
+            },
+            {
+                "Financing services": []
+            },
+            {
+                "Financing services": [
+                    "Financing services 59,658 1.5 524,840 11.7 278,783 40,420 8.1"
+                ]
+            },
+            {
+                "Financing services": [
+                    "Revenue from financing services was RMB278.8 million (US$40.4 million) in 2022, representing a 46.9% decrease from RMB524.8 million in 2021.",
+                    "Revenue from our financing services was RMB524.8 million in 2021, representing a 779.7% increase from RMB59.7 million in 2020."
+                ]
+            },
+            {
+                "Financing services": []
+            },
+            {
+                "Financing services": [
+                    "Financing services 59,658 524,840 278,783"
+                ]
+            },
+            {
+                "Financing services": [
+                    "The information about loans received from/(repaid to) CreditEase, its subsidiaries and affiliates recorded in financing activities of the Company's consolidated statements of cash flows for the years ended December 31, 2020, 2021 and 2022 is as follows: Years ended December 31, 2020 RMB, 2021 RMB, 2022 RMB, Qichuang — — (43,000), Hengda Hongyuan (a) 361,500 (26,700) (139,000), Total 361,500 (26,700) (182,000). (a) Amounts related to transfer financial receivable to related party which only include principal, as discussed in Note 9."
+                ]
+            }
+        ],
+        "Electronic commerce services": [
+            {
+                "Electronic commerce services": []
+            },
+            {
+                "Electronic commerce services": [
+                    "Other segment primarily includes electronic commerce business launched in 2021."
+                ]
+            },
+            {
+                "Not Matched": null
+            },
+            {
+                "Electronic commerce services": [
+                    "Electronic commerce services",
+                    " —",
+                    " —",
+                    " 33,114",
+                    " 0.7",
+                    " 302,896",
+                    " 43,916",
+                    " 8.8"
+                ]
+            },
+            {
+                "Electronic commerce services": [
+                    "Electronic commerce services",
+                    "—",
+                    "—",
+                    " 33,114",
+                    " 0.7",
+                    " 302,896",
+                    " 43,916",
+                    " 8.8",
+                    "Subtotal",
+                    "—",
+                    "—",
+                    " 33,114",
+                    " 0.7",
+                    " 302,896",
+                    " 43,916",
+                    " 8.8"
+                ]
+            },
+            {
+                "Electronic commerce services": []
+            },
+            {
+                "Electronic commerce services": [
+                    "Electronic commerce services",
+                    "—",
+                    "33,114",
+                    "302,896"
+                ]
+            },
+            {
+                "Electronic commerce services": []
+            }
+        ],
+        "Others": [
+            {
+                "Others": [
+                    "Therefore, we added an “others” reportable segment in 2021.",
+                    "Others — 33,114 — 302,896 — 43,916",
+                    "Others — (10,340) — (84,832) — (12,300)",
+                    "Others — 22,774 — 218,064 — 31,616"
+                ]
+            },
+            {
+                "Others": [
+                    "Other segment primarily includes electronic commerce business launched in 2021."
+                ]
+            },
+            {
+                "Others": [
+                    "Others — nil, nil and RMB65 for the years ended December 31, 2020, 2021 and 2022, respectively.",
+                    "Others — (10,340) and (84,832) for the years ended December 31, 2021 and 2022, respectively.",
+                    "Others — 22,774 and 218,064 for the years ended December 31, 2021 and 2022, respectively.",
+                    "Others — 33,114 and 302,896 for the years ended December 31, 2021 and 2022, respectively."
+                ]
+            },
+            {
+                "Others": [
+                    "Others 549,535 13.8 884,253 19.8 554,123 80,339 16.2"
+                ]
+            },
+            {
+                "Others": [
+                    "Revenue from others was RMB113.9 million (US$16.5 million), representing a 70% decrease from RMB379.4 million in 2021.",
+                    "Revenue from others was RMB379.431 million in 2021, representing a 8.5% of total net revenue.",
+                    "Revenue from others was RMB469.780 million in 2020, representing a 11.9% of total net revenue.",
+                    "Revenue from others was RMB440.195 million (US$63.822 million) in 2022, representing a 12.8% of total net revenue.",
+                    "Revenue from others was RMB504.822 million in 2021, representing a 11.3% of total net revenue.",
+                    "Revenue from holistic wealth segment decreased by 7.0% from RMB1,260.5 million in 2021 to RMB1,172.0 million (US$169.9 million) in 2022, primarily due to a 12.8% decrease in revenue from others from RMB504.8 million in 2021 to RMB440.2 million (US$63.8 million) in 2022.",
+                    "Revenue from holistic wealth segment decreased by 12.0% from RMB1,432.4 million in 2020 to RMB1,260.5 million in 2021, primarily due to a 100% decrease in the revenue from our account management services from RMB921.8 million in 2020 to nil in 2021, partially offset by the increase in revenue from insurance brokerage services from RMB430.8 million in 2020 to RMB755.7 million in 2021."
+                ]
+            },
+            {
+                "Others": [
+                    "Other services",
+                    "Other services",
+                    "Other services",
+                    "Other services"
+                ]
+            },
+            {
+                "Others": [
+                    "Others 469,780  379,431  113,928",
+                    "Others 79,755  504,822  440,195",
+                    "Others also receives service fees contingent on future events (e.g., penalty fees for loan prepayment and late payment and other service fees, and etc.)."
+                ]
+            },
+            {
+                "Others": [
+                    "Others services 7,004 170 1,322",
+                    "Others 13,043 35,329"
+                ]
+            }
+        ]
+    },
+    "time_taken": 618.3471829891205
 }
